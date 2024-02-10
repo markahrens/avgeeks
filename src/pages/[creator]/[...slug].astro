@@ -17,12 +17,17 @@ export async function getStaticPaths() {
     }
     tripsPaths.push(t);
   })
-  console.log(tripsPaths);
+  
   return tripsPaths;
 }
 
 const { creator, slug } = Astro.params;
 const { trip } = Astro.props;
+const stops = await getEntries(trip.data.stops);
+
 ---
 
 <h1>{trip.data.name}</h1>
+{stops.map(stop => (
+  <p>{stop.data.name}</p>
+))}

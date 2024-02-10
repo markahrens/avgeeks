@@ -32,5 +32,6 @@ const trips = defineCollection({
 
 export const collections = {
   'creators': creators,
-  'locations': locations
+  'locations': locations,
+  'trips': trips
 };
