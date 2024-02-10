@@ -1,0 +1,28 @@
+---
+import { getCollection, getEntries } from 'astro:content';
+// 1. Generate a new path for every collection entry
+export async function getStaticPaths() {
+  const trips = await getCollection('trips');
+  const tripsPaths = new Array();
+  trips.forEach(trip => {
+    const path = trip.id.split('/');
+    let t = {
+      'params': {
+        'creator':path[0],
+        'slug':path[1]
+      },
+      'props': {
+        'trip':trip
+      }
+    }
+    tripsPaths.push(t);
+  })
+  console.log(tripsPaths);
+  return tripsPaths;
+}
+
+const { creator, slug } = Astro.params;
+const { trip } = Astro.props;
+---
+
+<h1>{trip.data.name}</h1>
