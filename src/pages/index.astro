@@ -1,11 +1,13 @@
 ---
 import { getCollection } from 'astro:content';
-const creators = await getCollection('creators');
+const trips = (await getCollection('trips')).sort(
+    (a, b) => b.data.postdate.valueOf() - a.data.postdate.valueOf()
+  );
 ---
 
 
 <ul>
-  {creators.map(creator => (
-		<li><a href=`/${creator.id}`>{creator.data.name}</a></li>
+  {trips.slice(0, 10).map(trip => (
+		<li>{trip.data.name}</li>
   ))}
 </ul>

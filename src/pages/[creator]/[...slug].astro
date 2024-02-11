@@ -1,6 +1,7 @@
 ---
+import { getEntry } from 'astro:content';
 import { getCollection, getEntries } from 'astro:content';
-// 1. Generate a new path for every collection entry
+
 export async function getStaticPaths() {
   const trips = await getCollection('trips');
   const tripsPaths = new Array();
@@ -24,10 +25,20 @@ export async function getStaticPaths() {
 const { creator, slug } = Astro.params;
 const { trip } = Astro.props;
 const stops = await getEntries(trip.data.stops);
+const creatorData = await getEntry('creators', creator);
+trip.data.postdate.setTime(trip.data.postdate.getTime() + (6*60*60*1000));
 
+const dateOptions: object = {
+	year: "numeric",
+	month: "long",
+	day: "numeric",
+	timezone: "America/Chicago"
+};
 ---
 
 <h1>{trip.data.name}</h1>
+<h2>{creatorData.data.name}</h2>
+<p>{trip.data.postdate.toLocaleDateString('en-US', dateOptions)}</p>
 {stops.map(stop => (
   <p>{stop.data.name}</p>
 ))}
