@@ -37,11 +37,13 @@ const dateOptions: object = {
 
 const pageTitle = trip.data.name + " | " + creatorData.data.name;
 ---
+
 <Layout title={pageTitle}>
   <h1>{trip.data.name}</h1>
   <h2>{creatorData.data.name}</h2>
   <p>{trip.data.postdate.toLocaleDateString('en-US', dateOptions)}</p>
   {stops.map(stop => (
+    // @ts-ignore
     <p>{stop.data.name}</p>
   ))}
 </Layout>
