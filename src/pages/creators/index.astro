@@ -1,0 +1,13 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import { getCollection } from 'astro:content';
+const creators = (await getCollection('creators'))
+---
+
+<Layout title="Creators">
+<ul>
+  {creators.map(creator => (
+		<li><a href=`/creators/${creator.id}`>{creator.data.name}</a></li>
+  ))}
+</ul>
+</Layout>

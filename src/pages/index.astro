@@ -1,13 +1,15 @@
 ---
+import Layout from '../layouts/Layout.astro';
 import { getCollection } from 'astro:content';
-const trips = (await getCollection('trips')).sort(
+const recentTrips = (await getCollection('trips')).sort(
     (a, b) => b.data.postdate.valueOf() - a.data.postdate.valueOf()
   );
 ---
 
-
+<Layout title="Home">
 <ul>
-  {trips.slice(0, 10).map(trip => (
+  {recentTrips.slice(0, 10).map(trip => (
 		<li>{trip.data.name}</li>
   ))}
 </ul>
+</Layout>

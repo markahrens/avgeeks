@@ -1,6 +1,6 @@
 ---
-import { getEntry } from 'astro:content';
-import { getCollection, getEntries } from 'astro:content';
+import Layout from '../../../layouts/Layout.astro';
+import { getCollection, getEntries, getEntry } from 'astro:content';
 
 export async function getStaticPaths() {
   const trips = await getCollection('trips');
@@ -34,11 +34,14 @@ const dateOptions: object = {
 	day: "numeric",
 	timezone: "America/Chicago"
 };
----
 
-<h1>{trip.data.name}</h1>
-<h2>{creatorData.data.name}</h2>
-<p>{trip.data.postdate.toLocaleDateString('en-US', dateOptions)}</p>
-{stops.map(stop => (
-  <p>{stop.data.name}</p>
-))}
+const pageTitle = trip.data.name + " | " + creatorData.data.name;
+---
+<Layout title={pageTitle}>
+  <h1>{trip.data.name}</h1>
+  <h2>{creatorData.data.name}</h2>
+  <p>{trip.data.postdate.toLocaleDateString('en-US', dateOptions)}</p>
+  {stops.map(stop => (
+    <p>{stop.data.name}</p>
+  ))}
+</Layout>
