@@ -1,5 +1,8 @@
 {
   "name":"Noel Philips",
   "link":"https://www.youtube.com/@noelphilips",
-  "trips": ["noel-philips/superfortress"]
+  "trips": [
+    "noel-philips/superfortress",
+    "noel-philips/condor-business-class"
+  ]
 }

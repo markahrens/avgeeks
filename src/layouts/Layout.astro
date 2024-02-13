@@ -30,7 +30,10 @@ const { title } = Astro.props;
 			</ul>
 
 		</nav>
-		<slot />
+		<main>
+			<slot />
+		</main>
+		
 	</body>
 </html>
 <style is:global>
@@ -90,5 +93,9 @@ const { title } = Astro.props;
 					padding: 4px;
 				};
 			}
+		}
+	}
+		main {
+			padding: 20px;
 		}
 </style>

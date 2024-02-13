@@ -36,11 +36,20 @@ const dateOptions: object = {
 };
 
 const pageTitle = trip.data.name + " | " + creatorData.data.name;
+
+let youtubeID;
+
+if (trip.data.link.includes('youtube.com')) {
+  const idIndex = trip.data.link.indexOf('v=');
+  youtubeID = trip.data.link.slice(idIndex+2);
+}
+
 ---
 
 <Layout title={pageTitle}>
   <h1>{trip.data.name}</h1>
   <h2>{creatorData.data.name}</h2>
+  {youtubeID && <img src=`https://img.youtube.com/vi/${youtubeID}/maxresdefault.jpg` />}
   <p>{trip.data.postdate.toLocaleDateString('en-US', dateOptions)}</p>
   {stops.map(stop => (
     // @ts-ignore
