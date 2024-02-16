@@ -24,7 +24,8 @@ const trips = defineCollection({
   type: 'data',
   schema: z.object({
     name: z.string(),
-    link: z.string().url(),
+    source: z.string(),
+    source_id: z.string(),
     type: z.string(),
     stops: z.array(reference('locations')),
     postdate:  z.string().transform((str) => new Date(str))

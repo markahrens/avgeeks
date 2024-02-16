@@ -1,0 +1,25 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import { getCollection } from 'astro:content';
+
+export async function getStaticPaths({ paginate }) {
+  const trips = await getCollection('trips');
+  return paginate(trips, { pageSize: 2 });
+}
+// All paginated data is passed on the "page" prop
+const { page } = Astro.props;
+const { prev, next} = page.url;
+---
+<Layout title="Trips">
+<h1>Trips</h1>
+
+{page.data.map(trip => (
+  <p><a href=`/creators/${trip.id}`>{trip.data.name}</a></p>
+))}
+
+<p>Posts {page.start + 1} to {page.end + 1}</p>
+<p>{page.size} posts per page</p>
+<p>Page {page.currentPage} of {page.lastPage}</p>
+<p><a href={next}>Next Page</a></p>
+<p><a href={prev}>Previous Page</a></p>
+</Layout>
