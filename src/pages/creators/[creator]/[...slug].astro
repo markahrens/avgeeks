@@ -22,7 +22,7 @@ export async function getStaticPaths() {
   return tripsPaths;
 }
 
-const { creator, slug } = Astro.params;
+const { creator } = Astro.params;
 const { trip } = Astro.props;
 const stops = await getEntries(trip.data.stops);
 const creatorData = await getEntry('creators', creator);

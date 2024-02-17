@@ -2,36 +2,42 @@
 import Layout from '../../layouts/Layout.astro';
 import TripCard from '../../components/TripCard.astro';
 import { getCollection } from 'astro:content';
+import type { CollectionEntry } from 'astro:content';
+import type { Page } from 'astro';
+
+interface Props {
+  page: Page<CollectionEntry<'trips'>>
+}
 
 export async function getStaticPaths({ paginate }) {
   const trips = (await getCollection('trips')).sort(
     (a, b) => b.data.postdate.valueOf() - a.data.postdate.valueOf()
   );
   return paginate(trips, { pageSize: 6 });
-}
+} 
+
+
+
 // All paginated data is passed on the "page" prop
 const { page } = Astro.props;
+// @ts-ignore
 const { prev, next} = page.url;
 ---
 <Layout title="Trips">
-<h1>Trips</h1>
-<div class="trips-listing">
-  {page.data.map(trip => (
-    <TripCard
-      trip_id={trip.id},
-      title={trip.data.name},
-      youtube_id={trip.data.source_id},
-      date={trip.data.postdate}
-    />
-  ))}
-</div>
+  <h1>Trips</h1>
+  <div class="trips-listing">
+    {page.data.map(trip => (
+      <TripCard
+        trip_id={trip.id},
+        title={trip.data.name},
+        youtube_id={trip.data.source_id},
+        date={trip.data.postdate}
+      />
+    ))}
+  </div>
 
-
-
-<p>Posts {page.start + 1} to {page.end + 1}</p>
-<p>{page.size} posts per page</p>
-<p>Page {page.currentPage} of {page.lastPage}</p>
-<p><a href={next}>Next Page</a></p>
-<p><a href={prev}>Previous Page</a></p>
+  <p>Posts {page.start + 1} to {page.end + 1}</p>
+  <p><a href={next}>Next Page</a></p>
+  <p><a href={prev}>Previous Page</a></p>
 </Layout>
 
