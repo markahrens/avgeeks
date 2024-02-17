@@ -29,7 +29,6 @@ export default function Leaflet(locations) {
       className='map-container'
       center={center}
       zoom={2}
-      style={{ height: 400, width: '100%' }}
       scrollWheelZoom={false}
     >
       <TileLayer

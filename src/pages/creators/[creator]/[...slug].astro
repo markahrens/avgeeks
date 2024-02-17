@@ -24,6 +24,7 @@ export async function getStaticPaths() {
 
 const { creator } = Astro.params;
 const { trip } = Astro.props;
+
 const stops = await getEntries(trip.data.stops);
 const creatorData = await getEntry('creators', creator);
 const tripDate = new Date(trip.data.postdate.getTime() + (6*60*60*1000));
@@ -37,6 +38,11 @@ const dateOptions: object = {
 
 const pageTitle = trip.data.name + " | " + creatorData.data.name;
 
+let youtube;
+
+if (trip.data.source == 'youtube') {
+  youtube = true;
+}
 
 ---
 
@@ -54,7 +60,7 @@ const pageTitle = trip.data.name + " | " + creatorData.data.name;
       </p>
     </div>
     <div>
-      {trip.data.source_id && <img src=`https://img.youtube.com/vi/${trip.data.source_id}/maxresdefault.jpg` />}
+      {youtube && <iframe src=`https://www.youtube.com/embed/${trip.data.source_id}` title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>}
     </div>
   </div>
   
@@ -71,5 +77,10 @@ const pageTitle = trip.data.name + " | " + creatorData.data.name;
    .locations span:not(:last-child):after {
       content: '➡';
       margin: 0 5px;
+  }
+  iframe {
+    width: 100%;
+    height: auto;
+    aspect-ratio: 16/9;
   }
 </style>
