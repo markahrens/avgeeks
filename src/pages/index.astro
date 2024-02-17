@@ -1,9 +1,13 @@
 ---
 import Layout from '../layouts/Layout.astro';
+import Leaflet from '../components/Leaflet.jsx';
+
 import { getCollection } from 'astro:content';
 const recentTrips = (await getCollection('trips')).sort(
     (a, b) => b.data.postdate.valueOf() - a.data.postdate.valueOf()
   );
+const locations = await getCollection('locations');
+
 ---
 
 <Layout title="Home">
@@ -12,4 +16,9 @@ const recentTrips = (await getCollection('trips')).sort(
 		<li>{trip.data.name}</li>
   ))}
 </ul>
+
+<div>
+  <Leaflet client:only="react" locations={locations}/>
+</div>
+
 </Layout>
