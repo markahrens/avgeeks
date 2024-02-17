@@ -26,7 +26,7 @@ const { creator, slug } = Astro.params;
 const { trip } = Astro.props;
 const stops = await getEntries(trip.data.stops);
 const creatorData = await getEntry('creators', creator);
-trip.data.postdate.setTime(trip.data.postdate.getTime() + (6*60*60*1000));
+const tripDate = new Date(trip.data.postdate.getTime() + (6*60*60*1000));
 
 const dateOptions: object = {
 	year: "numeric",
@@ -45,7 +45,7 @@ const pageTitle = trip.data.name + " | " + creatorData.data.name;
     <div>
       <h1>{trip.data.name}</h1>
       <h2>{creatorData.data.name}</h2>
-      <p>{trip.data.postdate.toLocaleDateString('en-US', dateOptions)}</p>
+      <p>{tripDate.toLocaleDateString('en-US', dateOptions)}</p>
       <p class="locations">
         {stops.map(stop => (
           // @ts-ignore

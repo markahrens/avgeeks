@@ -1,10 +1,13 @@
 ---
 import Layout from '../../layouts/Layout.astro';
+import TripCard from '../../components/TripCard.astro';
 import { getCollection } from 'astro:content';
 
 export async function getStaticPaths({ paginate }) {
-  const trips = await getCollection('trips');
-  return paginate(trips, { pageSize: 2 });
+  const trips = (await getCollection('trips')).sort(
+    (a, b) => b.data.postdate.valueOf() - a.data.postdate.valueOf()
+  );
+  return paginate(trips, { pageSize: 6 });
 }
 // All paginated data is passed on the "page" prop
 const { page } = Astro.props;
@@ -12,10 +15,18 @@ const { prev, next} = page.url;
 ---
 <Layout title="Trips">
 <h1>Trips</h1>
+<div class="trips-listing">
+  {page.data.map(trip => (
+    <TripCard
+      trip_id={trip.id},
+      title={trip.data.name},
+      youtube_id={trip.data.source_id},
+      date={trip.data.postdate}
+    />
+  ))}
+</div>
 
-{page.data.map(trip => (
-  <p><a href=`/creators/${trip.id}`>{trip.data.name}</a></p>
-))}
+
 
 <p>Posts {page.start + 1} to {page.end + 1}</p>
 <p>{page.size} posts per page</p>
@@ -23,3 +34,11 @@ const { prev, next} = page.url;
 <p><a href={next}>Next Page</a></p>
 <p><a href={prev}>Previous Page</a></p>
 </Layout>
+
+<style>
+  .trips-listing {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 40px;
+  }
+</style>

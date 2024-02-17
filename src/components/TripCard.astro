@@ -1,0 +1,61 @@
+---
+import { getEntry } from 'astro:content';
+
+interface Props {
+	title: string;
+	date: Date;
+	trip_id: string;
+	youtube_id?: string;
+}
+
+const { trip_id, title, date, youtube_id } = Astro.props;
+let image_path 
+if (youtube_id) {
+	image_path = "https://img.youtube.com/vi/" + youtube_id + "/mqdefault.jpg";
+}
+
+const path = trip_id.split('/');
+const creatorData = await getEntry('creators', path[0]);
+const tripDate = new Date(date.getTime() + (6*60*60*1000));
+
+const dateOptions: object = {
+	year: "numeric",
+	month: "long",
+	day: "numeric",
+	timezone: "America/Chicago"
+};
+---
+
+<div class="trip-card">
+	<a href=`/creators/${trip_id}`>
+		<img src={image_path} />
+		<p>
+			{creatorData.data.name} | {tripDate.toLocaleDateString('en-US', dateOptions)}
+		</p>
+		<h2>
+			{title}
+		</h2>
+
+	</a>
+</div>
+<style>
+	.trip-card {
+		display: flex;
+		padding: 1px;
+		background-color: var(--lightColor);
+		border-radius: 16px;
+		max-width: 320px;
+		overflow: hidden;
+	}
+	.trip-card > a {
+		color: var(--darkColor);
+		text-decoration: none;
+	}
+	h2 {
+		padding: 8px;
+		font-size: 1.25rem;
+	}
+	p {
+		padding: 0 8px;
+	}
+</style>
