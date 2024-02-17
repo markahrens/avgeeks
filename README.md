@@ -4,6 +4,19 @@
 
 This project is built using the Astro framework, leveraging their Content Collections feature.
 
+## Creators
+
+Noel Philips
+Trek Trendy
+Jeb Brooks
+Paul Lucas
+Alex Praglowski
+DownieLive
+Josh Cahill
+Miles by Foot
+Sam Chui
+
+
 ## 🧞 Commands
 
 All commands are run from the root of the project, from a terminal:
