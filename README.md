@@ -11,7 +11,7 @@ Trek Trendy
 Jeb Brooks
 Paul Lucas
 Alex Praglowski
-DownieLive
+Dennis Bunnik
 Josh Cahill
 Miles by Foot
 Sam Chui

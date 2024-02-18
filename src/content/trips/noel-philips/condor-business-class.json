@@ -3,6 +3,7 @@
   "source": "youtube",
   "source_id": "g61uXNyjiH8",
   "type": "Flight",
+  "company": "Condor",
   "stops":["cun","fra"],
   "postdate": "2024-02-11"
 }
