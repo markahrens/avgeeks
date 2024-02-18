@@ -1,0 +1,9 @@
+{
+  "name":"I Finally Flew on HARBOUR AIR!",
+  "source": "youtube",
+  "source_id": "keIIHQlfKAU",
+  "type": "Flight",
+  "company": "Harbour Air",
+  "stops":["cxh","ywh"],
+  "postdate": "2024-02-11"
+}

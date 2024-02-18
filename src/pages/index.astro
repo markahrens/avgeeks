@@ -15,7 +15,7 @@ const locations = await getCollection('locations');
 <h1>Avgeek Portal</h1>
 <h2>Recent Trips</h2>
 <div class="trips-listing">
-  {recentTrips.slice(0, 5).map(trip => (
+  {recentTrips.slice(0, 6).map(trip => (
 		<TripCard
         trip_id={trip.id},
         title={trip.data.name},
