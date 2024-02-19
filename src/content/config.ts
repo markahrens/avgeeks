@@ -5,8 +5,7 @@ const creators = defineCollection({
   type: 'data', // v2.5.0 and later
   schema: z.object({
     name: z.string(),
-    link: z.string().url().optional(),
-    trips: z.array(reference('trips')),
+    link: z.string().url().optional()
   }),
 });
 

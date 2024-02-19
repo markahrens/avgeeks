@@ -10,7 +10,11 @@ export async function getStaticPaths() {
   }));
 }
 const { entry } = Astro.props;
-const trips = await getEntries(entry.data.trips);
+const trips = (await getCollection('trips', ({ id }) => {
+  return id.startsWith(entry.id);
+})).sort(
+    (a, b) => b.data.postdate.valueOf() - a.data.postdate.valueOf()
+  );
 ---
 
 <Layout title={entry.data.name}>
