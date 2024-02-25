@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://avgeek.mytungsten.net/sitemap-index.xml
