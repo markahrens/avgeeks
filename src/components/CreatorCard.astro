@@ -1,0 +1,37 @@
+---
+
+interface Props {
+	title: string;
+  img: string;
+  creator_id: string;
+}
+
+const { title, img, creator_id } = Astro.props;
+---
+
+<div class="creator-card">
+  <a href=`/creators/${creator_id}`>
+    <div class="creator-card--image">
+      <img src={img} alt=`Profile image of ${title}`/>
+    </div>
+    <div class="creator-card--name">
+      {title}
+    </div>
+  </a>
+</div>
+
+<style>
+  .creator-card {
+    display: flex;
+    flex-direction: column;
+		background-color: var(--lightColor);
+		border-radius: 10px;
+		overflow: hidden;
+    .creator-card--name {
+      padding: 16px;
+      text-align: center;
+      font-weight: 500;
+      font-size: 1.3rem;
+    }
+	}
+</style>

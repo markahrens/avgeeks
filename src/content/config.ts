@@ -3,9 +3,10 @@ import {z, reference, defineCollection } from 'astro:content';
 
 const creators = defineCollection({
   type: 'data', // v2.5.0 and later
-  schema: z.object({
+  schema:  ({ image }) => z.object({
     name: z.string(),
-    link: z.string().url().optional()
+    link: z.string().url().optional(),
+    photo: image()
   }),
 });
 
