@@ -1,4 +1,5 @@
 ---
+// @ts-nocheck
 import Layout from '../../../layouts/Layout.astro';
 import TripCard from '../../../components/TripCard.astro';
 import { getCollection } from 'astro:content';
@@ -9,12 +10,36 @@ export async function getStaticPaths() {
     params: { creator: entry.id }, props: { entry },
   }));
 }
+
 const { entry } = Astro.props;
+
 const trips = (await getCollection('trips', ({ id }) => {
   return id.startsWith(entry.id);
 })).sort(
     (a, b) => b.data.postdate.valueOf() - a.data.postdate.valueOf()
   );
+
+let counter = {}
+trips.forEach(trip => {
+    trip.data.stops.map(stop => (
+      counter[stop.id] = 1 + (counter[stop.id] || 0)
+    ))
+});
+
+const locations = await getCollection('locations');
+
+let stops = Object.entries(counter);
+stops.sort();
+stops.sort(sortingStops);
+stops.forEach(stop => {
+  stop[2] = locations.find(({ id }) => id === stop[0]);  
+})
+
+function sortingStops(a, b) {
+    if (a[1] === b[1]) { return 0; }
+    else { return (a[1] > b[1]) ? -1 : 1; }
+}
+
 ---
 
 <Layout title={entry.data.name}>
@@ -26,17 +51,30 @@ const trips = (await getCollection('trips', ({ id }) => {
     </div>
   </div>
   
-  
-  <div class="trips-listing">
-    {trips.map(trip => (
-      <TripCard
-        trip_id={trip.id},
-        title={trip.data.name},
-        youtube_id={trip.data.source_id},
-        date={trip.data.postdate}
-      />
-    ))}
+  <div class="creator-content">
+    <div class="creator-stats">
+      <h2>Stops</h2>
+      {stops.map(stop => (
+        <p>{stop[2].data.name} ({stop[0].toUpperCase()})- {stop[1]}</p>
+      ))}
+    </div>
+    <div class="creator-videos">
+      <h2>Videos</h2>
+      <div class="trips-listing">
+        {trips.map(trip => (
+          <TripCard
+            trip_id={trip.id},
+            title={trip.data.name},
+            youtube_id={trip.data.source_id},
+            date={trip.data.postdate}
+          />
+        ))}
+      </div>
+    </div>
+
   </div>
+  
+
 </Layout>
 
 <style>
@@ -53,6 +91,23 @@ const trips = (await getCollection('trips', ({ id }) => {
     }
     a {
       font-size: 1.2rem;
+    }
+  }
+  .creator-content {
+    display: grid;
+    gap: 40px;
+    .trips-listing {
+      justify-content: center;
+    }
+  }
+  @media screen and (min-width: 740px) {
+    .creator-content {
+      grid-template-columns: 1fr 400px;
+    }
+  }
+  @media screen and (min-width: 1100px) {
+    .creator-content {
+      grid-template-columns: 1fr 700px;
     }
   }
 </style>
