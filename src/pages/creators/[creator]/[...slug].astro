@@ -27,7 +27,6 @@ const { trip } = Astro.props;
 
 const stops = await getEntries(trip.data.stops);
 const creatorData = await getEntry('creators', creator);
-const tripDate = new Date(trip.data.postdate.getTime() + (6*60*60*1000));
 
 const dateOptions: object = {
 	year: "numeric",
@@ -51,7 +50,7 @@ if (trip.data.source == 'youtube') {
     <div>
       <h1>{trip.data.name}</h1>
       <h2>{creatorData.data.name}</h2>
-      <p>{tripDate.toLocaleDateString('en-US', dateOptions)}</p>
+      <p>{trip.data.postdate.toLocaleDateString('en-US', dateOptions)}</p>
       <p class="locations">
         {stops.map(stop => (
           // @ts-ignore

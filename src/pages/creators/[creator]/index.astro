@@ -13,8 +13,8 @@ export async function getStaticPaths() {
 
 const { entry } = Astro.props;
 
-const trips = (await getCollection('trips', ({ id }) => {
-  return id.startsWith(entry.id);
+const trips = (await getCollection('trips', ({ id, data }) => {
+  return (id.startsWith(entry.id) && data.stops.length > 0);
 })).sort(
     (a, b) => b.data.postdate.valueOf() - a.data.postdate.valueOf()
   );
