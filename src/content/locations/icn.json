@@ -2,5 +2,7 @@
   "name":"Incheon International Airport",
   "code": "ICN",
   "lat": 37.463333,
-  "lng": 126.44
+  "lng": 126.44,
+  "country":"KR",
+  "region":"Gyeonggi-do"
 }

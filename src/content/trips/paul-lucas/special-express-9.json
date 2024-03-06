@@ -4,6 +4,6 @@
   "source_id": "A203cSTrUIc",
   "type": "Train",
   "company": "",
-  "stops":["ts-ktw","ts-cgm"],
+  "stops":["station/KTW","station/CGM"],
   "postdate": "2024-02-18"
 }

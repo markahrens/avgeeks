@@ -2,5 +2,7 @@
   "name":"Khrabrovo Airport",
   "code": "KGD",
   "lat": 54.89,
-  "lng": 20.5925
+  "lng": 20.5925,
+  "country":"RU",
+  "region":"Kaliningradskaya oblast"
 }

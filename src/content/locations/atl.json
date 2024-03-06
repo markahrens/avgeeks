@@ -2,5 +2,7 @@
   "name":"Hartsfield–Jackson Atlanta International Airport",
   "code": "ICN",
   "lat": 33.636,
-  "lng": -84.428056
+  "lng": -84.428056,
+  "country": "US",
+  "region": "Georgia"
 }

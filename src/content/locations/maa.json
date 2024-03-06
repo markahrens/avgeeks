@@ -2,5 +2,7 @@
   "name":"Chennai International Airport",
   "code": "MAA",
   "lat": 12.982222,
-  "lng": 80.163611
+  "lng": 80.163611,
+  "country": "IN",
+  "region": "Tamil Nadu"
 }

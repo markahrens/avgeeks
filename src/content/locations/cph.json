@@ -2,5 +2,7 @@
   "name":"Copenhagen",
   "code": "CPH",
   "lat": 55.618056,
-  "lng":12.656111
+  "lng":12.656111,
+  "country":"DK",
+  "region":"Hovedstaden"
 }

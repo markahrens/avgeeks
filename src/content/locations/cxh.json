@@ -2,5 +2,7 @@
   "name":"Vancouver Harbour Flight Centre",
   "code": "CXH",
   "lat": 49.294444,
-  "lng":-123.111389
+  "lng":-123.111389,
+  "country":"CA",
+  "region": "British Columbia"
 }

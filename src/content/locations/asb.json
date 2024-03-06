@@ -2,5 +2,7 @@
   "name":"Ashgabat International Airport",
   "code": "ASB",
   "lat": 37.986944,
-  "lng": 58.360833
+  "lng": 58.360833,
+  "country": "TM",
+  "region": "Dasoguz"
 }

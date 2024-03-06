@@ -4,6 +4,6 @@
   "source_id": "DfvmgM9WGPU",
   "type": "Flight",
   "company": "Ural Airlines",
-  "stops":["dme","led","kgd"],
+  "stops":["DME","LED","KGD"],
   "postdate": "2024-02-10"
 }

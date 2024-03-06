@@ -2,5 +2,7 @@
   "name":"Singapore Cruise Centre",
   "code": "",
   "lat": 1.263611,
-  "lng":103.820278
+  "lng":103.820278,
+  "country": "SG",
+  "region": "Singapore"
 }

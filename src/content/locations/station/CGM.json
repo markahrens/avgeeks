@@ -2,5 +2,7 @@
   "name":"Chiang Mai Station",
   "code": "CGM",
   "lat": 18.78365,
-  "lng": 99.01688
+  "lng": 99.01688,
+  "country": "TH",
+  "region": "Chiang Mai"
 }

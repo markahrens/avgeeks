@@ -4,6 +4,6 @@
   "source_id": "WAr2tnpNfCQ",
   "type": "Flight",
   "company": "Air India",
-  "stops":["bom","maa", "blr"],
+  "stops":["BOM","MAA", "BLR"],
   "postdate": "2024-02-21"
 }

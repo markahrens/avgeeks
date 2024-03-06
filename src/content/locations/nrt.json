@@ -1,6 +1,8 @@
 {
-  "name":"Tokyo Narita",
+  "name": "Narita International Airport",
   "code": "NRT",
-  "lat": 35.765278,
-  "lng":140.385556
-}
+  "lat": 35.7653,
+  "lng": 140.386,
+  "country": "JP",
+  "region": "Tokyo"
+ }

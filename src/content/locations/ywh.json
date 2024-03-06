@@ -1,6 +1,8 @@
 {
-  "name":"Victoria Inner Harbour Airport",
+  "name": "Victoria Harbour Water Airport",
   "code": "YWH",
-  "lat": 48.422778,
-  "lng":-123.3875
-}
+  "lat": 48.425,
+  "lng": -123.389,
+  "country": "CA",
+  "region": "British Columbia"
+ }

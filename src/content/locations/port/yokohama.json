@@ -2,5 +2,7 @@
   "name":"Osanbashi Yokohama International Passenger Terminal",
   "code": "",
   "lat": 35.45,
-  "lng":139.646111
+  "lng":139.646111,
+  "country": "JP",
+  "region": "Yokohama"
 }

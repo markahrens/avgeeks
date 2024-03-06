@@ -4,6 +4,6 @@
   "source_id": "ZaJx4sDpXY8",
   "type": "Cruise",
   "company": "Celebrity Millenium",
-  "stops":["port-yokohama","port-singapore"],
+  "stops":["port/yokohama","port/singapore"],
   "postdate": "2024-02-04"
 }

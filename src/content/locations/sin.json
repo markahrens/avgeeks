@@ -1,6 +1,8 @@
 {
-  "name":"Singapore Changi Airport",
+  "name": "Singapore Changi Airport",
   "code": "SIN",
-  "lat": 1.359167,
-  "lng": 103.989444
-}
+  "lat": 1.35019,
+  "lng": 103.994,
+  "country": "SG",
+  "region": "Singapore"
+ }
