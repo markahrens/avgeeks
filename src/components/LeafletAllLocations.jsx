@@ -6,16 +6,34 @@ export default function Leaflet(locations) {
 
   function MultipleMarkers() {
     const locationCoords = new Array();
+    var planeIcon = L.icon({
+      iconUrl: '/pin-icons/plane.png',
+      iconSize: [31, 46]
+    });
+    var trainIcon = L.icon({
+      iconUrl: '/pin-icons/train.png',
+      iconSize: [31, 46]
+    });
+    var shipIcon = L.icon({
+      iconUrl: '/pin-icons/ship.png',
+      iconSize: [31, 46]
+    });
     locations.locations.forEach(loc => {
+      var iconLabel = 'plane';
+      if (loc.id.startsWith('port')) { iconLabel = 'ship'}
+      if (loc.id.startsWith('station')) { iconLabel = 'train'}
       locationCoords.push({
         'coords':[loc.data.lat,loc.data.lng],
-        'name':loc.data.name
+        'name':loc.data.name,
+        'icon': L.icon({
+          iconUrl: '/pin-icons/'+iconLabel+'.png',
+          iconSize: [31, 46]
+        })
       });
     });
-    console.log(locationCoords);
     return locationCoords.map((loc, index) => {
       return(
-        <Marker key={index} position={loc.coords}>
+        <Marker key={index} position={loc.coords} icon={loc.icon}>
            <Popup>
             {loc.name}
           </Popup>
