@@ -1,9 +1,13 @@
 ---
 import Layout from '../../../layouts/Layout.astro';
+import TripMap from '../../../components/LeafletTrip.jsx';
 import { getCollection, getEntries, getEntry } from 'astro:content';
 
+
 export async function getStaticPaths() {
-  const trips = await getCollection('trips');
+  const trips = await getCollection('trips', ({ data }) => {
+    return data.stops.length > 0;
+  });
   const tripsPaths = new Array();
   trips.forEach(trip => {
     const path = trip.id.split('/');
@@ -46,29 +50,36 @@ if (trip.data.source == 'youtube') {
 ---
 
 <Layout title={pageTitle}>
+  <h1>{trip.data.name}</h1>
+  <h2>{creatorData.data.name}</h2>
+  <p>{trip.data.postdate.toLocaleDateString('en-US', dateOptions)}</p>
   <div class="trip-page">
-    <div>
-      <h1>{trip.data.name}</h1>
-      <h2>{creatorData.data.name}</h2>
-      <p>{trip.data.postdate.toLocaleDateString('en-US', dateOptions)}</p>
+
+    <div class="trip-details">
       <p class="locations">
         {stops.map(stop => (
           // @ts-ignore
           <span>{stop.data.name}</span>
         ))}
       </p>
+      <div>
+        <TripMap client:only="react" stops={stops} />
+      </div>
     </div>
-    <div>
+    <div class="trip-video">
       {youtube && <iframe src=`https://www.youtube.com/embed/${trip.data.source_id}` title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>}
     </div>
+
   </div>
   
 
 </Layout>
 
-<style>
+<style  is:global>
   .trip-page {
     display: grid;
+    grid-template-columns: 1fr 1.5fr;
+    column-gap: 40px;;
   }
   .locations span {
     display: inline-block;
@@ -77,9 +88,15 @@ if (trip.data.source == 'youtube') {
       content: '➡';
       margin: 0 5px;
   }
+  .map-container {
+    height: 450px;
+    width: 100%;
+    border-radius: 16px;
+  }
   iframe {
     width: 100%;
     height: auto;
     aspect-ratio: 16/9;
+    border-radius: 16px;
   }
 </style>

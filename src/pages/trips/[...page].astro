@@ -10,7 +10,9 @@ interface Props {
 }
 
 export async function getStaticPaths({ paginate }) {
-  const trips = (await getCollection('trips')).sort(
+  const trips = (await getCollection('trips', ({ data }) => {
+  return data.stops.length > 0;
+  })).sort(
     (a, b) => b.data.postdate.valueOf() - a.data.postdate.valueOf()
   );
   return paginate(trips, { pageSize: 6 });

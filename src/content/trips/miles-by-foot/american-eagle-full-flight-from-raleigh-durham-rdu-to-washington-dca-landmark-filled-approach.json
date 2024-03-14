@@ -4,7 +4,7 @@
  "source": "youtube",
  "source_id": "QHv7fXdKF_E",
  "type": "Flight",
- "company": "",
- "stops": [],
+ "company": "American Eagle",
+ "stops": ["RDU","DCA"],
  "postdate": "2021-09-12T16:16:04Z"
 }
