@@ -1,4 +1,5 @@
 ---
+export const prerender = true;
 import Layout from '../../../layouts/Layout.astro';
 import TripMap from '../../../components/LeafletTrip.jsx';
 import { getCollection, getEntries, getEntry } from 'astro:content';
@@ -59,7 +60,7 @@ if (trip.data.source == 'youtube') {
       <p class="locations">
         {stops.map(stop => (
           // @ts-ignore
-          <span>{stop.data.name}</span>
+          <span>{stop.data.name} ({stop.data.code})</span>
         ))}
       </p>
       <div>
@@ -92,6 +93,11 @@ if (trip.data.source == 'youtube') {
     height: 450px;
     width: 100%;
     border-radius: 16px;
+  }
+  .leaflet-popup-content-wrapper {
+    font-family: 'Overpass', sans-serif;
+    font-weight: 500;
+    text-align: center;
   }
   iframe {
     width: 100%;

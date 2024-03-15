@@ -17,6 +17,34 @@ export default function Leaflet(stops) {
     }
     return null;
   }
+  function TripMarkers() {
+    const locationCoords = new Array();
+    stops.stops.forEach(loc => {
+      var iconLabel = 'plane';
+      if (loc.id.startsWith('port')) { iconLabel = 'ship'}
+      if (loc.id.startsWith('station')) { iconLabel = 'train'}
+      locationCoords.push({
+        'coords':[loc.data.lat,loc.data.lng],
+        'name':loc.data.name,
+        'code':loc.data.code,
+        'icon': L.icon({
+          iconUrl: '/pin-icons/'+iconLabel+'.png',
+          iconSize: [31, 46],
+          iconAnchor: [15, 40],
+          popupAnchor:  [0, -30]
+        })
+      });
+    });
+    return locationCoords.map((loc, index) => {
+      return(
+        <Marker key={index} position={loc.coords} icon={loc.icon}>
+           <Popup>
+            {loc.name} ({loc.code})
+          </Popup>
+        </Marker>
+      );
+    });
+  }
 
   return (
     <MapContainer
@@ -30,6 +58,7 @@ export default function Leaflet(stops) {
         attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
       />
       <TripArc />
+      <TripMarkers />
     </MapContainer>
   );
 }
