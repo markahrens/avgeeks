@@ -4,7 +4,9 @@ import Leaflet from '../components/LeafletAllLocations.jsx';
 import TripCard from '../components/TripCard.astro'
 
 import { getCollection } from 'astro:content';
-const recentTrips = (await getCollection('trips')).sort(
+const recentTrips = (await getCollection('trips', ({ data }) => {
+    return data.stops.length > 0;
+  })).sort(
     (a, b) => b.data.postdate.valueOf() - a.data.postdate.valueOf()
   );
 const locations = await getCollection('locations');

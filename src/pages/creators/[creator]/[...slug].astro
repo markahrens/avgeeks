@@ -12,10 +12,11 @@ export async function getStaticPaths() {
   const tripsPaths = new Array();
   trips.forEach(trip => {
     const path = trip.id.split('/');
+    console.log(path);
     let t = {
       'params': {
         'creator':path[0],
-        'slug':path[1]
+        'slug':path[1] + "/" + path[2]
       },
       'props': {
         'trip':trip
