@@ -4,7 +4,7 @@
  "source": "youtube",
  "source_id": "iVKsPv2frgM",
  "type": "Flight",
- "company": "",
- "stops": [],
+ "company": "Singapore Airlines",
+ "stops": ["SIN","MEL"],
  "postdate": "2024-02-03T05:28:46Z"
 }

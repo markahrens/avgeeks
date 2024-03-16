@@ -4,7 +4,7 @@
  "source": "youtube",
  "source_id": "nfDzN41So6A",
  "type": "Flight",
- "company": "",
- "stops": [],
+ "company": "Plane Visit",
+ "stops": ["YYC"],
  "postdate": "2024-02-13T22:00:18Z"
 }

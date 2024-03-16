@@ -4,7 +4,7 @@
  "source": "youtube",
  "source_id": "Utmk8XuNy10",
  "type": "Flight",
- "company": "",
- "stops": [],
+ "company": "Sri Lankan Airlines",
+ "stops": ["MEL"],
  "postdate": "2024-02-24T22:00:13Z"
 }

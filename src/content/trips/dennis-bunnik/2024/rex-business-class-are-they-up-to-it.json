@@ -4,7 +4,7 @@
  "source": "youtube",
  "source_id": "Bdf6SJ0i58I",
  "type": "Flight",
- "company": "",
- "stops": [],
+ "company": "REX",
+ "stops": ["ADL","MEL"],
  "postdate": "2024-02-10T21:30:01Z"
 }

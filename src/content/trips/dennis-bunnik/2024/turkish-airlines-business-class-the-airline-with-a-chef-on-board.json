@@ -4,7 +4,7 @@
  "source": "youtube",
  "source_id": "br3z8Xa6GaM",
  "type": "Flight",
- "company": "",
- "stops": [],
+ "company": "Turkish Airlines",
+ "stops": ["IST","SIN"],
  "postdate": "2024-01-01T10:43:48Z"
 }
