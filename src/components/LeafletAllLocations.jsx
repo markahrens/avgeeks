@@ -10,6 +10,7 @@ export default function Leaflet(locations) {
       var iconLabel = 'plane';
       if (loc.id.startsWith('port')) { iconLabel = 'ship'}
       if (loc.id.startsWith('station')) { iconLabel = 'train'}
+      if (loc.id.startsWith('busstop')) { iconLabel = 'busstop'}
       locationCoords.push({
         'coords':[loc.data.lat,loc.data.lng],
         'name':loc.data.name,
@@ -39,8 +40,9 @@ export default function Leaflet(locations) {
       scrollWheelZoom={false}
     >
       <TileLayer
-        url='https://tile.openstreetmap.org/{z}/{x}/{y}.png'
-        attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+        url='https://tiles.stadiamaps.com/tiles/osm_bright/{z}/{x}/{y}{r}.{ext}'
+        attribution='&copy; <a href="https://www.stadiamaps.com/" target="_blank">Stadia Maps</a> &copy; <a href="https://openmaptiles.org/" target="_blank">OpenMapTiles</a> &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+        ext = 'png'
       />
       <MultipleMarkers />
     </MapContainer>
