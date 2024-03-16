@@ -1,0 +1,10 @@
+const id = "josh-cahill/2024/criminals-this-airline-posted-my-passport-online";
+const collection = "trips";
+const data = {name:"CRIMINALS! This AIRLINE posted my PASSPORT online!",description:"▶︎ Support ME and become a PATRON to join my WhatsApp Group and many more perks: https://www.patreon.com/joshcahill\n\nAs a punishment of giving Aero Dili a negative review the airline decided to post my Passport online breaching several Data Protection laws. They have also accused me of asking for a $50,000 bribe in order to give them a good review. An Airline that puts passengers safety at risk by publishing personal data of it's passengers, breaking international law as well as IATA regulations should not be allowed to expand it's illegal practices since this isn't the first time they have done this. We must take action and protect other passengers from having their personal data leaked, putting their safety at risk. Please forward this video to Singapore's Minister of Transport Chee Hong Tat - chee_hong_tat@mot.gov.sg to prevent Aero Dili from starting flights to Singapore in order to protect their citizens. Thanks for helping me to hold this airline responsible for their conduct of risking passengers safety.\n\nMinister Email: Chee Hong Tat - chee_hong_tat@mot.gov.sg\n\nSingapore Civil Aviation Authority: \n\nhttps://www.instagram.com/singaporecaas\n\n▶︎ The Gear I use: https://gotravelyourway.com/my-gear\n\n▶︎ Follow me on Instagram, Facebook, TikTok and Twitter!\n\nhttps://instagram.com/gotravelyourway\nhttps://www.facebook.com/gotravelyourway\nhttps://twitter.com/gotravelyourway\nhttps://www.tiktok.com/@gotravelyourway\n\n▶︎ My Website: http://www.gotravelyourway.com\n▶︎ Email Contact: gotravelyourway@gmail.com\n\n#easttimor #joshcahill #aviation",source:"youtube",source_id:"qUKHrmEZEG0",type:"Other",stops:[{id:"CMB",collection:"locations"}],postdate:new Date(1708074045000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/josh-cahill/2024/criminals-this-airline-posted-my-passport-online.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

@@ -1,0 +1,10 @@
+const id = "alex-praglowski/2023/i-flew-on-a-lynx-air-a320";
+const collection = "trips";
+const data = {name:"I Flew on a Lynx Air... A320?",description:"For the last couple of weeks, you may have noticed this blue and green Airbus A320 operating out of Calgary International Airport. This plane belongs to a relatively new American charter airline, Global Crossing Airlines, also called GlobalX.\n\nDue to more 737 MAX delivery delays, much like last year, Lynx Air has wet leased this single Airbus A320 for the summer, exclusively for some of their US flights out of Calgary. \n\nThis presented a rare opportunity to fly this American charter carrier on a scheduled flight - and I took it!\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nBecome a Channel Member:\nhttps://www.youtube.com/channel/UCN1SQ1Ffsm_13OQu7MwHXbA/join\n\nWebsite: https://www.alexpraglowski.ca\nInstagram: https://www.instagram.com/alexpraglowskiaviation\nTwitter: https://www.twitter.com/AlexPraglowski\nFacebook: https://www.facebook.com/AlexPAviation\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nFLIGHT INFORMATION\nAirline: Global Crossing Airlines operating for Lynx Air (DAT/Y9)\nAircraft: Airbus A320-200 (A320)\nFlight Number: Y9615/716\nSeat: 1A/4A\nLivery: Standard GlobalX\nEngines: 2x CFMI CFM56-5B4/P \nRegistration: N628VA\nRoute: Calgary (YYC) - Los Angeles (LAX) - Calgary (YYC)\nCallsign: DAUNTLESS 615/716\nRunway used: 35L (YYC) - 24R/24L (LAX) - 35R (YYC)\nDate filmed: June 2023\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nOutro song - \"Take Flight\" by Nyhtian: https://youtu.be/bCTTwQ_269c\n\n© Alex Praglowski Aviation 2023\n\nThis video is the property of Alex Praglowski Aviation and may not be used for any purpose without prior permission. Contact me at the email in the \"About\" section of my channel for usage.",source:"youtube",source_id:"QqJqYHFyGjw",type:"Flight",stops:[],postdate:new Date(1689526933000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/alex-praglowski/2023/i-flew-on-a-lynx-air-a320.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

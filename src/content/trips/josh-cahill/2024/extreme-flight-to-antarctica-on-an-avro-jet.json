@@ -4,7 +4,7 @@
  "source": "youtube",
  "source_id": "KCkki-0xvws",
  "type": "Flight",
- "company": "",
- "stops": [],
+ "company": "Antarctic Airways",
+ "stops": ["PUQ","TNM"],
  "postdate": "2024-02-24T09:00:14Z"
 }

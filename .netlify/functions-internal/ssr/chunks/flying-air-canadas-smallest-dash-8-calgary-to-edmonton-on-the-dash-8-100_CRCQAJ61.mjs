@@ -1,0 +1,10 @@
+const id = "alex-praglowski/2019/flying-air-canadas-smallest-dash-8-calgary-to-edmonton-on-the-dash-8-100";
+const collection = "trips";
+const data = {name:"Flying Air Canada's SMALLEST Dash 8! Calgary to Edmonton on the Dash 8-100",description:"Subscribe to Vuelogs: https://www.youtube.com/vuelogs\n\nThe Dash 8-100 is the smallest variant of the Dash 8 family, seating just 37 passengers. Several operators have flown these on behalf of Air Canada since the late 1980s, but until the end of October this year, they only flew out of Eastern Canada. \n\nThese are planned to be retired later next year, so when I heard they were moving out west for a bit, I had to jump on one.\n\nToday, I see what it's like to fly on Air Canada's smallest Dash 8!\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nSOCIAL MEDIA\nInstagram: https://www.instagram.com/ap.aviationphotography\nTwitter: https://www.twitter.com/AlexPYYC\nFacebook: https://www.facebook.com/AlexPAviation\n\nOFFICIAL WEBSITE: http://www.alexpraglowski.ca\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nFLIGHT INFORMATION\nAirline: Air Canada Express/Jazz Aviation (JZA/QK)\nAircraft: De Havilland Canada Dash 8-100 (DH8A)\nFlight Number: AC8144\nSeat: 4F\nLivery: Old\nEngines: 2x Pratt and Whitney Canada PW120A \nRegistration: C-FGQK\nRoute: Calgary (YYC) - Edmonton (YEG)\nCallsign: JAZZ 144\nRunway used: 17R (YYC) - 12 (YEG)\nDate filmed: November 2019 \n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nOutro song by Nyhtian: https://www.youtube.com/channel/UCxcrp8_5nooSYwSL1dpX3DA\n\n© Alex Praglowski Aviation 2019\n\nThis video is the property of Alex Praglowski Aviation and may not be used for any purpose without prior permission.\n\nMEDIA: Please contact me at the email in the \"About\" section of my channel for usage.",source:"youtube",source_id:"4ac62K67o30",type:"Flight",stops:[],postdate:new Date(1576886401000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/alex-praglowski/2019/flying-air-canadas-smallest-dash-8-calgary-to-edmonton-on-the-dash-8-100.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

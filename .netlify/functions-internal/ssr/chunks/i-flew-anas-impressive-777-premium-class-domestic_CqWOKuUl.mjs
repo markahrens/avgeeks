@@ -1,0 +1,10 @@
+const id = "alex-praglowski/2023/i-flew-anas-impressive-777-premium-class-domestic";
+const collection = "trips";
+const data = {name:"I Flew ANA's IMPRESSIVE 777 Premium Class! (Domestic)",description:"ANA, or All Nippon Airways, is the largest airline in Japan, and is generally seen as one of the best airlines in the world.\n\nIn addition to an extensive international network, they also connect many cities within Japan, and some of those routes are flown with dedicated widebody aircraft configured just for domestic flights.\n\nTowards the end of our visit to Japan in May, we needed to get from Osaka to Tokyo, and chose ANA for that flight. It turned out to be one of the best domestic flights I've ever had!\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nBecome a Channel Member:\nhttps://www.youtube.com/channel/UCN1SQ1Ffsm_13OQu7MwHXbA/join\n\nWebsite: https://www.alexpraglowski.ca\nInstagram: https://www.instagram.com/alexpraglowskiaviation\nTwitter: https://www.twitter.com/AlexPraglowski\nFacebook: https://www.facebook.com/AlexPAviation\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nFLIGHT INFORMATION\nAirline: ANA - All Nippon Airways (ANA/NH)\nAircraft: Boeing 777-200ER (B772)\nFlight Number: NH024\nSeat: 4A (Premium Class)\nLivery: Standard\nEngines: 2x Pratt & Whitney PW4090\nRegistration: JA715A\nRoute: Osaka-Itami (ITM) - Tokyo-Haneda (HND)\nCallsign: ALL NIPPON 024 heavy\nRunway used: 32L (ITM) - 22 (HND)\nDate filmed: May 2023\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nOutro song - \"Take Flight\" by Nyhtian: https://youtu.be/bCTTwQ_269c\n\n© Alex Praglowski Aviation 2023\n\nThis video is the property of Alex Praglowski Aviation and may not be used for any purpose without prior permission. Contact me at the email in the \"About\" section of my channel for usage.",source:"youtube",source_id:"53IhgIiixaI",type:"Flight",stops:[],postdate:new Date(1696168804000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/alex-praglowski/2023/i-flew-anas-impressive-777-premium-class-domestic.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

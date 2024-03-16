@@ -1,0 +1,10 @@
+const id = "josh-cahill/2020/garuda-indonesia-the-saddest-flight-of-my-life";
+const collection = "trips";
+const data = {name:"GARUDA INDONESIA - THE SADDEST FLIGHT OF MY LIFE",description:"Get Surfshark VPN at https://Surfshark.deals/josh - Enter promo code JOSH for 85% off and 3 extra months for free!\n\nCheck out the Bali Bustle: https://www.balibustle.com\n\nDisclaimer: \nI have been in quarantine before the flight and returned to quarantine right after the trip. I followed the travel advice given by the WHO at that time as well as the local authorities.\nPlease stay at home and follow the recommendations given by your government. Thank you.\n\n▶︎ Support ME and become a PATRON for many more perks! \n\nhttps://www.patreon.com/joshcahill\n\nThis is a comprehensive Flight Review of Garuda Indonesia.\n\nClass: Business\nRoute: Denpasar (DPS) to Jakarta (CGK)\nPlane: A330-300\n\n▶︎ Follow me on Instagram, Facebook, TikTok and Twitter!\n\nhttps://instagram.com/gotravelyourway\nhttps://www.facebook.com/gotravelyourway\nhttps://twitter.com/gotravelyourway\nhttps://www.tiktok.com/@gotravelyourway\n\n▶︎ My Website: http://www.gotravelyourway.com\n▶︎ Email Contact: gotravelyourway@gmail.com\n\n#garudaindonesia #joshcahill #indonesia",source:"youtube",source_id:"6FlARMZ8NoM",type:"Flight",stops:[],postdate:new Date(1588338015000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/josh-cahill/2020/garuda-indonesia-the-saddest-flight-of-my-life.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

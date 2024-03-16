@@ -1,0 +1,10 @@
+const id = "alex-praglowski/2016/cargolux-747-8r7f-lx-vch-close-up-taxi-and-takeoff-from-calgary-airport";
+const collection = "trips";
+const data = {name:"Cargolux 747-8R7F [LX-VCH] Close Up Taxi and Takeoff from Calgary Airport ᴴᴰ",description:"Nice to see Cargolux again! Can't believe it's been almost a year since I last posted one of these guys. Here we have LX-VCH, a 3 year old 747-8F taxiing up close on Romeo and departing runway 35R, with some great engine sounds. ATC is included throughout; enjoy!\n\nThanks for watching!\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nFLIGHT INFO\nAirline: Cargolux Airlines International (CLX/CV)\nAircraft: Boeing 747-8F (B74N)\nAircraft Name: \"City of Dudelange\"\nLivery: Standard\nEngines: 4x GEnx-2B67\nRegistration: LX-VCH\nRoute: YYC-LUX\nCallsign: Cargolux 773 Heavy\nRunway used: 35R\nLocal Time: 1030\nFlightAware: http://flightaware.com/live/flight/LXVCH\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nPrevious video: https://www.youtube.com/watch?v=7s6-ZsFqy6c\nFlickr: https://www.flickr.com/photos/dude8472productions/\nTwitter: https://www.twitter.com/dude8472_YYC\nInstagram: https://www.instagram.com/dude8472productions\nChannel: https://www.youtube.com/dude8472productions\nOfficial Website: https://www.dude8472productions.com\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\n© dude8472productions 2016\n\nThis video is the property of dude8472productions and may not be used in any way without permission.",source:"youtube",source_id:"FkUaIFltwdA",type:"Flight",stops:[],postdate:new Date(1469740473000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/alex-praglowski/2016/cargolux-747-8r7f-lx-vch-close-up-taxi-and-takeoff-from-calgary-airport.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

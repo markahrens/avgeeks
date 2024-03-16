@@ -1,0 +1,10 @@
+const id = "alex-praglowski/2020/air-canada-converting-767s-to-freighters";
+const collection = "trips";
+const data = {name:"Air Canada Converting 767s to Freighters?",description:"On November 9th, Air Canada held their third quarter conference call, reporting their financial results for the period, along with one surprise announcement - CEO Calin Rovinescu said that Air Canada is looking to expand into the dedicated freighter market with some of their owned 767s!\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nSOCIAL MEDIA\nInstagram: https://www.instagram.com/alexpraglowskiaviation\nTwitter: https://www.twitter.com/AlexPraglowski\nFacebook: https://www.facebook.com/AlexPAviation\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nSOURCES\nAir Canada Q3 Conference Call:\nhttps://www.aircanada.com/ca/en/aco/home/about/investor-relations.html\n\nhttps://bell.media-server.com/mmc/p/j6iivqtc\n\nAir Canada Cargo:\nhttps://www.aircanada.com/cargo/en/\n\nFormer AC Cargo Fleet:\nhttps://www.aircanada.com/ca/en/aco/home/fly/onboard/fleet/historical-fleet.html\n\nhttps://www.joc.com/air-canada-replace-five-sold-freighters_19930221.html\n\nAir Canada Cargo DC-8 Image:\nhttps://commons.wikimedia.org/wiki/File:McDonnell_Douglas_DC-8-73(F),_Air_Canada_Cargo_Express_AN0506049.jpg\n\nBoeing 767 Cargo Conversion:\nhttps://www.iai.co.il/p/b767-300bdsf\n\nhttps://www.boeing.com/resources/boeingdotcom/commercial/services/assets/brochure/767300-bcf.pdf\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nOutro song: \"Take Flight\" by Nyhtian: https://www.youtube.com/watch?v=bCTTwQ_269c\n\n© Alex Praglowski Aviation 2020\n\nThis video is the property of Alex Praglowski Aviation and may not be used for any purpose without prior permission. Contact me at the email in the \"About\" section of my channel for usage.",source:"youtube",source_id:"rCc6_9RO27s",type:"Flight",stops:[],postdate:new Date(1605450603000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/alex-praglowski/2020/air-canada-converting-767s-to-freighters.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

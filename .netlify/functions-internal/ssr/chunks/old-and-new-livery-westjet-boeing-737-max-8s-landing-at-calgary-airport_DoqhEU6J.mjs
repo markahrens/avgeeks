@@ -1,0 +1,10 @@
+const id = "alex-praglowski/2018/old-and-new-livery-westjet-boeing-737-max-8s-landing-at-calgary-airport";
+const collection = "trips";
+const data = {name:"Old and New Livery WestJet Boeing 737 MAX 8s Landing at Calgary Airport",description:"WestJet introduced their new corporate identity in May of this year, with the first plane in the new paint being delivered in June. Since then, about 4 737 MAX 8s in total have been delivered with the new livery, but there's still quite a few kicking around in the old one. I definitely believe the new livery is a huge improvement, but what do you think? Here we have WestJet's 4th and 8th 737 MAXes, respectively, landing at Calgary International Airport on runway 17L. ATC is included, enjoy!\n\nThanks for watching!\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nFLIGHT INFORMATION\nAirline: WestJet Airlines (WJA/WS)\nAircraft: Boeing 737 MAX 8 (B38M)\nFlight Number: WS657/WS2279\nLivery: Old (1996-2018) / New (2018)\nEngines: 2x CFM LEAP-1B\nRegistration: C-GRAX / C-GZSG\nRoute: Toronto (YYZ) - Calgary (YYC) / San Jose del Cabo (SJD) - Calgary (YYC)\nCallsign: WESTJET 657 / WESTJET 2279\nRunway used: 17L \n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nOfficial Website: http://www.alexpraglowski.ca\nChannel: https://www.youtube.com/dude8472productions\nFacebook: https://www.facebook.com/AlexPAviation\nInstagram: https://www.instagram.com/ap.aviationphotography\nTwitter: https://www.twitter.com/AlexPYYC\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\n© Alex Praglowski Aviation 2018\n\nThis video is the property of dude8472productions / Alex Praglowski Aviation and may not be used for any purpose without prior permission. \n\nMEDIA: Please contact me at the email in the \"About\" section of my channel.",source:"youtube",source_id:"TJwjU6SGjiM",type:"Flight",stops:[],postdate:new Date(1542767770000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/alex-praglowski/2018/old-and-new-livery-westjet-boeing-737-max-8s-landing-at-calgary-airport.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

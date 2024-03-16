@@ -1,0 +1,10 @@
+const id = "noel-philips/2012/night-approach-and-landing-at-east-midlands-jet2-boeing-757-200";
+const collection = "trips";
+const data = {name:"Night Approach and Landing at East Midlands (Jet2 Boeing 757-200)",description:"Onboard Jet2 Boeing 757 G-LSAJ (\"New York\") for a night landing on runway 27 at East Midlands, after operating flight LS632 from Lanzarote.  \n\nFULL TRIP REPORT:  http://aviationphotos.co.uk/index.php/trip-reports/55-jetting2-the-sun-ema-ace-ema-with-jet2com\n\nIt is 23:30 as we commence our approach to the north of Loughborough, before descending on the ILS across Kegworth and the M1 motorway, touching down firmly 20 minutes ahead of schedule, and taxying in to our stand.  Taken from seat 5A.\n\n✈ ✈\nEquipment used:\n\nCamera: GoPro Hero4 Silver http://goo.gl/Wz7Uxt\nMount: Generic suction mount http://goo.gl/E2vRBs\nSwivel Mount: http://goo.gl/vWQVne\nBoya Frame Case for GoPro: http://goo.gl/tqM3H1\nBattery: Anker E7 25600mAh  http://goo.gl/ZXfxOy\nMicroSD cards: Sandisk 128GB http://goo.gl/KDjm4Y\n\n✈✈✈✈✈✈✈✈✈✈✈✈✈✈✈✈✈✈✈✈✈✈✈✈✈\n\nWould you like to view my full flight videos ahead of everyone else, and support inflight Video at the same time?  Please consider supporting me on Patreon at https://www.patreon.com/inflightvideo.  Patrons get early access to all of my full length, full flight videos, as well as other perks including access to giveaways, freebies, and regular live chats to talk about what's coming soon for inflight Video!  You'll also be supporting me by allowing me to reserve seats with a good view, and access a wider range of interesting flights to film.  Thank you!\n\n✈✈✈✈✈✈✈✈✈✈✈✈✈✈✈✈✈✈✈✈✈✈✈✈✈",source:"youtube",source_id:"er9VIsXeps0",type:"Flight",stops:[],postdate:new Date(1338837974000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/noel-philips/2012/night-approach-and-landing-at-east-midlands-jet2-boeing-757-200.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

@@ -4,7 +4,7 @@
  "source": "youtube",
  "source_id": "Hif4gbsQSpI",
  "type": "Flight",
- "company": "",
- "stops": [],
+ "company": "United,Luftanasa",
+ "stops": ["IAH","ORD","FRA","LHR"],
  "postdate": "2024-01-14T13:59:54Z"
 }

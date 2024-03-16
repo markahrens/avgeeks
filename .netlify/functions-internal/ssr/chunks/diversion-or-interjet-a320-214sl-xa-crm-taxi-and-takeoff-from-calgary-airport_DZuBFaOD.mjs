@@ -1,0 +1,10 @@
+const id = "alex-praglowski/2018/diversion-or-interjet-a320-214sl-xa-crm-taxi-and-takeoff-from-calgary-airport";
+const collection = "trips";
+const data = {name:"DIVERSION | Interjet A320-214(SL) [XA-CRM] Taxi and Takeoff from Calgary Airport",description:"On December 7th, the day of Air Canada's 737MAX touch and goes, Calgary also received a diversion from Vancouver earlier that morning in the form of this Interjet A320, operating Mexico City to Vancouver when it diverted here around 0630 local time. They ended up waiting 2 hours for fuel as there was nobody available to service them. Still nice to see this Mexican carrier here! Here's XA-CRM departing at the break of dawn for Vancouver, with some incredible sunrise lighting! ATC is included, hope you enjoy my first catch of this airline!\n\nThanks for watching!\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nFLIGHT INFO\nAirline: Interjet (AIJ/4O)\nAircraft: Airbus A320-200 (A320)\nAircraft Name: None\nLivery: Standard\nEngines: 2x CFMI CFM56-5B4/3 \nRegistration: XA-CRM\nRoute: Calgary (YYC) - Vancouver (YVR)\nCallsign: Interjet 2850\nRunway used: 35L\nDate filmed: December 7, 2017\nLocal time: 0900\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nOfficial Website: http://www.alexpraglowski.ca\nChannel: https://www.youtube.com/dude8472productions\nFacebook: https://www.facebook.com/AlexPAviation\nInstagram: https://www.instagram.com/ap.aviationphotography\nTwitter: https://www.twitter.com/AlexPYYC\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\n© Alex Praglowski Aviation 2018\n\nThis video is the property of Alex Praglowski Aviation and may not be used for any purpose without prior permission. \n\nMEDIA: Please contact me at the email in the \"About\" section of my channel.",source:"youtube",source_id:"imMqbdyRoXA",type:"Flight",stops:[],postdate:new Date(1516656001000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/alex-praglowski/2018/diversion-or-interjet-a320-214sl-xa-crm-taxi-and-takeoff-from-calgary-airport.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

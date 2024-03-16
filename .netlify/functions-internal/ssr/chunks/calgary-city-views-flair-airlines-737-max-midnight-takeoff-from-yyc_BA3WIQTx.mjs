@@ -1,0 +1,10 @@
+const id = "alex-praglowski/2021/calgary-city-views-flair-airlines-737-max-midnight-takeoff-from-yyc";
+const collection = "trips";
+const data = {name:"CALGARY CITY VIEWS! Flair Airlines 737 MAX Midnight Takeoff from YYC",description:"Merry Christmas everyone! Thanks so much for all of your support over this past year :)\n\nHere's a quick wing view video, taking off from runway 17L at Calgary International Airport on board this Flair Airlines 737 MAX, on a late night flight over to Vancouver!\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nBecome a Channel Member:\nhttps://www.youtube.com/channel/UCN1SQ1Ffsm_13OQu7MwHXbA/join\n\nWebsite: https://www.alexpraglowski.ca\nInstagram: https://www.instagram.com/alexpraglowskiaviation\nTwitter: https://www.twitter.com/AlexPraglowski\nFacebook: https://www.facebook.com/AlexPAviation\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nFLIGHT INFORMATION\nAirline: Flair Airlines (FLE/F8)\nAircraft: Boeing 737-8 MAX (B38M)\nFlight Number: F8402\nSeat: 4F\nLivery: Revised (2021)\nEngines: 2x CFM LEAP-1B\nRegistration: C-FFEL\nRoute: Calgary (YYC) - Vancouver (YVR)\nCallsign: FLAIR 401\nRunway used: 17L\nDate filmed: December 2021\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nOutro song - \"Take Flight\" by Nyhtian: https://youtu.be/bCTTwQ_269c\n\n© Alex Praglowski Aviation 2021\n\nThis video is the property of Alex Praglowski Aviation and may not be used for any purpose without prior permission. Contact me at the email in the \"About\" section of my channel for usage.",source:"youtube",source_id:"tuqpVUEns7I",type:"Flight",stops:[],postdate:new Date(1640444426000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/alex-praglowski/2021/calgary-city-views-flair-airlines-737-max-midnight-takeoff-from-yyc.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

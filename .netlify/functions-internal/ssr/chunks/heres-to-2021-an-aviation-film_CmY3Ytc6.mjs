@@ -1,0 +1,10 @@
+const id = "alex-praglowski/2020/heres-to-2021-an-aviation-film";
+const collection = "trips";
+const data = {name:"Here's to 2021 - An Aviation Film",description:"So, that was 2020. A year which changed the world and the aviation industry drastically.\n\nNevertheless, there were a few notable moments, which I've compiled into this short aviation film, celebrating the best of 2019 and 2020 (what few parts there were).\n\nIn early 2020, I fortunately got in quite a few flights, including the inaugural Air Canada A220 flight from Calgary with @Vuelogs , the trip to Atlanta to fly on the Delta MD-88, and later to Manchester on board the Air Transat A310, and subsequently a fantastic few days with @JonathanWinton123 and @Mraviationguy !\n\nOf course, everything changed after that, but there were some high points in the form of charter and cargo flights, as well as a few domestic trips of my own over the summer. Spending 2 months in Edmonton as well, I managed to get my private pilot's license, and I'm now working on my commercial one!\n\nSo - far from a good year, but definitely a few high points. Thank you for all of your support, and here's to 2021!\n\nMusic - \"Take Flight\" by Nyhtian: https://youtu.be/bCTTwQ_269c\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nBecome a Channel Member:\nhttps://www.youtube.com/channel/UCN1SQ1Ffsm_13OQu7MwHXbA/join\n\nSOCIAL MEDIA\nInstagram: https://www.instagram.com/alexpraglowskiaviation\nTwitter: https://www.twitter.com/AlexPraglowski\nFacebook: https://www.facebook.com/AlexPAviation\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\n© Alex Praglowski Aviation 2020\n\nThis video is the property of Alex Praglowski Aviation and may not be used for any purpose without prior permission. Contact me at the email in the \"About\" section of my channel for usage.",source:"youtube",source_id:"HfGg2vriGYc",type:"Flight",stops:[],postdate:new Date(1609426809000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/alex-praglowski/2020/heres-to-2021-an-aviation-film.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

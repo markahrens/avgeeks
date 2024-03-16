@@ -1,0 +1,10 @@
+const id = "alex-praglowski/2019/vip-boeing-777-200er-n777uk-arrival-and-departure-at-calgary-airport";
+const collection = "trips";
+const data = {name:"VIP BOEING 777-200ER! N777UK Arrival and Departure at Calgary Airport",description:"This VIP Boeing 777, registered as N777UK, paid Calgary a visit this past week, flying in from London-Heathrow on Monday and then departing late on Thursday evening.\n\nI'm not 100% sure who was on board, but the aircraft is owned by Access Industries, which was founded by Sir Leonard Blavatnik, the richest person in the United Kingdom, and 50th richest in the world, with a net worth of around $20 billion.\n\nRegardless of who happened to be on board, that's a pretty sweet ride you've got there! Hope you enjoy the video.\n\nOnce again, a huge thank you to Signature Flight Support for their hospitality.\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nSOCIAL MEDIA\nInstagram: https://www.instagram.com/ap.aviationphotography\nTwitter: https://www.twitter.com/AlexPYYC\nFacebook: https://www.facebook.com/AlexPAviation\n\nOFFICIAL WEBSITE: http://www.alexpraglowski.ca\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nFLIGHT INFORMATION\nOperator: Access Industries\nAircraft: Boeing 777-212(ER) (B772) \nEngines: 2x Rolls Royce Trent 884 \nRegistration: N777UK\nRoute: London (LHR) - Calgary (YYC) - New York (JFK)\nCallsign: November 777 Uniform Kilo\nRunway used: 17R (Arrival) - 35L (Departure)\nDate filmed: July 15/18, 2019\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\n© Alex Praglowski Aviation 2019\n\nThis video is the property of Alex Praglowski Aviation and may not be used for any purpose without prior permission.\n\nMEDIA: Please contact me at the email in the \"About\" section of my channel for usage.",source:"youtube",source_id:"zZtjVLOAV0U",type:"Flight",stops:[],postdate:new Date(1563577213000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/alex-praglowski/2019/vip-boeing-777-200er-n777uk-arrival-and-departure-at-calgary-airport.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

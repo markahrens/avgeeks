@@ -1,0 +1,10 @@
+const id = "paul-lucas/2020/europes-cheapest-and-best-business-class-experience-flying-latam-dreamliner-for-pound60";
+const collection = "trips";
+const data = {name:"Europe's CHEAPEST and BEST Business Class Experience! Flying LATAM Dreamliner for £60!",description:"Download HelloTalk for FREE and join 20 million travel and language enthusiasts at: https://brc.hellotalk.com/PaulLucas\n\nLATEST VIDEO: QATAR A350 BUSINESS CLASS! https://www.youtube.com/watch?v=6pS8cEqpTpk\n\nRead my full review only at Simple Flying: https://simpleflying.com/latam-madfra-review/\n\nFollow me on Twitter: @paul_winginit ¦ https://twitter.com/paul_winginit\n\nFollow me on Instagram: paul_winginit ¦ https://www.instagram.com/paul_winginit\n\nMy website: www.winginit.me\n\nDate of Travel: 12 FEB 2020\nAirline: LATAM\nLivery: Old LAN livery \nRoute: MAD-FRA\nAircraft: Boeing 787-9 Dreamliner\nFlight Number: LA 704\nMiles: 883\nAirborne time: 2h06m\n\nIf you want to find out more about my future plans and join in conversations I have about travel, follow me on Twitter: @paul_winginit. I’ve started using it properly now and it would be great to see some of you there too. \n\nMake sure you have your notifications set! 🛎 \n\n_____________________________________\n\nDo you have any ideas for future trip reports? Something you've never seen on YouTube before? Why not suggest it to me in the comments? I read every single one! 👍🏻\n\nEnjoy the video, and thanks for watching. If you subscribe, then thanks for being part of the channel!\n\n#paulstripreports #vlog #review #flying #travel #aviation #avgeek #trains #railfan\n\nMusic courtesy of YouTube Audio Library\n\n***DON’T FORGET TO SUBSCRIBE!***",source:"youtube",source_id:"heY1oZoMRYY",type:"Flight",stops:[],postdate:new Date(1583666987000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/paul-lucas/2020/europes-cheapest-and-best-business-class-experience-flying-latam-dreamliner-for-pound60.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

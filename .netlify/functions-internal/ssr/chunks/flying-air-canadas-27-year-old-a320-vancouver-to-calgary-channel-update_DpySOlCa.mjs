@@ -1,0 +1,10 @@
+const id = "alex-praglowski/2020/flying-air-canadas-27-year-old-a320-vancouver-to-calgary-channel-update";
+const collection = "trips";
+const data = {name:"Flying Air Canada's 27-Year-Old A320! Vancouver to Calgary + Channel Update",description:"On the morning of May 4th, Air Canada announced that they’d be retiring 79 older aircraft, including the Embraer 190s, Boeing 767s, and the Airbus A319s. However, their press release didn’t mention the A320s.\n\nThis early batch of A320s, specifically the A320-211s, are the oldest narrowbodies in the Air Canada fleet, and the second oldest fleet type after the 767s.\n\nThey may be pretty dated, but I’ve been flying on Air Canada’s A320 family since childhood, so they’ll always be pretty special to me. See what I think of it in this new trip report!\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nSOCIAL MEDIA\nInstagram: https://www.instagram.com/alexpraglowskiaviation\nTwitter: https://www.twitter.com/AlexPraglowski\nFacebook: https://www.facebook.com/AlexPAviation\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nFLIGHT INFORMATION\nAirline: Air Canada (ACA/AC)\nAircraft: Airbus A320-211 (A320)\nFlight Number: AC230\nSeat: 12A\nLivery: Old (2005-2017)\nEngines: 2x CFM56-5A1\nRegistration: C-FKCO\nRoute: Vancouver (YVR) - Calgary (YYC)\nCallsign: AIR CANADA 230\nRunway used: 08L (YVR) - 17L (YYC)\nDate filmed: August 2019\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nOutro song: \"Take Flight\" by Nyhtian: https://www.youtube.com/watch?v=bCTTwQ_269c\n\n#TallPeopleFlying\n\n© Alex Praglowski Aviation 2020\n\nThis video is the property of Alex Praglowski Aviation and may not be used for any purpose without prior permission. Contact me at the email in the \"About\" section of my channel for usage.",source:"youtube",source_id:"lvpWcjO8KSk",type:"Flight",stops:[],postdate:new Date(1588633210000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/alex-praglowski/2020/flying-air-canadas-27-year-old-a320-vancouver-to-calgary-channel-update.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

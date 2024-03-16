@@ -1,0 +1,10 @@
+const id = "trek-trendy/2022/overnight-on-arctic-circle-sleeper-train-the-lapland-express";
+const collection = "trips";
+const data = {name:"Overnight on Arctic Circle Sleeper Train - The Lapland Express",description:"Use code TREKTRENDY to get 55% off at Scentbird https://sbird.co/3KPFnBs\n\nThis month I tried...\nSilverlake by Bentley - https://sbird.co/35ZmXQ5\nATLAS by TUMI - https://sbird.co/3tivxSD\nEros by Versace - https://sbird.co/3CXaWGL\nGet A Room by Confessions Of A Rebel - https://sbird.co/3IdipCJ\n\nJoin me today on the Arctic Sleeper train to Lapland where i'll be trying out the best First Class, ensuite bedroom for a 13 hour trip to the furthest North i've ever ventured. This will be quite the experience travelling from Helsinki central station all the way to the Rovaniemi in the Arctic Circle. I'll not only show my ensuite bedroom but also show you what Coach is like and my thoughts on whether I could do an overnight train in a recliner! I'll explore all elements of the onboard service, from dinner in the dining car, to breakfast and what the different carriages are like (such as bikes & pets!). \n\n0:00 - Starting our Journey\n1:28 - Getting onboard\n3:00 - The Dining Car \n5:25 - Bedroom Tour \n9:07 - Day 2 Lapland\n10:44 - Breakfast \n12:04 - Coach Tour\n15:19 - Welcome to Arctic Circle",source:"youtube",source_id:"fVJc0BRmZ28",type:"Flight",stops:[],postdate:new Date(1647815153000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/trek-trendy/2022/overnight-on-arctic-circle-sleeper-train-the-lapland-express.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

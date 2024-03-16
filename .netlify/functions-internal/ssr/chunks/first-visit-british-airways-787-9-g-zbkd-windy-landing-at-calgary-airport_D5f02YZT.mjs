@@ -1,0 +1,10 @@
+const id = "alex-praglowski/2016/first-visit-british-airways-787-9-g-zbkd-windy-landing-at-calgary-airport";
+const collection = "trips";
+const data = {name:"First Visit! British Airways 787-9 [G-ZBKD] Windy Landing at Calgary Airport ᴴᴰ",description:"Today, British Airways sent a 787-9 to YYC for the first time, marking the first international 787-9 service to Calgary Airport. Spotters here will see lots of Dreamliners this summer, three from Air Canada, a mix of dash 8s and dash 9s from BA, 3x weekly service from Hainan airlines (just announced a couple days ago), and daily 787-9 service from KLM in the fall. Enjoy this windy arrival on YYC's crosswind runway!\n\nThanks for watching! Please comment, rate, and subscribe!\n____________________________________________________\n\nFLIGHT INFO\nAirline: British Airways (BAW/BA)\nAircraft: Boeing 787-9 Dreamliner (B789)\nAircraft Name: None\nLivery: Standard\nEngines: 2x RR Trent 1000\nRegistration: G-ZBKD\nRoute: LHR-YYC\nCallsign: Speedbird 103 heavy\nRunway used: 29\nLocal Time: 1800\nFlightAware: http://flightaware.com/live/flight/GZBKD\n____________________________________________________\n\nPrevious video: https://www.youtube.com/watch?v=U2i81Bm6Gm0\nFlickr: https://www.flickr.com/photos/dude8472productions/\nTwitter: https://www.twitter.com/dude8472_YYC\nChannel: https://www.youtube.com/dude8472productions\nGoogle Plus: https://www.google.com/+dude8472productions\nSubscribe: https://www.youtube.com/subscription_center?add_user=dude8472productions\nOfficial Website: https://www.dude8472productions.com\n____________________________________________________\n\n© dude8472productions 2016\n\nThis video is the property of dude8472productions and may not be used in any way without permission.",source:"youtube",source_id:"xtjA67RL194",type:"Flight",stops:[],postdate:new Date(1454814511000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/alex-praglowski/2016/first-visit-british-airways-787-9-g-zbkd-windy-landing-at-calgary-airport.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

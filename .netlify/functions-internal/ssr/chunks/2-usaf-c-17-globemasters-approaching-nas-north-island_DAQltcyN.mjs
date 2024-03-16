@@ -1,0 +1,10 @@
+const id = "alex-praglowski/2014/2-usaf-c-17-globemasters-approaching-nas-north-island";
+const collection = "trips";
+const data = {name:"2 USAF C-17 Globemasters Approaching NAS North Island ᴴᴰ",description:"Hey everyone, a new San Diego video for you, 2 Boeing C-17s doing some fancy turns while approaching Naval Air Station North Island in San Diego, California. I filmed these clips from my hotel room's balcony, which, as you'll see in the clips, doesn't have a very panoramic view :P I filmed a bunch of departures from SAN here too, but they're only a few seconds of footage :/ Anyway, I hope you enjoy!\n\nThanks for watching! Please comment, rate, and subscribe!\n_____________________________________________________\n\nFLIGHT INFO\nFlightAware: None\nAircraft registration: Unknown\nCallsign: Unknown\nRunway used: 18\n_____________________________________________________\n\nPrevious video: http://www.youtube.com/watch?v=8D8mAL2olgA\nMy Channel: http://www.youtube.com/dude8472productions\nFollow me on Facebook: https://www.facebook.com/pages/Dude8472productions-HD-Aviation-Videos/1422317014682096\nSubscribe: http://www.youtube.com/subscription_center?add_user=dude8472productions\nMy Website: http://www.planespottinginternational.com\n_____________________________________________________\n\n© dude8472productions 2014\n\nThis video is the property of dude8472productions and may not be used in any way without permission.",source:"youtube",source_id:"JXYTLKMhR4s",type:"Flight",stops:[],postdate:new Date(1393464936000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/alex-praglowski/2014/2-usaf-c-17-globemasters-approaching-nas-north-island.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

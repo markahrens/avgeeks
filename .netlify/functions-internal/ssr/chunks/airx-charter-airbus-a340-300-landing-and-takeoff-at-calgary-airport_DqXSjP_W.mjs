@@ -1,0 +1,10 @@
+const id = "alex-praglowski/2018/airx-charter-airbus-a340-300-landing-and-takeoff-at-calgary-airport";
+const collection = "trips";
+const data = {name:"AirX Charter Airbus A340-300 Landing and Takeoff at Calgary Airport",description:"Along with the Corsair 747-400 this past Sunday came this special Airbus A340-300 from Maltese charter carrier AirX Charter! It's rare enough to see an A340 here that's not from Edelweiss, but especially more so when it's a VIP one configured with 100 business class seats! Here we have 9H-BIG operating \"Legend 2001\", arriving from Anchorage, Alaska, and a few days later departing for Paris Charles de Gaulle as \"Legend 2401\". Enjoy this special Airbus A340, with ATC included!\n\nThanks for watching!\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nFLIGHT INFORMATION\nAirline: AirX Charter (\nAircraft: Airbus A340-312 (A343)\nFlight Number: 6V2001/6V2401\nAircraft Name: None \nLivery: Standard\nEngines: 4x CFMI CFM56-5C3/F \nRegistration: 9H-BIG\nRoute: Anchorage (ANC) - Calgary (YYC) - Paris Charles De Gaulle (CDG)\nCallsign: LEGEND 2001 Heavy / LEGEND 2401 Heavy \nRunway used: 17R, 35R\nDate filmed: May 20th / 24th, 2018\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nOfficial Website: http://www.alexpraglowski.ca\nChannel: https://www.youtube.com/dude8472productions\nFacebook: https://www.facebook.com/AlexPAviation\nInstagram: https://www.instagram.com/ap.aviationphotography\nTwitter: https://www.twitter.com/AlexPYYC\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\n© Alex Praglowski Aviation 2018\n\nThis video is the property of dude8472productions / Alex Praglowski Aviation and may not be used for any purpose without prior permission. \n\nMEDIA: Please contact me at the email in the \"About\" section of my channel.",source:"youtube",source_id:"WQbmEXo05uo",type:"Flight",stops:[],postdate:new Date(1527267977000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/alex-praglowski/2018/airx-charter-airbus-a340-300-landing-and-takeoff-at-calgary-airport.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

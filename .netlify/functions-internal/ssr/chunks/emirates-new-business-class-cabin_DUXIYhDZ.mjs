@@ -1,0 +1,10 @@
+const id = "jeb-brooks/2018/emirates-new-business-class-cabin";
+const collection = "trips";
+const data = {name:"Emirates NEW BUSINESS CLASS Cabin",description:"Recently, I had the chance to try out Emirates' BRAND NEW BUSINESS CLASS cabin on one of their new 777-300's. \n\nThe flight was from Brussels to Dubai and I found the experience to be fantastic. The food was great, the crew were friendly, the seat was comfortable. It was a great flight! But, check out this video and draw your own conclusions.\n\nThe flight was also special because by pure coincidence, I sat next to famed YouTube Trip Reporter, Sam Chui.\n\nHere's a link to my review of the Emirates NEW FIRST CLASS cabin:\nhttps://youtu.be/AsswlMIo4vY\n\nHere's a link to my conversation with SAM CHUI:\nhttps://youtu.be/6T3EJ_HfQI4\n\nFor more trip reports, please subscribe to my channel!\nhttps://www.youtube.com/jebbrooksflies\n\nCheck me out on Instagram:\nhttps://www.instagram.com/jebbrooks/\n\nAnd don't forget to take a look at my travel blog:\nhttps://greenergrass.com/\n\nMusic: \nCool Wet Sand - Gavin Luke\nWhat's Up - Emil Kilrud",source:"youtube",source_id:"GQ6ygrYTaKU",type:"Flight",stops:[],postdate:new Date(1518703129000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/jeb-brooks/2018/emirates-new-business-class-cabin.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

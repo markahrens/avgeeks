@@ -1,0 +1,10 @@
+const id = "dennis-bunnik/2022/testing-air-new-zealands-people-watching-business-class-part-1";
+const collection = "trips";
+const data = {name:"Testing Air New Zealand's People-Watching Business Class Part 1",description:"Airlines generally value privacy and personal space above all in business class.  Not so Air New Zealand!  Here you are there to see and be seen!\n\nThis video is all about testing Air New Zealand's People-Watching Business Class.  This is Part 1 of a two video series covering my journey from Australia to the United States.  Part 1 - this Air NZ flight review - covers my first leg from Melbourne to Auckland flying business class on the Air New Zealand 777.  Coming soon will be Part 2 which covers my long-haul leg from Auckland to San Francisco. \n\nThis video covers the Air New Zealand business class lounge in Melbourne and the entire onboard service of their people watching business class cabin. \n\nEnjoy and happy travels. \n\nDennis\n\n#airNZ #AirNewZealand #AirNZbusinessclass\n\n\n00:00 Introduction\n00:47 MEL Business Class Lounge\n02:04 Boarding\n03:00 Taxi & Take Off\n03:18 Business Class Cabin\n04:26 The Seat\n05:56 Inflight Dining\n07:16 Entertainment System\n07:55 Bathroom Tour\n09:04 Landing",source:"youtube",source_id:"GE3T5eA89YY",type:"Flight",stops:[],postdate:new Date(1660980032000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/dennis-bunnik/2022/testing-air-new-zealands-people-watching-business-class-part-1.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

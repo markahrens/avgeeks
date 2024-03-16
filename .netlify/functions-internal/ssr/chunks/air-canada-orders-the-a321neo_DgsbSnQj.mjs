@@ -1,0 +1,10 @@
+const id = "alex-praglowski/2022/air-canada-orders-the-a321neo";
+const collection = "trips";
+const data = {name:"Air Canada Orders the A321neo!",description:"On March 22nd, 2022, Air Canada announced their biggest new aircraft order since the CSeries - for 26 Airbus A321neos!\n\nThe first of these planes, which are XLR versions, will start being delivered in the first quarter of 2024, with deliveries continuing until 2027.\n\nLet's take a look at what this might mean for the airline!\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nBecome a Channel Member\nhttps://www.youtube.com/channel/UCN1SQ1Ffsm_13OQu7MwHXbAjoin\n\nWebsite https://www.alexpraglowski.ca\nInstagram https://www.instagram.com/alexpraglowskiaviation\nTwitter https://www.twitter.com/AlexPraglowski\nFacebook https://www.facebook.com/AlexPAviation\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nSOURCES\n[1] Air Canada Press Release (https://aircanada.mediaroom.com/2022-03-22-Air-Canada-Announces-the-Acquisition-of-26-Airbus-A321neo-Extra-Long-Range-Aircraft)\n\nThumbnail image Air Canada (https://mma.prnewswire.com/media/1770911/A321XLR_1.jpg?p=original)\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nOutro song - Take Flight by Nyhtian https://youtu.be/bCTTwQ_269c\n\n© Alex Praglowski Aviation 2022\n\nThis video is the property of Alex Praglowski Aviation and may not be used for any purpose without prior permission. Contact me at the email in the About section of my channel for usage.",source:"youtube",source_id:"IWk-e45d_ys",type:"Flight",stops:[],postdate:new Date(1647971187000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/alex-praglowski/2022/air-canada-orders-the-a321neo.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

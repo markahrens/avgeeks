@@ -4,7 +4,7 @@
  "source": "youtube",
  "source_id": "uYqznk3zOqE",
  "type": "Flight",
- "company": "",
- "stops": [],
+ "company": "Delta, United, American",
+ "stops": ["ATL","DFW","DEN","SFO"],
  "postdate": "2024-02-24T16:00:37Z"
 }

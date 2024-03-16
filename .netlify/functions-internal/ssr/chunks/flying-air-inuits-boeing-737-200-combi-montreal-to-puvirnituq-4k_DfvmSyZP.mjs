@@ -1,0 +1,10 @@
+const id = "alex-praglowski/2021/flying-air-inuits-boeing-737-200-combi-montreal-to-puvirnituq-4k";
+const collection = "trips";
+const data = {name:"FLYING AIR INUIT'S BOEING 737-200 COMBI! Montreal to Puvirnituq (4K)",description:"Canada has 5 operators who fly the Boeing 737-200, although only two of them fly commercial scheduled flights. I've flown on Canadian North's a number of times, and when the opportunity came up to take a flight with Air Inuit's 737-200, I knew I had to take it!\n\nSpecial thank you to the person who made this possible.\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nBecome a Channel Member:\nhttps://www.youtube.com/channel/UCN1SQ1Ffsm_13OQu7MwHXbA/join\n\nWebsite: https://www.alexpraglowski.ca\nInstagram: https://www.instagram.com/alexpraglowskiaviation\nTwitter: https://www.twitter.com/AlexPraglowski\nFacebook: https://www.facebook.com/AlexPAviation\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nFLIGHT INFORMATION\nAirline: Air Inuit (AIE/3H)\nAircraft: Boeing 737-200 Combi (B732)\nFlight Number: 3H700\nSeat: 16A\nLivery: Standard\nEngines: 2x Pratt and Whitney JT8D-9A \nRegistration: C-GSPW\nRoute: Montreal (YUL) - Puvirnituq (YPX)\nCallsign: AIR INUIT 700\nRunway used: 06R (YUL) - 19 (YPX)\nDate filmed: August 2021\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nOutro song - \"Take Flight\" by Nyhtian: https://youtu.be/bCTTwQ_269c\n\n© Alex Praglowski Aviation 2021\n\nThis video is the property of Alex Praglowski Aviation and may not be used for any purpose without prior permission. Contact me at the email in the \"About\" section of my channel for usage.",source:"youtube",source_id:"O71Z4M28pu0",type:"Flight",stops:[],postdate:new Date(1630850407000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/alex-praglowski/2021/flying-air-inuits-boeing-737-200-combi-montreal-to-puvirnituq-4k.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

@@ -1,0 +1,10 @@
+const id = "alex-praglowski/2016/low-landing-b-17g-flying-fortress-n5017n-arriving-at-springbank-airport";
+const collection = "trips";
+const data = {name:"Low Landing! B-17G Flying Fortress [N5017N] Arriving at Springbank Airport ᴴᴰ",description:"The Experimental Aircraft Association, or EAA, brought their Boeing B-17G Flying Fortress to Calgary's Springbank Airport a couple weeks ago, where it flew a number of short flights around the area for some lucky passengers for the low price of $700 Canadian. On its last day, it did one more passenger flight, and here it is arriving, making a nice bank onto the approach for runway 35. Enjoy!\n____________________________________________________\n\nFLIGHT INFO\nAirline: Experimental Aircraft Association (EAA)\nAircraft: Boeing B-17G Flying Fortress\nAircraft Name: Aluminum Overcast\nLivery: WW2 USAF\nEngines: 4x Wright Aeronautical Corp. Cyclone 9\nRegistration: N5017N\nRoute: YBW-YQR\nCallsign: November Five Zero One Seven November\nRunway used: 35\nLocal Time: 1000\nFlightAware: None\n____________________________________________________\n\nPrevious video: https://www.youtube.com/watch?v=KucrK2OuSAg\nFlickr: https://www.flickr.com/photos/dude8472productions/\nTwitter: https://www.twitter.com/dude8472_YYC\nChannel: https://www.youtube.com/dude8472productions\nGoogle Plus: https://www.google.com/+dude8472productions\nSubscribe: https://www.youtube.com/subscription_center?add_user=dude8472productions\nOfficial Website: https://www.dude8472productions.com\n____________________________________________________\n\n© dude8472productions 2016\n\nThis video is the property of dude8472productions and may not be used in any way without permission.",source:"youtube",source_id:"7s6-ZsFqy6c",type:"Flight",stops:[],postdate:new Date(1469645989000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/alex-praglowski/2016/low-landing-b-17g-flying-fortress-n5017n-arriving-at-springbank-airport.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

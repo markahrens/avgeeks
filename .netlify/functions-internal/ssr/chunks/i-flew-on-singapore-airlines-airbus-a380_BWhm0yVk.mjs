@@ -1,0 +1,10 @@
+const id = "alex-praglowski/2023/i-flew-on-singapore-airlines-airbus-a380";
+const collection = "trips";
+const data = {name:"I Flew on Singapore Airlines' Airbus A380!",description:"Back in May of 2022, I was in Frankfurt after crossing off a flight on Lufthansa's 747-400, and doing some spotting with my friend and fellow YouTube creator @JonathanWinton123!\n\nWhile looking for flights home, I came across quite the Aeroplan redemption - FRA-JFK on Singapore Airlines' Airbus A380! It's been 8 years since I last flew on the \"superjumbo\", and this seemed like the perfect opportunity to revisit this enormous aircraft and see what Singapore Airlines was like!\n\nEnjoy this unusual fifth freedom flight from Frankfurt to New York, on an Asian carrier!\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nBecome a Channel Member:\nhttps://www.youtube.com/channel/UCN1SQ1Ffsm_13OQu7MwHXbA/join\n\nWebsite: https://www.alexpraglowski.ca\nInstagram: https://www.instagram.com/alexpraglowskiaviation\nTwitter: https://www.twitter.com/AlexPraglowski\nFacebook: https://www.facebook.com/AlexPAviation\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nFLIGHT INFORMATION\nAirline: Singapore Airlines (SIA/SQ)\nAircraft: Airbus A380-800 (A388)\nFlight Number: SQ026\nSeat: 63A/78A\nLivery: Standard\nEngines: 4x RR Trent 970\nRegistration: 9V-SKN\nRoute: Frankfurt (FRA) - New York (JFK)\nCallsign: SINGAPORE 026 Super\nRunway used: 25C (FRA) - 13L (JFK)\nDate filmed: May 2022\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nOutro song - \"Take Flight\" by Nyhtian: https://youtu.be/bCTTwQ_269c\n\n© Alex Praglowski Aviation 2023\n\nThis video is the property of Alex Praglowski Aviation and may not be used for any purpose without prior permission. Contact me at the email in the \"About\" section of my channel for usage.",source:"youtube",source_id:"lafg4UHT1Aw",type:"Flight",stops:[],postdate:new Date(1681048825000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/alex-praglowski/2023/i-flew-on-singapore-airlines-airbus-a380.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

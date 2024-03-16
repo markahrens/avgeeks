@@ -1,0 +1,10 @@
+const id = "alex-praglowski/2021/first-visit-prime-air-cargojet-767-smoky-arrival-at-calgary-airport-4k";
+const collection = "trips";
+const data = {name:"FIRST VISIT! Prime Air (Cargojet) 767 Smoky Arrival at Calgary Airport [4K]",description:"On July 14th, 2021, Calgary had its first ever visit from a Prime Air aircraft - this Boeing 767-300ER operated by Cargojet Airways!\n\nBack in April, Cargojet announced that they had entered into an agreement with Amazon to operate two 767 freighters for them within Canada. Funny enough, these two 767s are former WestJet birds, C-GOGN and C-FWAD!\n\nThank you to RadarBox for supporting this plane spotting video! Find out more about them at https://www.radarbox.com/?referrer=AlexAviation\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nBecome a Channel Member:\nhttps://www.youtube.com/channel/UCN1SQ1Ffsm_13OQu7MwHXbA/join\n\nWebsite: https://www.alexpraglowski.ca\nInstagram: https://www.instagram.com/alexpraglowskiaviation\nTwitter: https://www.twitter.com/AlexPraglowski\nFacebook: https://www.facebook.com/AlexPAviation\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nFLIGHT INFORMATION\nAirline: Cargojet Airways (CJT/W8)\nAircraft: Boeing 767-338ER(BDSF)\nFlight Number: W82904\nLivery: Prime Air\nEngines: \nRegistration: C-GAZI (formerly C-GOGN)\nRoute: Hamilton (YHM) - Calgary (YYC)\nCallsign: CARGOJET 2904 heavy\nRunway used: 17R\nDate filmed: July 2021\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nOutro song - \"Take Flight\" by Nyhtian: https://youtu.be/bCTTwQ_269c\n\n© Alex Praglowski Aviation 2021\n\nThis video is the property of Alex Praglowski Aviation and may not be used for any purpose without prior permission. Contact me at the email in the \"About\" section of my channel for usage.",source:"youtube",source_id:"cTD6olS57qk",type:"Flight",stops:[],postdate:new Date(1626382828000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/alex-praglowski/2021/first-visit-prime-air-cargojet-767-smoky-arrival-at-calgary-airport-4k.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

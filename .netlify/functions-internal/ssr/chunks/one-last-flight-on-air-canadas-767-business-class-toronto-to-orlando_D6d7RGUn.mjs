@@ -1,0 +1,10 @@
+const id = "alex-praglowski/2021/one-last-flight-on-air-canadas-767-business-class-toronto-to-orlando";
+const collection = "trips";
+const data = {name:"One Last Flight on Air Canada's 767! Business Class Toronto to Orlando",description:"Back in December 2019, I flew Air Canada's 767 from Toronto to Orlando, in their Business Class! Little did I know at the time, it would actually be my very last flight on a mainline Air Canada 767,  as they were all retired just 6 months later.\n\nSeeing as it's been around a year now since these aircraft left passenger service, I thought I'd share that final flight with you all today!\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nBecome a Channel Member:\nhttps://www.youtube.com/channel/UCN1SQ1Ffsm_13OQu7MwHXbA/join\n\nWebsite: https://www.alexpraglowski.ca\nInstagram: https://www.instagram.com/alexpraglowskiaviation\nTwitter: https://www.twitter.com/AlexPraglowski\nFacebook: https://www.facebook.com/AlexPAviation\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nFLIGHT INFORMATION\nAirline: Air Canada (ACA/AC)\nAircraft: Boeing 767-375(ER) (B763)\nFlight Number: AC908\nSeat: 8K (Business Class)\nLivery: Old (2005-2017)\nEngines: 2x GE CF6-80C2B6F\nRegistration: C-FTCA\nRoute: Toronto-Pearson (YYZ) - Orlando (MCO)\nCallsign: AIR CANADA 908 heavy\nRunway used: 06L (YYZ) - 35R (MCO)\nDate filmed: December 2019\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nOutro song - \"Take Flight\" by Nyhtian: https://youtu.be/bCTTwQ_269c\n\n#TallPeopleFlying\n\n© Alex Praglowski Aviation 2021\n\nThis video is the property of Alex Praglowski Aviation and may not be used for any purpose without prior permission. Contact me at the email in the \"About\" section of my channel for usage.",source:"youtube",source_id:"ykRsfFWdVzg",type:"Flight",stops:[],postdate:new Date(1622988031000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/alex-praglowski/2021/one-last-flight-on-air-canadas-767-business-class-toronto-to-orlando.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

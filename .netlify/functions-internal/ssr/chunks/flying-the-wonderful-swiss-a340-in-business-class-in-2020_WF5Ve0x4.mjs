@@ -1,0 +1,10 @@
+const id = "paul-lucas/2020/flying-the-wonderful-swiss-a340-in-business-class-in-2020";
+const collection = "trips";
+const data = {name:"Flying the wonderful SWISS A340 in Business Class: in 2020!",description:"Get Surfshark VPN at http://surfshark.deals/winginit - Enter promo code WINGINIT for 83% off and THREE EXTRA MONTHS for free!\n\nWATCH: QATAR A350 BUSINESS CLASS!  https://youtu.be/6pS8cEqpTpk\n\nFollow me on Twitter: @paul_winginit ¦ https://twitter.com/paul_winginit\n\nFollow me on Instagram: paul_winginit ¦ https://www.instagram.com/paul_winginit\n\nMy website: www.winginit.me\n\nDate of Travel: 10 AUG 2020\nAirline: Swiss\nLivery: Swiss standard livery\nRoute: LHR-ZRH\nAircraft: Airbus A340-300\nFlight Number: LX 317\nMiles: 491\nAirborne time: 1h34m\n\nJoin me on PATREON where you'll get perks like AD-FREE EARLY ACCESS viewing of all my trip report videos, my tips and tricks for hacking fares, my \"best of the month\" airfare rundown, and MORE...support me: https://www.patreon.com/winginit\n\nIf you want to find out more about my future plans and join in conversations I have about travel, follow me on Twitter: @paul_winginit. \n\nMake sure you have your notifications set! 🛎 \n\n_____________________________________\n\nDo you have any ideas for future trip reports? Something you've never seen on YouTube before? Why not suggest it to me in the comments? I read every single one! 👍🏻\n\nEnjoy the video, and thanks for watching. If you subscribe, then thanks for being part of the channel!\n\n#paulstripreports #vlog #review #flying #travel #aviation #avgeek #trains\n\n♫ I use Epidemic sounds; give it a try: http://share.epidemicsound.com/paulwinginit\n\n***DON’T FORGET TO SUBSCRIBE!***",source:"youtube",source_id:"8YREKjgnQAo",type:"Flight",stops:[],postdate:new Date(1601197096000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/paul-lucas/2020/flying-the-wonderful-swiss-a340-in-business-class-in-2020.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

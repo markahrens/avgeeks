@@ -1,0 +1,10 @@
+const id = "alex-praglowski/2019/westjets-inaugural-calgary-to-dublin-flight-787-9-business-class";
+const collection = "trips";
+const data = {name:"WestJet's INAUGURAL Calgary to Dublin Flight! 787-9 Business Class",description:"On June 1st, 2019, WestJet inaugurated flights between Calgary and Dublin, with their new Boeing 787-9 Dreamliner.\n\nUnlike the other two inaugurals, which I only filmed from outside, I was on board!\n\nThanks to some very generous people at WestJet, I also got to experience what their Business Class is like on a transatlantic flight! See what I thought of the whole experience in this very special trip report.\n\nSpecial thank you to Sean for the departure photos: https://www.facebook.com/SCCurriePhotography/\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nSOCIAL MEDIA\nInstagram: https://www.instagram.com/ap.aviationphotography\nTwitter: https://www.twitter.com/AlexPYYC\nFacebook: https://www.facebook.com/AlexPAviation\n\nOFFICIAL WEBSITE: http://www.alexpraglowski.ca\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nFLIGHT INFORMATION\nAirline: WestJet Airlines (WJA/WS)\nAircraft: Boeing 787-9 Dreamliner (B789)\nFlight Number: WS6\nSeat: 1A\nLivery: New (2018)\nEngines: 2x GEnx-1B\nRegistration: C-GURP\nRoute: Calgary (YYC) - Dublin (DUB)\nCallsign: WESTJET 6 HEAVY\nRunway used: 17R (YYC) - 28 (DUB)\nDate filmed: June 1, 2019\nLocal time: 2045 (YYC) - 1130 (DUB)\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\n© Alex Praglowski Aviation 2019\n\nThis video is the property of Alex Praglowski Aviation and may not be used for any purpose without prior permission.\n\nMEDIA: Please contact me at the email in the \"About\" section of my channel for usage.",source:"youtube",source_id:"sGzYC0jnmC0",type:"Flight",stops:[],postdate:new Date(1560700781000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/alex-praglowski/2019/westjets-inaugural-calgary-to-dublin-flight-787-9-business-class.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

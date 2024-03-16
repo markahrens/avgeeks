@@ -1,0 +1,10 @@
+const id = "alex-praglowski/2020/westjet-boeing-737-700-economy-class-review-calgary-to-atlanta";
+const collection = "trips";
+const data = {name:"WestJet Boeing 737-700 Economy Class Review! Calgary to Atlanta",description:"The Boeing 737-700 is the backbone of WestJet’s mainline fleet, with over 50 aircraft in service as of January this year.\n\nThey’re one of the most common aircraft in Canadian skies, and I’ve flown them a few times in the past, but I haven’t actually done a trip report on one, until now!\n\nSee what I thought of the WestJet 737-700 on this Economy Class flight from Calgary to Atlanta!\n\nThanks to Will and Robert for joining me on this great trip, go check them out:\nhttps://www.instagram.com/willrdaviation\nhttps://www.instagram.com/rj.aviation\n\n -=-=-=-=-=-=-=-=-=-=-=-\n\nSOCIAL MEDIA\nInstagram: https://www.instagram.com/alexpraglowskiaviation\nTwitter: https://www.twitter.com/AlexPraglowski\nFacebook: https://www.facebook.com/AlexPAviation\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nFLIGHT INFORMATION\nAirline: WestJet Airlines (WJA/WS)\nAircraft: Boeing 737-76N (B73G)\nFlight Number: WS1590\nSeat: 4A (Economy)\nLivery: Old (1996-2015)\nEngines: 2x CFMI CFM56-7B24\nRegistration: C-GRWS\nRoute: Calgary (YYC) - Atlanta (ATL)\nCallsign: WESTJET 1590\nRunway used: 35R (YYC) - 10 (ATL)\nDate filmed: January 2020\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nOutro song: \"Take Flight\" by Nyhtian: https://www.youtube.com/watch?v=bCTTwQ_269c\n\n#TallPeopleFlying\n\n© Alex Praglowski Aviation 2020\n\nThis video is the property of Alex Praglowski Aviation and may not be used for any purpose without prior permission. Contact me at the email in the \"About\" section of my channel for usage.",source:"youtube",source_id:"t536E_jh1Ys",type:"Flight",stops:[],postdate:new Date(1589065216000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/alex-praglowski/2020/westjet-boeing-737-700-economy-class-review-calgary-to-atlanta.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

@@ -3,8 +3,8 @@
  "description": "I spent 5 days onboard Royal Caribbean's 'Voyager of the Seas' to see what it's like going on a cruise as someone who's never cruised before. But what's it like? \n\nOFFICIAL NOEL MERCH: https://www.noelphilips.com\nMY PILOT VLOGS CHANNEL:  @NoelPhilipsPilotVlogs\nJOIN ME ON WHATSAPP, GET WEEKLY LIVE CHATS AND MUCH MORE - SUPPORT ME ON PATREON! http://patreon.com/inflightvideo",
  "source": "youtube",
  "source_id": "2xGTo2l6I84",
- "type": "Flight",
- "company": "",
- "stops": [],
+ "type": "Cruise",
+ "company": "Royal Caribbean",
+ "stops": ["port/galveston"],
  "postdate": "2024-01-28T13:59:55Z"
 }

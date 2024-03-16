@@ -1,0 +1,10 @@
+const id = "alex-praglowski/2021/intense-engine-buzz-air-canada-a321-200-takeoff-from-calgary";
+const collection = "trips";
+const data = {name:"INTENSE ENGINE BUZZ! Air Canada A321-200 Takeoff from Calgary",description:"I'm a big fan of Air Canada's A320 family of aircraft, mainly because those CFM56s just sound so good on takeoff!\n\nThis A321 departure from Calgary to Vancouver was no exception, so I thought I'd post the longer version from the earlier trip report! (https://www.youtube.com/watch?v=l5AHiE-KxPc)\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nBecome a Channel Member:\nhttps://www.youtube.com/channel/UCN1SQ1Ffsm_13OQu7MwHXbA/join\n\nWebsite: https://www.alexpraglowski.ca\nInstagram: https://www.instagram.com/alexpraglowskiaviation\nTwitter: https://www.twitter.com/AlexPraglowski\nFacebook: https://www.facebook.com/AlexPAviation\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nFLIGHT INFORMATION\nAirline: Air Canada (ACA/AC)\nAircraft: Airbus A321-200 (A321)\nFlight Number: AC201\nSeat: 4A (Business Class)\nLivery: New (2017)\nEngines: 2x CFMI CFM56-5B3/P\nRegistration: C-GIUB\nRoute: Calgary (YYC) - Vancouver (YVR)\nCallsign: AIR CANADA 203\nRunway used: 35L (YYC) - 26R (YVR)\nDate filmed: August 2021\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nOutro song - \"Take Flight\" by Nyhtian: https://youtu.be/bCTTwQ_269c\n\n© Alex Praglowski Aviation 2021\n\nThis video is the property of Alex Praglowski Aviation and may not be used for any purpose without prior permission. Contact me at the email in the \"About\" section of my channel for usage.",source:"youtube",source_id:"3IQqmVty6WI",type:"Flight",stops:[],postdate:new Date(1637708402000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/alex-praglowski/2021/intense-engine-buzz-air-canada-a321-200-takeoff-from-calgary.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

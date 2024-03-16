@@ -1,0 +1,10 @@
+const id = "alex-praglowski/2021/flying-air-canadas-domestic-premium-economy-787-8-toronto-to-calgary-4k";
+const collection = "trips";
+const data = {name:"Flying Air Canada's DOMESTIC PREMIUM ECONOMY! 787-8 Toronto to Calgary [4K]",description:"Over the past few weeks, Air Canada's been flying a number of domestic widebody flights as travel ramps up again, and for the most part, these flights are relatively full.\n\nRelatively full, that is, in Business Class and Economy - but Air Canada also has a Premium Economy cabin on their widebodies that doesn't seem to get much love on domestic flights.\n\nToday, I check out Air Canada's domestic Premium Economy on their 787-8 Dreamliner, with a hint of nostalgia!\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nBecome a Channel Member:\nhttps://www.youtube.com/channel/UCN1SQ1Ffsm_13OQu7MwHXbA/join\n\nWebsite: https://www.alexpraglowski.ca\nInstagram: https://www.instagram.com/alexpraglowskiaviation\nTwitter: https://www.twitter.com/AlexPraglowski\nFacebook: https://www.facebook.com/AlexPAviation\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nFLIGHT INFORMATION\nAirline: Air Canada (ACA/AC)\nAircraft: Boeing 787-8 Dreamliner (B788)\nFlight Number: AC135\nSeat: 14K\nLivery: New (2017)\nEngines: 2x GEnx-1B\nRegistration: C-GHPQ\nRoute: Toronto-Pearson (YYZ) - Calgary (YYC)\nCallsign: AIR CANADA 135 heavy\nRunway used: 06R (YYZ) - 35R (YYC)\nDate filmed: June 2021\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nOutro song - \"Take Flight\" by Nyhtian: https://youtu.be/bCTTwQ_269c\n\n#TallPeopleFlying\n\n© Alex Praglowski Aviation 2021\n\nThis video is the property of Alex Praglowski Aviation and may not be used for any purpose without prior permission. Contact me at the email in the \"About\" section of my channel for usage.",source:"youtube",source_id:"CCRcGnglxTI",type:"Flight",stops:[],postdate:new Date(1627221609000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/alex-praglowski/2021/flying-air-canadas-domestic-premium-economy-787-8-toronto-to-calgary-4k.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

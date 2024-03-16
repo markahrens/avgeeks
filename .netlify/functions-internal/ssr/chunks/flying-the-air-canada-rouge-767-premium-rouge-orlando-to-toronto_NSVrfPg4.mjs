@@ -1,0 +1,10 @@
+const id = "alex-praglowski/2020/flying-the-air-canada-rouge-767-premium-rouge-orlando-to-toronto";
+const collection = "trips";
+const data = {name:"Flying the Air Canada Rouge 767! Premium Rouge Orlando to Toronto",description:"Air Canada Rouge is Air Canada’s vacation brand, and at the time this was filmed, flew a fleet of A320 family aircraft and 25 Boeing 767s.\n\nThese 25 767s were sadly retired from passenger service in the spring, but I had the chance to fly one at the end of 2019.\n\nWith Rouge having recently restarted operations, I figured now was as good a time to share it as any!\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nBecome a Channel Member:\nhttps://www.youtube.com/channel/UCN1SQ1Ffsm_13OQu7MwHXbA/join\n\nSOCIAL MEDIA\nInstagram: https://www.instagram.com/alexpraglowskiaviation\nTwitter: https://www.twitter.com/AlexPraglowski\nFacebook: https://www.facebook.com/AlexPAviation\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nFLIGHT INFORMATION\nAirline: Air Canada Rouge (ROU/RV)\nAircraft: Boeing 767-333/ER(WL) (B763)\nFlight Number: AC1673\nSeat: 4A (Premium Rouge)\nLivery: Standard\nEngines: 2x General Electric CF6-80C2B6F\nRegistration: C-GHLQ\nRoute: Orlando (MCO) - Toronto-Pearson (YYZ)\nCallsign: ROUGE 1673 heavy\nRunway used: 35L (MCO) - 23 (YYZ)\nDate filmed: December 2019\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nOutro song - \"Take Flight\" by Nyhtian: https://youtu.be/bCTTwQ_269c\n\n© Alex Praglowski Aviation 2020\n\nThis video is the property of Alex Praglowski Aviation and may not be used for any purpose without prior permission. Contact me at the email in the \"About\" section of my channel for usage.",source:"youtube",source_id:"dYJjIYSt06w",type:"Flight",stops:[],postdate:new Date(1606053607000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/alex-praglowski/2020/flying-the-air-canada-rouge-767-premium-rouge-orlando-to-toronto.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

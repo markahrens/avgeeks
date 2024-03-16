@@ -1,0 +1,10 @@
+const id = "alex-praglowski/2020/calgarys-second-airport-plane-spotting-at-springbank-cybw";
+const collection = "trips";
+const data = {name:"Calgary's SECOND Airport! Plane Spotting at Springbank (CYBW)",description:"Calgary/Springbank Airport, nestled in the foothills of the Rocky Mountains, is Calgary's secondary airport, located west of the city. \n\nIt has two runways, 17/35 and 08/26, being 5,000 feet and 3,423 feet long, respectively. The majority of the airport's traffic comes from the flight training schools based here, each with their own fleet of Cessna 172s. There's plenty of private general aviation as well, from Piper Cherokees all the way to Cessna Citations!\n\nPlease enjoy this 28-minute compilation of plane spotting at Calgary's second airport!\n\nFilmed on the 4th and 5th of July.\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nSOCIAL MEDIA\nInstagram: https://www.instagram.com/alexpraglowskiaviation\nTwitter: https://www.twitter.com/AlexPraglowski\nFacebook: https://www.facebook.com/AlexPAviation\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nOutro song: \"Take Flight\" by Nyhtian: https://www.youtube.com/watch?v=bCTTwQ_269c\n\n© Alex Praglowski Aviation 2020\n\nThis video is the property of Alex Praglowski Aviation and may not be used for any purpose without prior permission. Contact me at the email in the \"About\" section of my channel for usage.",source:"youtube",source_id:"YLsCL-tRnY4",type:"Flight",stops:[],postdate:new Date(1594076411000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/alex-praglowski/2020/calgarys-second-airport-plane-spotting-at-springbank-cybw.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

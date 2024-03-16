@@ -1,0 +1,10 @@
+const id = "dennis-bunnik/2018/air-france-business-class-on-the-boeing-787";
+const collection = "trips";
+const data = {name:"Air France Business Class on the Boeing 787",description:"Get a free trial of Squarespace and 10% off at http://Squarespace.com/dennis \n\nI jumped at the opportunity to fly Business Class on the Air France 787 on a recent work trip to Egypt and Europe.  This flight was between Cairo and Paris - only 4.5 hours but plenty of time to check out the Air France Business Class product.  Being a new aircraft the Boeing 787 features the flagship Air France Business Class seat.  \n\nThis business class flight review covers check-in, the Saudi Business Class lounge at Cairo Airport, boarding, take-off, the Air France in-flight service, the amenities provided and the business class seat which converts into a lay flat bed.  \n\nThis flight was filmed on AF 567 from Cairo to Paris.  See below for more details.   \n\nFor more videos check out my channel where you'll find a range of airline reviews in economy, business and first class including Emirates, British Airways, Etihad, Qatar, Qantas, Cathay Pacific, Singapore Airlines, LATAM, Baltic Air, Turkish Airlines and more\n\nRoute:    Cairo (CAI) to Paris (CDG)\nLength:  1,998miles, 4:35 hrs\nFlight:     AF567\nWhen:    November 2017\nAircraft:  Boeing 787-9   registration F-HRBC\nSeat:       7K\nCamera:  Sony FDR-AXP55\n\n\nThis video is sponsored by Squarespace however I retain total editorial control and all opinions are my own.  \n\nThis video may not be reproduced without specific permission.",source:"youtube",source_id:"8OPWiw2wqjk",type:"Flight",stops:[],postdate:new Date(1515057018000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/dennis-bunnik/2018/air-france-business-class-on-the-boeing-787.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

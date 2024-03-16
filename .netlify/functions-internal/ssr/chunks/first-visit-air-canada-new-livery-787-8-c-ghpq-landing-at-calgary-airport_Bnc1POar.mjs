@@ -1,0 +1,10 @@
+const id = "alex-praglowski/2017/first-visit-air-canada-new-livery-787-8-c-ghpq-landing-at-calgary-airport";
+const collection = "trips";
+const data = {name:"First Visit! Air Canada New Livery 787-8 [C-GHPQ] Landing at Calgary Airport ᴴᴰ",description:"FINALLY! Air Canada's new livery was unveiled nearly a month and a half ago, but YYC had only seen it on the A321s... Until now! Here we have fin 801, my favorite 787 and the first ever Dreamliner to visit YYC three years ago, landing at YYC for the first time in her new colors on 35R! The livery's certainly grown on me, and I'm loving the mask around the cockpit windows. Can't wait to see more of this livery, especially on the 777s and the 767s (if they even get it). ATC is included, where tower declares that the \"new paint looks sharp on the 87!\" Enjoy!\n\nThanks for watching!\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nFLIGHT INFO\nAirline: Air Canada (ACA/AC)\nAircraft: Boeing 787-8 (B788)\nAircraft Name: None\nLivery: New (2017-)\nEngines: 2x GEnx-1B \nRegistration: C-GHPQ\nRoute: LHR-YYC\nCallsign: Air Canada 851 heavy\nRunway used: 35R\nDate filmed: March 23, 2017\nLocal time: 1630\nFlightAware: http://flightaware.com/live/flight/CGHPQ\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nFlickr: https://www.flickr.com/photos/dude8472productions/\nTwitter: https://www.twitter.com/dude8472_YYC\nInstagram: https://www.instagram.com/dude8472productions\nChannel: https://www.youtube.com/dude8472productions\nOfficial Website: https://www.dude8472productions.com\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\n© dude8472productions 2017\n\nThis video is the property of dude8472productions and may not be used in any way without permission.",source:"youtube",source_id:"qtWSPL_FMqA",type:"Flight",stops:[],postdate:new Date(1490322249000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/alex-praglowski/2017/first-visit-air-canada-new-livery-787-8-c-ghpq-landing-at-calgary-airport.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

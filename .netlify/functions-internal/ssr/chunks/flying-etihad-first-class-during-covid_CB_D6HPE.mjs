@@ -1,0 +1,10 @@
+const id = "trek-trendy/2020/flying-etihad-first-class-during-covid";
+const collection = "trips";
+const data = {name:"Flying ETIHAD FIRST CLASS during COVID?",description:"I flew on this First Class flight for less than coach/economy?! This is Etihad's First Class, and could very well be the best First Class flying at the moment. Offering full service whilst many other airlines have cut back to offering next to no First Class service. Come with me on my journey today starting in Abu Dhabi and flying over to Geneva Switzerland. Also... I may have tried flying a plane for the first time in the United Arab Emirates. \n\nI'll take you through the meals offered, the incredible bedding, super comfy pyjamas and amenity kit. We'll take a comprehensive look at what the hard product is like comparable to current First Class flights offered. I flew Emirates First Class on their 777 known as the Game Changer just a few weeks ago and I can tell you now, Etihad hold's it's own! \n\nI'll walk you through exactly how I booked this and show you how you can do the same. Please let me know what you think below and feel free to drop me any queries. \n\nIG: will.luxurytravel\n\n--------------\n\nEtihad First Class\nEtihad Residence \nEtihad First Class 787\nDreamliner Etihad First \nEtihad Business Class Studios\nEtihad Suites \nBest First Class in the world\nMost luxurious First Class \nETIHAD 787-9 First Class",source:"youtube",source_id:"VMcT2I5bY7A",type:"Flight",stops:[],postdate:new Date(1603746018000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/trek-trendy/2020/flying-etihad-first-class-during-covid.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

@@ -1,0 +1,10 @@
+const id = "alex-praglowski/2019/canadas-most-questionable-livery-flair-airlines-737-800-calgary-to-vancouver";
+const collection = "trips";
+const data = {name:"Canada's Most QUESTIONABLE Livery? Flair Airlines 737-800 Calgary to Vancouver",description:"Flair Airlines is a Canadian low-cost carrier that started up in 2005 as a charter airline. They began scheduled flights as “Canada’s Low Fare Airline” in 2017, with a fleet of 7 Boeing 737-400s.\n\nLong story short, they rebranded again in February, opting for a more minimalistic look across the board, as well as this interesting new livery for their new 737-800s. It's grown on me quite a bit!\n\nSee what I thought of their 737-800 on this flight from Calgary to Vancouver!\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nSOCIAL MEDIA\nInstagram: https://www.instagram.com/ap.aviationphotography\nTwitter: https://www.twitter.com/AlexPYYC\nFacebook: https://www.facebook.com/AlexPAviation\n\nOFFICIAL WEBSITE: http://www.alexpraglowski.ca\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nFLIGHT INFORMATION\nAirline: Flair Airlines (FLE/F8)\nAircraft: Boeing 737-86J\nFlight Number: F8 301\nSeat: 15F\nLivery: New (2019)\nEngines: 2x CFMI CFM56-7B24 \nRegistration: C-FFLJ\nRoute: Calgary (YYC) - Vancouver (YVR)\nCallsign: FLAIR 301\nRunway used: 35L (YYC) - 08L (YVR)\nDate filmed: November 2019\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nOutro song by Nyhtian: https://www.youtube.com/channel/UCxcrp8_5nooSYwSL1dpX3DA\n\n© Alex Praglowski Aviation 2019\n\nThis video is the property of Alex Praglowski Aviation and may not be used for any purpose without prior permission.\n\nMEDIA: Please contact me at the email in the \"About\" section of my channel for usage.",source:"youtube",source_id:"TcJzQgrkWtM",type:"Flight",stops:[],postdate:new Date(1574467202000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/alex-praglowski/2019/canadas-most-questionable-livery-flair-airlines-737-800-calgary-to-vancouver.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

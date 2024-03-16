@@ -1,0 +1,10 @@
+const id = "alex-praglowski/2014/cathay-pacific-cargo-747-867f-b-ljb-inaugural-landing-at-calgary-airport";
+const collection = "trips";
+const data = {name:"Cathay Pacific Cargo 747-867F [B-LJB] INAUGURAL Landing at Calgary Airport ᴴᴰ",description:"Welcome to YYC, Cathay Pacific Cargo! Here we have B-LJB, one of Cathay Pacific Cargo's 747-8F aircraft arriving for the very first time today on Runway 35L at Calgary International Airport, and, much to the joy of the YYC spotting community, in daylight and some beautiful morning lighting. This new service will be operating twice a week, on Tuesdays/Wednesdays and Fridays/Saturdays. Stick around to the end of the video to see the water salute! I hope you enjoy, and watch in HD.\n\nThanks for watching! Please comment, rate, and subscribe!\n____________________________________________________\n\nFLIGHT INFO\nAirline: Cathay Pacific Cargo (CPA/CX)\nAircraft: Boeing 747-8F\nAircraft Name: None\nLivery: Standard\nEngines: 4x GEnx-2B67\nRegistration: B-LJB\nRoute: HKG-ANC-LCK-JFK-YYC\nCallsign: Cathay 094 Heavy\nRunway used: 35L\nTaxiway(s) used: U, JV\nFlightAware: http://flightaware.com/live/flight/BLJB\n____________________________________________________\n\nPrevious video: https://www.youtube.com/watch?v=zYH3oHNIsdk\nFacebook: http://www.facebook.com/dude8472productions\nMy Channel: http://www.youtube.com/dude8472productions\nGoogle Plus: http://www.google.com/+dude8472productions\nSubscribe: http://www.youtube.com/subscription_center?add_user=dude8472productions\nMy Website: http://www.dude8472productions.com\n____________________________________________________\n\n© dude8472productions 2014\n\nThis video is the property of dude8472productions and may not be used in any way without permission.",source:"youtube",source_id:"g4FxX0ZKkNA",type:"Flight",stops:[],postdate:new Date(1413665293000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/alex-praglowski/2014/cathay-pacific-cargo-747-867f-b-ljb-inaugural-landing-at-calgary-airport.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

@@ -1,0 +1,10 @@
+const id = "alex-praglowski/2020/firefighting-convair-conair-group-cv-580-at-calgaryspringbank-airport";
+const collection = "trips";
+const data = {name:"FIREFIGHTING CONVAIR! - Conair Group CV-580 at Calgary/Springbank Airport",description:"Every summer, Conair Aerial Firefighting of Abbotsford, BC, bases a Turbo Commander \"bird dog\" aircraft and a Convair CV-580 at Calgary/Springbank Airport for forest fires.\n\nThe CV-580 is the largest aircraft that Springbank sees on a regular basis, so I'm glad to have finally caught it! Enjoy this special catch.\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nSOCIAL MEDIA\nInstagram: https://www.instagram.com/alexpraglowskiaviation\nTwitter: https://www.twitter.com/AlexPraglowski\nFacebook: https://www.facebook.com/AlexPAviation\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nFLIGHT INFORMATION\nOperator: Conair Aerial Firefighting (FGD)\nAircraft: Rockwell Turbo Commander 690A (AC90)\nFlight Number: FGD133\nLivery: Standard\nEngines: 2x Allison 501-D13\nRegistration: C-FCZZ\nRoute: Whitecourt (YZU) - Calgary/Springbank (YBW)\nCallsign: FIREGUARD 133\nRunway used: 35\nDate filmed: July 2020\n\n\nOperator: Conair Aerial Firefighting (FGD)\nAircraft: Convair CV-580 (CVLT)\nFlight Number: FGD454\nLivery: Tanker 54\nEngines: 2x Allison 501-D13\nRegistration: C-FKFM\nRoute: Whitecourt (YZU) - Calgary/Springbank (YBW)\nCallsign: FIREGUARD 454\nRunway used: 35\nDate filmed: July 2020\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nOutro song: \"Take Flight\" by Nyhtian: https://www.youtube.com/watch?v=bCTTwQ_269c\n\n© Alex Praglowski Aviation 2020\n\nThis video is the property of Alex Praglowski Aviation and may not be used for any purpose without prior permission. Contact me at the email in the \"About\" section of my channel for usage.",source:"youtube",source_id:"EytuKGCDjBo",type:"Flight",stops:[],postdate:new Date(1594422005000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/alex-praglowski/2020/firefighting-convair-conair-group-cv-580-at-calgaryspringbank-airport.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

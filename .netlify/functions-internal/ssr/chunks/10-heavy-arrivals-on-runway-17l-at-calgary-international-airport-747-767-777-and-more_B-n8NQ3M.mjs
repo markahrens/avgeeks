@@ -1,0 +1,10 @@
+const id = "alex-praglowski/2017/10-heavy-arrivals-on-runway-17l-at-calgary-international-airport-747-767-777-and-more";
+const collection = "trips";
+const data = {name:"10 Heavy Arrivals on Runway 17L at Calgary International Airport - 747, 767, 777, and more! ᴴᴰ",description:"Here's a collection of heavy arrivals that I filmed over a couple days this past summer, including some of Calgary's best summertime heavies, especially the 777s from Air Canada, as well as a special Korean Air A330 charter from Seoul. Enjoy this 20 minute compilations of these 10 heavy landings!\n\nThanks for watching!\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nFLIGHT INFO\n#1: Cathay Pacific Cargo 747-8F - \"Cathay 095 heavy\" - JFK-YYC\n#2: UPS A300-600R - \"UPS 492 heavy\" - SDF-YYC\n#3: Air Canada 767-300ER - \"Air Canada 135 heavy\" - YYZ-YYC\n#4: Air Canada 787-8 - \"Air Canada 137 heavy\" - YYZ-YYC\n#5: Air Canada 767-300ER - \"Air Canada 137 heavy\" - YYZ-YYC\n#6: KLM 787-9 - \"KLM 677 heavy\" - AMS-YYC\n#7: Korean Air A330-200 - \"Korean Air 9075 heavy\" - ICN-YYC\n#8: Air Canada 777-200LR - \"Air Canada 845 heavy\" - FRA-YYC\n#9: Air Canada 777-300ER - \"Air Canada 851 heavy\" - LHR-YYC\n#10: WestJet 767-300ER(WL) - \"WestJet 2 heavy\" - LGW-YYC\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nOfficial Website: http://www.alexpraglowski.ca\nChannel: https://www.youtube.com/dude8472productions\nFacebook: https://www.facebook.com/AlexPAviation\nInstagram: https://www.instagram.com/ap.aviationphotography\nTwitter: https://www.twitter.com/AlexPYYC\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\n© Alex Praglowski Aviation 2017\n\nThis video is the property of Alex Praglowski Aviation and may not be used for any purpose without prior permission. \n\nMEDIA: Please contact me at the email in the \"About\" section of my channel.",source:"youtube",source_id:"_Yo_krr9Y10",type:"Flight",stops:[],postdate:new Date(1508099626000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/alex-praglowski/2017/10-heavy-arrivals-on-runway-17l-at-calgary-international-airport-747-767-777-and-more.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

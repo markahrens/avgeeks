@@ -1,0 +1,10 @@
+const id = "alex-praglowski/2019/westjets-smallest-aircraft-saab-340b-calgary-to-lethbridge-with-westjet-link";
+const collection = "trips";
+const data = {name:"WESTJET'S SMALLEST AIRCRAFT! Saab 340B Calgary to Lethbridge with WestJet Link",description:"In April, I flew with WestJet Link, WestJet's commuter brand, to try out their Saab 340!\n\nWestJet Link was introduced in 2017 to bring more connecting traffic to WestJet's hub in Calgary, using Saab 340s under a Capacity Purchase Agreement with Pacific Coastal Airlines of British Columbia.\n\nSee what I thought of WestJet's smallest aircraft in today's trip report!\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nSOCIAL MEDIA\nInstagram: https://www.instagram.com/ap.aviationphotography\nTwitter: https://www.twitter.com/AlexPYYC\nFacebook: https://www.facebook.com/AlexPAviation\n\nOFFICIAL WEBSITE: http://www.alexpraglowski.ca\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nFLIGHT INFORMATION\nAirline: Pacific Coastal (PCO/8P)\nAircraft: Saab 340B (SF34)\nFlight Number: WS3008\nSeat: 2F\nLivery: Basic Integra Air w/ Pacific Coastal titles\nEngines: 2x GE CT7-9B \nRegistration: C-GOIA\nRoute: Calgary (YYC) - Lethbridge (YQL)\nCallsign: PASCO 3008\nRunway used: 29 (YYC) - 23 (YQL)\nDate filmed: April 2019\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\n© Alex Praglowski Aviation 2019\n\nThis video is the property of Alex Praglowski Aviation and may not be used for any purpose without prior permission.\n\nMEDIA: Please contact me at the email in the \"About\" section of my channel for usage.",source:"youtube",source_id:"HyKMmvQkT-Q",type:"Flight",stops:[],postdate:new Date(1565305204000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/alex-praglowski/2019/westjets-smallest-aircraft-saab-340b-calgary-to-lethbridge-with-westjet-link.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

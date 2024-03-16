@@ -1,0 +1,10 @@
+const id = "jeb-brooks/2021/alaska-railroad-denali-star-goldstar-service-fairbanks-to-anchorage";
+const collection = "trips";
+const data = {name:"Alaska Railroad Denali Star Goldstar Service Fairbanks to Anchorage",description:"Here’s episode one of the #WildernessToWaikiki Trip! (Flying Alaska Airlines to Alaska):\nhttps://www.youtube.com/watch?v=oKM6kQtnzfc \n\nHere’s episode three of the #WildernessToWaikiki Trip! (Alaska Bush Flying):\nhttps://youtu.be/w2hh5Ahhlbk\n\nHere’s episode four of the #WildernessToWaikiki Trip! (Flying from Alaska to Hawaii):\nhttps://youtu.be/Kiq5mLcYqj4\n\nHere's episode five of the #WildernessToWaikiki Trip! (Flying from Honolulu to Dulles):\nhttps://youtu.be/zwd3bPWAmX4\n\nSimply Railway’s Review of Alaska Railroad’s Adventure Class on this route:\nhttps://www.youtube.com/watch?v=Q_Z2pxi5jjk\n\nInaugural SAS A350 Flight from Copenhagen to Chicago:\nhttps://www.youtube.com/watch?v=9iBJK3fex3c&t=1s\n\nFor more trip reports, please subscribe to my channel! \nhttp://www.JebBrooksFlies.com \n\nCheck me out on Instagram: \nhttps://www.Instagram.com/JebBrooksFlies \n\nCheck me out on Twitter, too: \nhttps://twitter.com/jebbrooks \n\nAnd don't forget to take a look at my travel blog: \nhttps://greenergrass.com/ \n\nMusic:\nBalloon (Instrumental Version) – Yara Meyers\nThose Who Arrived (Instrumental Version) – Volcan Peaks\nReasons To Stay (Instrumental Version) – OTE\nPhotographs – Plain Strolls\nSlow Fade – View Points\nGet My Point – Codey Randall\nThirsty for More – Codey Randall\nInto the Wind – Benjamin Carey\nThat Would Be Perfect – Mica Emory\nThrow Me a Line – John and the Land of Plenty\nAvalon (Instrumental Version) – Wildson\nNext To Me (Acoustic Version) – Lvly\nThose Who Arrived (Instrumental Version) – Volcan Peaks",source:"youtube",source_id:"kIJoUNP2-v4",type:"Flight",stops:[],postdate:new Date(1626537635000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/jeb-brooks/2021/alaska-railroad-denali-star-goldstar-service-fairbanks-to-anchorage.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

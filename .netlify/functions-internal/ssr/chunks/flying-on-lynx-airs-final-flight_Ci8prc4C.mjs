@@ -1,0 +1,10 @@
+const id = "alex-praglowski/2024/flying-on-lynx-airs-final-flight";
+const collection = "trips";
+const data = {name:"Flying on Lynx Air's Final Flight",description:"In the early morning hours on Monday, February 26th, Calgary-based Lynx Air sadly ceased operations.\n\nThe news came just a few days prior on February 22nd, when the airline revealed that they had filed for creditor protection, with operations slowly winding down over the weekend.\n\nUp until Sunday the 25th, you could still book some last minute tickets, and in the name of documenting history and giving the hundreds of talented individuals at Lynx Air the send-off they deserve, I grabbed a seat on the last YVR-YYC flight.\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nBecome a Channel Member:\nhttps://www.youtube.com/channel/UCN1SQ1Ffsm_13OQu7MwHXbA/join\n\nWebsite: https://www.alexpraglowski.ca\nInstagram: https://www.instagram.com/alexpraglowskiaviation\nTwitter: https://www.twitter.com/AlexPraglowski\nFacebook: https://www.facebook.com/AlexPraglowski\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nFLIGHT INFORMATION\nAirline: Lynx Air (DAT/Y9)\nAircraft: Boeing 737-8 MAX (B38M)\nFlight Number: Y9107\nSeat: 6F\nLivery: Basic Norwegian c/s\nEngines: 2x CFM LEAP-1B\nRegistration: C-FULJ\nRoute: Vancouver (YVR) - Calgary (YYC)\nCallsign: DAUNTLESS 107\nRunway used: 26L (YVR) - 35L (YYC)\nDate filmed: February 2024\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nOutro song - \"Take Flight\" by Nyhtian: https://youtu.be/bCTTwQ_269c\n\n© Alex Praglowski Aviation 2024\n\nThis video is the property of Alex Praglowski Aviation and may not be used for any purpose without prior permission. Contact me at the email in the \"About\" section of my channel for usage.",source:"youtube",source_id:"GLSWavFbtqI",type:"Flight",stops:[{id:"YVR",collection:"locations"},{id:"YYC",collection:"locations"}],postdate:new Date(1709391612000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/alex-praglowski/2024/flying-on-lynx-airs-final-flight.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

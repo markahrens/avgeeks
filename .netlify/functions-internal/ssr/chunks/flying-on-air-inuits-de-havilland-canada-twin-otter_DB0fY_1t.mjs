@@ -1,0 +1,10 @@
+const id = "alex-praglowski/2022/flying-on-air-inuits-de-havilland-canada-twin-otter";
+const collection = "trips";
+const data = {name:"Flying on Air Inuit's De Havilland Canada TWIN OTTER!",description:"Air Inuit has one of the largest operations of any Quebec-based regional airline, and mainly serves the northern region of the province, known as Nunavik.\n\nLocated in the far northeast of the province, Kuujjuaq is the largest town in this region, home to over 2,600 people. Because of that, it’s an important hub for Air Inuit and for the communities along the Ungava Bay coast.\n\nFollowing a great trip there with my good friend @MarkBrandonAviation, it was time to head back home, and the first leg involved this Twin Otter to someplace I never thought I'd see again!\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nBecome a Channel Member:\nhttps://www.youtube.com/channel/UCN1SQ1Ffsm_13OQu7MwHXbA/join\n\nWebsite: https://www.alexpraglowski.ca\nInstagram: https://www.instagram.com/alexpraglowskiaviation\nTwitter: https://www.twitter.com/AlexPraglowski\nFacebook: https://www.facebook.com/AlexPAviation\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nFLIGHT INFORMATION\nAirline: Air Inuit (3H/AIE)\nAircraft: De Havilland Canada DHC-6-300 (DHC6)\nFlight Number: 3H608\nSeat: 7D\nLivery: Standard\nEngines: 2x Pratt and Whitney PT6A-27\nRegistration: C-FAIY\nRoute: Kuujjuaq (YVP) - Puvirnituq (YPX)\nCallsign: INUIT 608\nRunway used: 31 (YVP) - 19 (YPX)\nDate filmed: April 2022\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nOutro song - \"Take Flight\" by Nyhtian: https://youtu.be/bCTTwQ_269c\n\n© Alex Praglowski Aviation 2022\n\nThis video is the property of Alex Praglowski Aviation and may not be used for any purpose without prior permission. Contact me at the email in the \"About\" section of my channel for usage.",source:"youtube",source_id:"vrHcAKuC_9A",type:"Flight",stops:[],postdate:new Date(1666533632000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/alex-praglowski/2022/flying-on-air-inuits-de-havilland-canada-twin-otter.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

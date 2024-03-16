@@ -1,0 +1,10 @@
+const id = "jeb-brooks/2021/qatar-airways-777-300-first-class-from-doha-to-cairo";
+const collection = "trips";
+const data = {name:"Qatar Airways 777-300 First Class from Doha to Cairo",description:"In this video, you’ll see Qatar Airways’ First Class from Doha to Cairo. It’s a regional first class that’s unique to Qatar Airways. Most airlines in the Middle East offer separate, First Class cabins, but Qatar Airways does things differently.\n\nWe had access to the Al Safwa First Class Lounge, which you’ll explore. You’ll also see the “First” Class cabin that’s identical to Business Class. So, what’s up with this distinction? Let me know in the comments below.\n\nThis is another leg of our #NewlywedWorldTour in which we traveled around Africa as part of our honeymoon. \n\nJoin us for this flight from Doha to Cairo onboard a 777-300! Yes, the plane on the thumbnail is a 777-200…sorry…\n\n0:00 Introduction\n0:55 Qatar Airways Al Safwa First Class Lounge\n2:42 Onboard Qatar Airways 777-300 First Class\n4:04 Qatar Airways 777-300 First Class Seat Tour\n5:06 Qatar Airways First Class Breakfast\n7:07 Final Thoughts on Qatar Airways First Class\n\nFor more trip reports, please subscribe to my channel! \nhttp://www.JebBrooksFlies.com \n\nCheck me out on Instagram: \nhttps://www.Instagram.com/JebBrooksFlies \n\nCheck me out on Twitter, too: \nhttps://twitter.com/jebbrooks \n\nAnd don't forget to take a look at my travel blog: \nhttps://greenergrass.com/ \n\nMusic:\nFlowers For Sale – OTE\nFinally Reaching Home – North Sphere\nThe Easy Way Out – Plane Strolls\nLet Me Fly – Eric Feinberg\nGolden Wings – Eric Feinberg",source:"youtube",source_id:"Py6j_Mr5ETY",type:"Flight",stops:[],postdate:new Date(1638406811000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/jeb-brooks/2021/qatar-airways-777-300-first-class-from-doha-to-cairo.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

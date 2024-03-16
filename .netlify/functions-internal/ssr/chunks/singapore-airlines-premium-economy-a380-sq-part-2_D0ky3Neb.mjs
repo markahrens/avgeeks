@@ -1,0 +1,10 @@
+const id = "dennis-bunnik/2016/singapore-airlines-premium-economy-a380-sq-part-2";
+const collection = "trips";
+const data = {name:"Singapore Airlines Premium Economy A380: SQ Part 2",description:"Premium Economy is the new kid on the block.  It's better than economy class but not as good at business class.  But how good is it?  And is it worth the extra cost?  Find out as I review Singapore Airlines new Premium Economy Class on the A380 from Sydney, Australia to Singapore. \n\nThis flight review video is Episode 2 of my series The 4 Classes of Singapore Airlines.   Check them all out by clicking on my channel below....and of course please don't forget to subscribe. \n\nThe other episodes are:\n\nEp 1: Singapore Airlines Economy Class:   https://youtu.be/cMR8v4K7ugg \nEp 3: Singapore Airlines Business Class: https://youtu.be/zP7f0VjHwPE \nEp 4: Singapore Airlines First Class Suites:  https://youtu.be/yNoNrAXS38I \n\nThis flight review video covers Sydney Airport, check-in, boarding, the premium economy cabin and premium economy seat.  I also cover Singapore Airlines inflight entertainment system - Krisworld and their inflight meals and service. \n\nSingapore Airlines is a great way to fly - and much of this is down to their famous Singapore Girl flight crew.  \n\nFor more flight review videos including Emirates, Qantas, Qatar, LATAM, Turkish Airlines, Air Baltic and Cathay Pacific please visit my channel DennisBunnik Travels.  \n\nFlight:  SQ232\nAirline:  Singapore Airlines\nRoute:  Sydney to Singapore\nAircraft:  Airbus A380-800\nAircraft Reg: 9VSKK\nSeat:  34K (window)",source:"youtube",source_id:"iuJEP9s9UAU",type:"Flight",stops:[],postdate:new Date(1472537751000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/dennis-bunnik/2016/singapore-airlines-premium-economy-a380-sq-part-2.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

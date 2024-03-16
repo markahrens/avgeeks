@@ -1,0 +1,10 @@
+const id = "jeb-brooks/2022/icelandair-business-class-737max-iceland-to-raleigh-inaugural-flight";
+const collection = "trips";
+const data = {name:"Icelandair Business Class 737MAX Iceland to Raleigh Inaugural Flight",description:"Watch this video to see what it’s like to fly with Icelandair on a Boeing 737MAX from Iceland to Raleigh, North Carolina! \n\nThis is Icelandair’s first new route in more than two years, and I was lucky enough to be onboard for the inaugural flight!\n\nThis trip in Icelandair’s Saga Business Class lasted six hours and this video will highlight everything! From the exciting gate party to celebrate the new Icelandair route, to the Icelandair Business Class food and seat. We’ll even share the Icelandair Inflight Entertainment and service. I even got to interview Icelandair’s CEO!\n\nBig shout-out and thanks to Craig from the RDU Planespotters Group for the photo on the thumbnail. Check him out here:\nhttps://www.Instagram.com/scraig_clifford\n\n0:00 Introduction\n1:52 Icelandair Saga Lounge\n3:21 Icelandair Inaugural Gate Party\n4:44 Icelandair Business Class Seat Tour\n7:20 Icelandair Business Class Food\n9:37 Icelandair JebScore\n10:53 Icelandair RDU Watercanon Salute\n\nCheck me out on Instagram: \nhttps://www.Instagram.com/JebBrooksFlies \n\nCheck me out on Twitter, too:\nhttps://twitter.com/jebbrooks \n\nAnd don't forget to take a look at my travel blog: \nhttps://greenergrass.com/ \n\nMusic:\nCelebration (Instrumental Version) – Lvly\nKendwa – Jones Meadow\nWhat’s Left to Say – Gerard Franklin\nTailgate Party – Will Harrison\nBoarding – Far Orange\nA Place Like Home (Instrumental Version) – Birgersson\nFirst Sun of Spring – Isobelle Walton\nHeld – Clarence Reed",source:"youtube",source_id:"_M-aSKyERIk",type:"Flight",stops:[],postdate:new Date(1653145227000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/jeb-brooks/2022/icelandair-business-class-737max-iceland-to-raleigh-inaugural-flight.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

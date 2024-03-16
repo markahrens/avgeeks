@@ -1,0 +1,10 @@
+const id = "alex-praglowski/2021/westjet-cargo-to-fly-737-800-freighters";
+const collection = "trips";
+const data = {name:"WestJet Cargo To Fly 737-800 Freighters!",description:"On June 23rd, 2021, Calgary-based WestJet announced that they’re joining the dedicated freighter market, by launching cargo-only flights with some converted Boeing 737-800s!\n\nI don't think I ever expected to see that, so this is some very interesting news! Can't wait to see the first one sometime next year!\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nBecome a Channel Member:\nhttps://www.youtube.com/channel/UCN1SQ1Ffsm_13OQu7MwHXbA/join\n\nWebsite: https://www.alexpraglowski.ca\nInstagram: https://www.instagram.com/alexpraglowskiaviation\nTwitter: https://www.twitter.com/AlexPraglowski\nFacebook: https://www.facebook.com/AlexPAviation\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nSOURCES:\n\nWestJet Press Release: https://westjet.mediaroom.com/2021-06-23-Westjet-Cargo-Announces-Dedicated-Freighters-to-Better-Serve-Canada\n\nWestJet Cargo: https://www.westjet.com/en-ca/cargo/fleet\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nOutro song - \"Take Flight\" by Nyhtian: https://youtu.be/bCTTwQ_269c\n\n© Alex Praglowski Aviation 2021\n\nThis video is the property of Alex Praglowski Aviation and may not be used for any purpose without prior permission. Contact me at the email in the \"About\" section of my channel for usage.",source:"youtube",source_id:"cP1Z4Moa6IE",type:"Flight",stops:[],postdate:new Date(1624489583000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/alex-praglowski/2021/westjet-cargo-to-fly-737-800-freighters.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

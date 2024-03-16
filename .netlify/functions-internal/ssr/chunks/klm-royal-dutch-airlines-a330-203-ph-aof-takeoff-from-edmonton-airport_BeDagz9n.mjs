@@ -1,0 +1,10 @@
+const id = "alex-praglowski/2017/klm-royal-dutch-airlines-a330-203-ph-aof-takeoff-from-edmonton-airport";
+const collection = "trips";
+const data = {name:"KLM Royal Dutch Airlines A330-203 [PH-AOF] Takeoff from Edmonton Airport ᴴᴰ",description:"Nice to see KLM at Alberta's other major airport! Here we have KLM's 4x weekly flight to Amsterdam departing Edmonton International Airport on runway 02, after waiting about 3 minutes for the wake from a FedEx 757 departing the opposite direction to clear, including some interesting ATC of the whole process. Due to some taxiway closures, 20 was the only runway FedEx could depart on without backtracking and delaying other flights from the terminal which were using 02. Enjoy this close up rotation shot of this Dutch A330 with ATC!\n\nThanks for watching!\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nFLIGHT INFO\nAirline: KLM Royal Dutch Airlines (KLM/KL)\nAircraft: Airbus A330-200 (A332)\nAircraft Name: \"Federation Square - Melbourne\"\nEngines: 2x GE CF6-80E1A3 \nRegistration: PH-AOF\nRoute: Edmonton (YEG) - Amsterdam (AMS)\nCallsign: KLM 676 heavy\nRunway used: 02\nDate filmed: August 17, 2017\nLocal time: 1700\nFlightAware: http://flightaware.com/live/flight/PHAOF\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nFlickr: https://www.flickr.com/photos/dude8472productions/\nTwitter: https://www.twitter.com/dude8472_YYC\nInstagram: https://www.instagram.com/dude8472productions\nChannel: https://www.youtube.com/dude8472productions\nOfficial Website: https://www.dude8472productions.com\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\n© dude8472productions 2017\n\nThis video is the property of dude8472productions and may not be used in any way without permission.",source:"youtube",source_id:"KihoYSMwcU8",type:"Flight",stops:[],postdate:new Date(1504671356000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/alex-praglowski/2017/klm-royal-dutch-airlines-a330-203-ph-aof-takeoff-from-edmonton-airport.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

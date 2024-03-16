@@ -1,0 +1,10 @@
+const id = "jeb-brooks/2018/swiss-a330-business-class-review";
+const collection = "trips";
+const data = {name:"SWISS A330 Business Class Review",description:"Join me for a \"party\" on this flight from Nairobi to Dar Es Salaam and on to Zurich. \n\nWas this Swiss Business Class excellent or terrible?\n\nYou'll see the seats, the food, the entertainment, and hear about the crew on this nighttime journey from Africa to Europe. And you can judge for yourself...\n\nThe SWISS A330 is the backbone of the SWISS International Air Lines fleet. The SWISS Business Class is beautiful, but how does it stack up on a nine hour flight.\n\nThis SWISS Airlines Flight Review also reveals what happens on the ground during a stopover in Dar Es Salaam, Tanzania.\n\nFor more trip reports, please subscribe to my channel!\nhttps://www.youtube.com/jebbrooksflies\n\nCheck me out on Instagram:\nhttps://www.instagram.com/jebbrooks/\n\nAnd don't forget to take a look at my travel blog:\nhttps://greenergrass.com/\n\nMusic:\nGridworld - 91Ultra\nCrazy Party - Magnus Ringblom\nEndgame - 91Ultra",source:"youtube",source_id:"wyQ6oYCe4uA",type:"Flight",stops:[],postdate:new Date(1530262968000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/jeb-brooks/2018/swiss-a330-business-class-review.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

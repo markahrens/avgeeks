@@ -1,0 +1,10 @@
+const id = "alex-praglowski/2015/austrian-airlines-777-2z9er-oe-lpc-taxi-and-takeoff-from-tokyo-narita";
+const collection = "trips";
+const data = {name:"Austrian Airlines 777-2Z9ER [OE-LPC] Taxi and Takeoff from Tokyo Narita ᴴᴰ",description:"Follow me on Flickr: https://www.flickr.com/photos/dude8472productions/\n\nOne of the many new airlines I caught at Tokyo-Narita! Here we have Austrian Airlines' 4x weekly service from Narita to Vienna. Enjoy the close up taxi shot and the beautiful rotation from this immaculate 13 year old 772. More frequent uploads will be coming soon!\n\nThanks for watching! Please comment, rate, and subscribe!\n____________________________________________________\n\nFLIGHT INFO\nAirline: Austrian Airlines (AUA/OS)\nAircraft: Boeing 777-200ER (B77E)\nAircraft Name: \"Dream of Freedom\"\nLivery: Old\nEngines: 2x GE GE90-90B \nRegistration: OE-LPC\nRoute: NRT-VIE\nCallsign: Austrian 52 heavy\nRunway used: 16R\nLocal Time: 1230\nFlightAware: http://flightaware.com/live/flight/OELPC\n____________________________________________________\n\nPrevious video: https://www.youtube.com/watch?v=7mTbmUiDnnY\nFlickr: https://www.flickr.com/photos/dude8472productions/\nTwitter: https://www.twitter.com/dude8472_YYC\nChannel: https://www.youtube.com/dude8472productions\nGoogle Plus: https://www.google.com/+dude8472productions\nSubscribe: https://www.youtube.com/subscription_center?add_user=dude8472productions\nOfficial Website: https://www.dude8472productions.com\n____________________________________________________\n\n© dude8472productions 2015\n\nThis video is the property of dude8472productions and may not be used in any way without permission.",source:"youtube",source_id:"8bMUvKosgGk",type:"Flight",stops:[],postdate:new Date(1449801439000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/alex-praglowski/2015/austrian-airlines-777-2z9er-oe-lpc-taxi-and-takeoff-from-tokyo-narita.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

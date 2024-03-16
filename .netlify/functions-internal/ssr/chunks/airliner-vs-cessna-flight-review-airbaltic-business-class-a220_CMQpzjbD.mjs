@@ -1,0 +1,10 @@
+const id = "paul-lucas/2023/airliner-vs-cessna-flight-review-airbaltic-business-class-a220";
+const collection = "trips";
+const data = {name:"AIRLINER vs CESSNA flight review! (Airbaltic Business Class A220)",description:"Get an exclusive Surfshark deal! Enter promo code WINGINIT for an extra 3 months free at https://surfshark.deals/winginit\n\nWelcome to a unique video! Surfshark flew me all the way to Lithuania in Airbaltic's business class. I had quite the trip on their A220 - twice! See our fire-related delay at Gatwick and a very rushed connection experience in Riga to get me to Vilnius!\n\nThere, I met with their CEO, Vytautas, who is a keen private pilot. We had a brilliant day flying from Paluknys (near Vilnius) out to Aleksotas Airfield in Kaunas - we covered the flight with five camera angles and some cockpit audio. I really hope you enjoy this unusual video! Thank you to Surfshark for facilitating the video and covering my travel expenses on this occasion, as well as to Vytautas for reintroducing me to general aviation. What a day for flying! \n\nFollow me on Twitter: @paul_winginit ¦ https://twitter.com/paul_winginit\nFollow me on Instagram: paul_winginit ¦ https://www.instagram.com/paul_winginit\nI made a Bright Trip guide: https://www.brighttrip.com/europebytrain\n\nMerch store: https://wingin-it.teemill.com/collection/all-products/\nPreferred VPN: https://surfshark.deals/winginit - promo code WINGINIT for discount\n\n♫ I use Epidemic sounds; give it a try: http://share.epidemicsound.com/paulwinginit\nJoin me on PATREON where you'll get perks like AD-FREE EARLY ACCESS viewing of all my trip report videos, my tips and tricks for hacking fares, my \"best of the month\" airfare rundown, and MORE...support me: https://www.patreon.com/winginit",source:"youtube",source_id:"VAAig_iSqzA",type:"Flight",stops:[],postdate:new Date(1696098552000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/paul-lucas/2023/airliner-vs-cessna-flight-review-airbaltic-business-class-a220.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

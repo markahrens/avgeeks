@@ -1,0 +1,10 @@
+const id = "alex-praglowski/2014/boeing-747-400lcf-dreamlifter-n780ba-extremely-foggy-night-takeoff-from-paine-field";
+const collection = "trips";
+const data = {name:"Boeing 747-400LCF Dreamlifter [N780BA] Extremely Foggy Night Takeoff from Paine Field ᴴᴰ",description:"So... I saw this guy on flightaware... And I got out of my cozy hotel bed at 3AM... And everything was going well... Then the fog came. Sigh.\n\nAnyway, this is a little bonus video for you guys (Yes, I know I said in my last dreamlifter video that it was the last one, but I wasn't sure on whether to upload this or not). It's not possible to see the takeoff at all in the video, but I included what footage I had, and also tweaked the video to be able to see as much as possible.\n\nThanks for watching! Please comment, rate, and subscribe!\n_____________________________________________________\n\nFLIGHT INFO\nFlightAware: http://flightaware.com/live/flight/N780BA\nAircraft registration: N780BA\nCallsign: Giant ???? Heavy\nRunway used: 34L\nDate Filmed: August 2013\n_____________________________________________________\n\nCheck out my previous video: https://www.youtube.com/watch?v=aq_M6oydoa4\n(UPS A300 Landing)\n_____________________________________________________\n\n© dude8472productions 2014\n\nThis video is the property of dude8472productions and may not be used in any way without permission.",source:"youtube",source_id:"0kFv8O3D29Q",type:"Flight",stops:[],postdate:new Date(1391649979000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/alex-praglowski/2014/boeing-747-400lcf-dreamlifter-n780ba-extremely-foggy-night-takeoff-from-paine-field.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

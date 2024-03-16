@@ -1,0 +1,10 @@
+const id = "alex-praglowski/2018/first-visit-delta-air-lines-717-2bd-n939at-landing-and-takeoff-at-calgary-airport";
+const collection = "trips";
+const data = {name:"First Visit! Delta Air Lines 717-2BD [N939AT] Landing and Takeoff at Calgary Airport",description:"2018 is off to a great start! Starting today, Delta Air Lines replaced one of our daily flights from Minneapolis (MSP) with a Boeing 717-200! I can't confirm this, but I believe this may have been the first ever visit of a 717 to Calgary, seeing as Delta is now the only airline that serves us and has 717s in their fleet. Mexicana did serve Calgary in the past, but only with A319s and not their 717s. Either way, I'm incredibly happy to see a \"Mad Dog\" back in YYC no matter how modernized! ATC is included, hope you enjoy!\n\nThanks for watching!\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nFLIGHT INFO\nAirline: Delta Air Lines (DAL/DL)\nAircraft: Boeing 717-200/McDonnell Douglas MD-95 (B712)\nAircraft Name: None\nLivery: Standard\nEngines: 2x BMW RR BR715 \nRegistration: N939AT\nRoute: Minneapolis (MSP) - Calgary (YYC) - Minneapolis (MSP)\nCallsign: Delta 2347/1365\nRunway used: 17L\nDate filmed: January 2, 2018\nLocal time: 1300/1500\nFlightAware: http://flightaware.com/live/flight/N939AT\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nOfficial Website: http://www.alexpraglowski.ca\nChannel: https://www.youtube.com/dude8472productions\nFacebook: https://www.facebook.com/AlexPAviation\nInstagram: https://www.instagram.com/ap.aviationphotography\nTwitter: https://www.twitter.com/AlexPYYC\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\n© Alex Praglowski Aviation 2018\n\nThis video is the property of Alex Praglowski Aviation and may not be used for any purpose without prior permission. \n\nMEDIA: Please contact me at the email in the \"About\" section of my channel.",source:"youtube",source_id:"SH7aIiVCfu0",type:"Flight",stops:[],postdate:new Date(1514953073000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/alex-praglowski/2018/first-visit-delta-air-lines-717-2bd-n939at-landing-and-takeoff-at-calgary-airport.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

@@ -1,0 +1,10 @@
+const id = "alex-praglowski/2015/air-canada-777-233lr-c-fiuf-taxiing-over-a-bridge-and-takeoff-from-calgary-airport";
+const collection = "trips";
+const data = {name:"Air Canada 777-233LR [C-FIUF] Taxiing Over a Bridge and Takeoff from Calgary Airport ᴴᴰ",description:"The taxiway R overpass in all its glory! Here we have C-FIUF, one of Air Canada's six Boeing 777-200LR aircraft operating AC 844 to Frankfurt. I've wanted to get a shot like this for a while, and finally got around to editing it together. The video includes ATC with captions, in addition to some amazing GE90 sound on the takeoff roll! Enjoy, fellow avgeeks.\n\nThanks for watching! Please comment, rate, and subscribe!\n____________________________________________________\n\nFLIGHT INFO\nAirline: Air Canada (ACA/AC)\nAircraft: Boeing 777-200LR (B77L)\nAircraft Name: None\nLivery: Standard\nEngines: 2x GE90-110B1L\nRegistration: C-FIUF\nRoute: YYC-FRA\nCallsign: Air Canada 844 heavy\nRunway used: 35R\nLocal Time: 1905\nFlightAware: http://flightaware.com/live/flight/CFIUF\n____________________________________________________\n\nPrevious video: https://www.youtube.com/watch?v=cCzqsPd9zOA\nFacebook: https://www.facebook.com/dude8472productions\nTwitter: https://www.twitter.com/dude8472_YYC\nChannel: https://www.youtube.com/dude8472productions\nGoogle Plus: https://www.google.com/+dude8472productions\nSubscribe: https://www.youtube.com/subscription_center?add_user=dude8472productions\nOfficial Website: https://www.dude8472productions.com\n____________________________________________________\n\n© dude8472productions 2015\n\nThis video is the property of dude8472productions and may not be used in any way without permission.",source:"youtube",source_id:"7XfsZrD1DP4",type:"Flight",stops:[],postdate:new Date(1435439836000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/alex-praglowski/2015/air-canada-777-233lr-c-fiuf-taxiing-over-a-bridge-and-takeoff-from-calgary-airport.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

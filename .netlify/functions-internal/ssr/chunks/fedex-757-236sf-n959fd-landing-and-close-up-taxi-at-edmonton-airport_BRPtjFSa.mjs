@@ -1,0 +1,10 @@
+const id = "alex-praglowski/2017/fedex-757-236sf-n959fd-landing-and-close-up-taxi-at-edmonton-airport";
+const collection = "trips";
+const data = {name:"FedEx 757-236SF [N959FD] Landing and Close Up Taxi at Edmonton Airport ᴴᴰ",description:"This spot is the closest you can get to the action at Edmonton International Airport, and it's always fantastic when anything big like a 757 takes this taxiway. Here we have Edmonton's weekday flight from FedEx arriving from Memphis just after sunrise on Runway 02 back in May. ATC is included, as it often is, hope you enjoy!\n\nThanks for watching!\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nFLIGHT INFO\nAirline: FedEx (FDX/FX)\nAircraft: Boeing 757-200SF (B752)\nAircraft Name: Kylie\nLivery: Standard\nEngines: 2x RR RB211-535E4 \nRegistration: N959FD\nRoute: MEM-YEG\nCallsign: FedEx 121 heavy\nRunway used: 02\nDate filmed: May 21, 2017\nLocal time: 0630\nFlightAware: http://flightaware.com/live/flight/N959FD\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nFlickr: https://www.flickr.com/photos/dude8472productions/\nTwitter: https://www.twitter.com/dude8472_YYC\nInstagram: https://www.instagram.com/dude8472productions\nChannel: https://www.youtube.com/dude8472productions\nOfficial Website: https://www.dude8472productions.com\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\n© dude8472productions 2017\n\nThis video is the property of dude8472productions and may not be used in any way without permission.",source:"youtube",source_id:"8-iRe6EemBo",type:"Flight",stops:[],postdate:new Date(1497621602000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/alex-praglowski/2017/fedex-757-236sf-n959fd-landing-and-close-up-taxi-at-edmonton-airport.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

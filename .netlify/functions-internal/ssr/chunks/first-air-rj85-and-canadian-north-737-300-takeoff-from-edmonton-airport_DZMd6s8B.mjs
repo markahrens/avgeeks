@@ -1,0 +1,10 @@
+const id = "alex-praglowski/2018/first-air-rj85-and-canadian-north-737-300-takeoff-from-edmonton-airport";
+const collection = "trips";
+const data = {name:"First Air RJ85 and Canadian North 737-300 Takeoff from Edmonton Airport",description:"Canadian North and First Air are the largest carriers that operate within Canada's Northwest Territories and Nunavut. While First Air tends to focus more out east, Canadian North has bases in the west in Calgary and Edmonton. Both carriers are seen here departing Edmonton's runway 02 back in August of 2017, with ATC included! Hope you enjoy.\n\nThanks for watching!\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nFLIGHT INFO (#1)\nAirline: First Air (FAB/7F)\nAircraft: Avro RJ85 (RJ85)\nAircraft Name: None\nLivery: Old with Ptarmigan tail\nEngines: 4x LY LF507-1F \nRegistration: C-FERJ\nRoute: Edmonton (YEG) - Yellowknife (YZF)\nCallsign: First Air 959\nRunway used: 02\nDate filmed: August 17, 2017 \nLocal time: 1600\n\nFLIGHT INFO (#2)\nAirline: Canadian North (MPE/5T)\nAircraft: Boeing 737-36Q (B733)\nAircraft Name: None\nLivery: Standard\nEngines: 2x CFMI CFM56-3C1 \nRegistration: C-GCNK\nRoute: Edmonton (YEG) - Fort MacKay (YFI)\nCallsign: Empress 1746\nRunway used: 02\nDate filmed: August 17, 2017\nLocal time: 1700\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nOfficial Website: http://www.alexpraglowski.ca\nChannel: https://www.youtube.com/dude8472productions\nFacebook: https://www.facebook.com/AlexPAviation\nInstagram: https://www.instagram.com/ap.aviationphotography\nTwitter: https://www.twitter.com/AlexPYYC\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\n© Alex Praglowski Aviation 2018\n\nThis video is the property of Alex Praglowski Aviation and may not be used for any purpose without prior permission. \n\nMEDIA: Please contact me at the email in the \"About\" section of my channel.",source:"youtube",source_id:"4y0SijOB3s0",type:"Flight",stops:[],postdate:new Date(1517374176000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/alex-praglowski/2018/first-air-rj85-and-canadian-north-737-300-takeoff-from-edmonton-airport.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

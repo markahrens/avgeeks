@@ -1,0 +1,10 @@
+const id = "alex-praglowski/2015/virgin-atlantic-a330-343-g-vluv-evening-landing-at-vancouver-airport";
+const collection = "trips";
+const data = {name:"Virgin Atlantic A330-343 [G-VLUV] Evening Landing at Vancouver Airport ᴴᴰ",description:"My very first time seeing Virgin Atlantic, but also my final upload from Vancouver International Airport. Here we have G-VLUV, one of VS' ten Airbus A330s, operating VIR95 from Heathrow, back in October. This route has since ceased operations, so it was a priority for me to capture it while I was there. Landing ATC is included, and I hope you enjoy!\nThanks for watching! Please comment, rate, and subscribe!\n____________________________________________________\n\nFLIGHT INFO\nAirline: Virgin Atlantic (VIR/VS)\nAircraft: Airbus A330-300 (A333)\nAircraft Name: Lady Love\nLivery: New\nEngines: 2x RR Trent 772B-60 \nRegistration: G-VLUV\nRoute: LHR-YVR\nCallsign: Virgin 95N heavy\nRunway used: 26R\nFlightAware: http://flightaware.com/live/flight/GVLUV\n____________________________________________________\n\nPrevious video: https://www.youtube.com/watch?v=0FrB-pPA1XY\nFacebook: https://www.facebook.com/dude8472productions\nTwitter: https://www.twitter.com/dude8472_YYC\nChannel: https://www.youtube.com/dude8472productions\nGoogle Plus: https://www.google.com/+dude8472productions\nSubscribe: https://www.youtube.com/subscription_center?add_user=dude8472productions\nOfficial Website: https://www.dude8472productions.com\n____________________________________________________\n\n© dude8472productions 2015\n\nThis video is the property of dude8472productions and may not be used in any way without permission.",source:"youtube",source_id:"MFiMQwXIFyw",type:"Flight",stops:[],postdate:new Date(1434772510000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/alex-praglowski/2015/virgin-atlantic-a330-343-g-vluv-evening-landing-at-vancouver-airport.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

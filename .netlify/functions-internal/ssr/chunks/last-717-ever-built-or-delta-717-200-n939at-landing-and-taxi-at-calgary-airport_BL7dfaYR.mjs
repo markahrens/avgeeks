@@ -1,0 +1,10 @@
+const id = "alex-praglowski/2018/last-717-ever-built-or-delta-717-200-n939at-landing-and-taxi-at-calgary-airport";
+const collection = "trips";
+const data = {name:"LAST 717 EVER BUILT | Delta 717-200 [N939AT] Landing and Taxi at Calgary Airport",description:"I can't get enough of these modern DC-9s! So happy that Calgary is now a destination for them. Here we have N939AT, the last ever passenger aircraft to roll off the McDonnell Douglas production line in Long Beach, California 12 years ago, landing and taxiing close up at Calgary International Airport. It's a shame that McDonnell Douglas didn't survive into the next generation of commercial aviation, but at least we have Delta keeping their final product in the air for a few more years. Enjoy this arrival video with ATC, and including a cameo from a WestJet 737MAX that landed just moments before.\n\nThanks for watching!\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nFLIGHT INFO \nAirline: Delta Air Lines (DAL/DL) \nAircraft: Boeing 717-2BD/McDonnell Douglas MD-95 (B712) \nAircraft Name: None \nLivery: Standard \nEngines: 2x BMW RR BR715 \nRegistration: N939AT Route: Minneapolis (MSP) - Calgary (YYC)\nCallsign: Delta 2347\nRunway used: 35R\nDate filmed: January 13, 2018 \nLocal time: 1330\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nInstagram: https://www.instagram.com/dude8472productions\nTwitter: https://www.twitter.com/dude8472_YYC\nChannel: https://www.youtube.com/dude8472productions\nFlickr: https://www.flickr.com/photos/dude8472productions/\nOfficial Website: https://www.dude8472productions.com\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\n© dude8472productions 2018\n\nThis video is the property of dude8472productions and may not be used for any purpose without prior permission. \n\nMEDIA: Please contact me at the email in the \"About\" section of my channel.",source:"youtube",source_id:"GD3ASH0FiBA",type:"Flight",stops:[],postdate:new Date(1517788256000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/alex-praglowski/2018/last-717-ever-built-or-delta-717-200-n939at-landing-and-taxi-at-calgary-airport.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

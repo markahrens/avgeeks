@@ -1,0 +1,10 @@
+const id = "alex-praglowski/2018/air-canada-boeing-767-300er-taxi-and-takeoff-from-calgary-airport";
+const collection = "trips";
+const data = {name:"Air Canada Boeing 767-300ER Taxi and Takeoff from Calgary Airport",description:"Air Canada's Boeing 767 is still a fairly common sight here in Calgary, but as soon as next year, they'll be gone from Canadian skies. But while they're still a member of Air Canada's fleet for the moment, they're always nice to see among the ever-growing population of 737 MAXes and 787s. Here we have C-FOCA, a 28-year-old example, taxiing and departing Calgary International Airport on runway 35R for Toronto, with ATC included! Hope you enjoy.\n\nThanks for watching!\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nFLIGHT INFORMATION\nAirline: Air Canada (ACA/AC)\nAircraft: Boeing 767-375(ER) (B763)\nFlight Number: AC010\nAircraft Name: None \nLivery: Old (2005-2017)\nEngines: 2x GE CF6-80C2B6F \nRegistration: C-FOCA\nRoute: Calgary (YYC) - Toronto-Pearson (YYZ)\nCallsign: AIR CANADA 010 heavy\nRunway used: 35R\nDate filmed: June 16, 2018\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nOfficial Website: http://www.alexpraglowski.ca\nChannel: https://www.youtube.com/dude8472productions\nFacebook: https://www.facebook.com/AlexPAviation\nInstagram: https://www.instagram.com/ap.aviationphotography\nTwitter: https://www.twitter.com/AlexPYYC\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\n© Alex Praglowski Aviation 2018\n\nThis video is the property of dude8472productions / Alex Praglowski Aviation and may not be used for any purpose without prior permission. \n\nMEDIA: Please contact me at the email in the \"About\" section of my channel.",source:"youtube",source_id:"bpY8ZwZxQu0",type:"Flight",stops:[],postdate:new Date(1532880003000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/alex-praglowski/2018/air-canada-boeing-767-300er-taxi-and-takeoff-from-calgary-airport.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

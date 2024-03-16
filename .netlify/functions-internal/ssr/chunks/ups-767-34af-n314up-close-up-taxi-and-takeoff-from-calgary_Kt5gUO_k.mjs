@@ -1,0 +1,10 @@
+const id = "alex-praglowski/2015/ups-767-34af-n314up-close-up-taxi-and-takeoff-from-calgary";
+const collection = "trips";
+const data = {name:"UPS 767-34AF [N314UP] Close Up Taxi and Takeoff from Calgary ᴴᴰ",description:"767 + winglets = Even better looking 767. Here we have N314UP taxiing close up and taking off from Calgary International Airport. The perspective at the beginning is slightly different due to the fact that he used runway 11/29 as a taxiway and made a couple of close up turns, which is just fine by me since it makes for some more interesting shots. Sorry for the bad camera work on the takeoff. I wouldn't have uploaded this if not for the great close up taxi. Also included is a bonus clip of the Air Canada 777-200LR spooling up just before UPS. Enjoy the video!\n\nThanks for watching! Please comment, rate, and subscribe!\n____________________________________________________\n\nFLIGHT INFO\nAirline: United Parcel Service (UPS/UP)\nAircraft: Boeing 767-300F/WL\nAircraft Name: None\nLivery: Standard\nEngines: 2x CF6-80 \nRegistration: N314UP\nRoute: YYC-SDF\nCallsign: UPS 491 Heavy\nRunway used: 35R\nFlightAware: http://flightaware.com/live/flight/N314UP\n____________________________________________________\n\nPrevious video: https://www.youtube.com/watch?v=WbxTtW37Y5k\nFacebook: http://www.facebook.com/dude8472productions\nMy Channel: http://www.youtube.com/dude8472productions\nGoogle Plus: http://www.google.com/+dude8472productions\nSubscribe: http://www.youtube.com/subscription_center?add_user=dude8472productions\nMy Website: http://www.dude8472productions.com\n____________________________________________________\n\n© dude8472productions 2015\n\nThis video is the property of dude8472productions and may not be used in any way without permission.",source:"youtube",source_id:"VD8Up3xOOO8",type:"Flight",stops:[],postdate:new Date(1426462885000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/alex-praglowski/2015/ups-767-34af-n314up-close-up-taxi-and-takeoff-from-calgary.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

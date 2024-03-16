@@ -1,0 +1,10 @@
+const id = "josh-cahill/2022/africas-smallest-airline-quirky-malawi-air-737-to-tanzania";
+const collection = "trips";
+const data = {name:"AFRICA'S SMALLEST AIRLINE - QUIRKY MALAWI AIR 737 to Tanzania!",description:"▶︎  Get an exclusive NordPass deal plus 1 additional month for FREE here: https://nordpass.com/josh or use code josh at the checkout!\n\n▶︎ Support ME and become a PATRON to join my WhatsApp Group and many more perks! \n\nhttps://www.patreon.com/joshcahill\n\nThis is a comprehensive Flight Review of Malawi Airlines.\n\nClass: Economy\nRoute: Johannesburg (JNB) to Dar Es Salam (DAR) via Blantyre (BLZ)\nPlane: Boeing 737-700 & Dash 8\n\n▶︎ Follow me on Instagram, Facebook, TikTok and Twitter!\n\nhttps://instagram.com/gotravelyourway\nhttps://www.facebook.com/gotravelyourway\nhttps://twitter.com/gotravelyourway\nhttps://www.tiktok.com/@gotravelyourway\n\n▶︎ My Website: http://www.gotravelyourway.com\n▶︎ Email Contact: gotravelyourway@gmail.com\n\nChapters:\n\n0:00 Intro\n0:41 Check In\n2:11 British Airways 737\n2:37 AirTag Thoughts\n3:39 Travel is Back\n4:25 Malawi Airlines 737\n5:03 Boarding\n5:40 Cabin Intro\n6:19 Take Off\n7:07 Passenger Interview\n8:52 Food Review\n10:36 The Loo Review\n11:53 Landing in Malawi\n13:39 Blantyre Airport\n15:08 Dash 8 Boarding\n15:52 Take Off\n16:22 Cabin Intro\n17:35 Landing in Tanzania\n18:00 Arrival Experience\n19:41 Summary\n\n#malawi #joshcahill #aviation",source:"youtube",source_id:"a6gbQ1jabtA",type:"Flight",stops:[],postdate:new Date(1653127200000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/josh-cahill/2022/africas-smallest-airline-quirky-malawi-air-737-to-tanzania.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

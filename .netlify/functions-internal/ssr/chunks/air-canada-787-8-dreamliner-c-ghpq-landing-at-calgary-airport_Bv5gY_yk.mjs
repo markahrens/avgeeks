@@ -1,0 +1,10 @@
+const id = "alex-praglowski/2016/air-canada-787-8-dreamliner-c-ghpq-landing-at-calgary-airport";
+const collection = "trips";
+const data = {name:"Air Canada 787-8 Dreamliner [C-GHPQ] Landing at Calgary Airport ᴴᴰ",description:"Follow me on Flickr: https://www.flickr.com/photos/dude8472productions/\n\nToday, January 28th, 2016, Air Canada flew their first international 787 Dreamliner flight to Calgary Airport. The aircraft, C-GHPQ (the first 787 to ever visit YYC, in 2014), operated AC851 from London-Heathrow and touched down on runway 35R at 1515 local time. All of Air Canada's long haul flights from Calgary will be operated by 787s at the beginning of May. Enjoy this quick Dreamliner video!\n\nThanks for watching! Please comment, rate, and subscribe!\n____________________________________________________\n\nFLIGHT INFO\nAirline: Air Canada (ACA/AC)\nAircraft: Boeing 787-8 Dreamliner (B788)\nAircraft Name: Fin 801\nLivery: Standard\nEngines: 2x GEnx-1B\nRegistration: C-GHPQ\nRoute: LHR-YYC\nCallsign: Air Canada 851 heavy \nRunway used: 35R\nLocal Time: 1500\nFlightAware: http://flightaware.com/live/flight/CGHPQ\n____________________________________________________\n\nPrevious video: https://www.youtube.com/watch?v=H5h0f3SD8Mk\nFlickr: https://www.flickr.com/photos/dude8472productions/\nTwitter: https://www.twitter.com/dude8472_YYC\nChannel: https://www.youtube.com/dude8472productions\nGoogle Plus: https://www.google.com/+dude8472productions\nSubscribe: https://www.youtube.com/subscription_center?add_user=dude8472productions\nOfficial Website: https://www.dude8472productions.com\n____________________________________________________\n\n© dude8472productions 2016\n\nThis video is the property of dude8472productions and may not be used in any way without permission.",source:"youtube",source_id:"EZBsaHirnrA",type:"Flight",stops:[],postdate:new Date(1454033917000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/alex-praglowski/2016/air-canada-787-8-dreamliner-c-ghpq-landing-at-calgary-airport.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

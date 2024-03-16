@@ -1,0 +1,10 @@
+const id = "alex-praglowski/2021/new-premium-seats-westjet-boeing-737-max-8-vancouver-to-calgary";
+const collection = "trips";
+const data = {name:"NEW PREMIUM SEATS! WestJet Boeing 737 MAX 8 Vancouver to Calgary",description:"WestJet's Premium product has undergone some big changes in the past few years, most notably with the addition of proper 2x2 recliner style seats in place of the older \"Euro-business\" Economy ones with the middle seat blocker.\n\nThe 737 MAXs all have these new 2x2 seats, and after having flown the first commercial 737 MAX flight in Canada in 22 months, I tried out Premium on the very second flight, back to Calgary!\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nBecome a Channel Member:\nhttps://www.youtube.com/channel/UCN1SQ1Ffsm_13OQu7MwHXbA/join\n\nWebsite: https://www.alexpraglowski.ca\nInstagram: https://www.instagram.com/alexpraglowskiaviation\nTwitter: https://www.twitter.com/AlexPraglowski\nFacebook: https://www.facebook.com/AlexPAviation\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nFLIGHT INFORMATION\nAirline: WestJet Airlines (WJA/WS)\nAircraft: Boeing 737 MAX 8 (B38M)\nFlight Number: WS122\nSeat: 1F\nLivery: New (2018)\nEngines: 2x CFM LEAP-1B\nRegistration: C-FHCM\nRoute: Vancouver (YVR) - Calgary (YYC)\nCallsign: WESTJET 122\nRunway used: 26L (YVR) - 35L (YYC)\nDate filmed: January 2021\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nOutro song - \"Take Flight\" by Nyhtian: https://youtu.be/bCTTwQ_269c\n\n#TallPeopleFlying\n\n© Alex Praglowski Aviation 2021\n\nThis video is the property of Alex Praglowski Aviation and may not be used for any purpose without prior permission. Contact me at the email in the \"About\" section of my channel for usage.",source:"youtube",source_id:"_lWRgSn5lI4",type:"Flight",stops:[],postdate:new Date(1613919598000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/alex-praglowski/2021/new-premium-seats-westjet-boeing-737-max-8-vancouver-to-calgary.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

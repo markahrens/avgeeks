@@ -1,0 +1,10 @@
+const id = "alex-praglowski/2017/15-minutes-of-snowy-plane-spotting-heavies-at-calgary-international-airport";
+const collection = "trips";
+const data = {name:"15+ Minutes of Snowy Plane Spotting - Heavies at Calgary International Airport ᴴᴰ",description:"On November 11th, I headed out to YYC to get some of our regular heavy visitors in some gorgeous winter lighting, and compiled them all into this video! Including KLM, Hainan, British Airways, and the usual Canadian heavies. Enjoy this 15+ minute compilation of heavies in some wintery weather at Calgary International Airport, with ATC included!\n\nThanks for watching!\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nFLIGHT INFO\n#1: Hainan Airlines A330-200 - \"Hainan 7978 heavy\" - YYC-PEK \n#2: Air Canada 787-9 - \"Air Canada 845 heavy\" - FRA-YYC\n#3: WestJet 767-300ER - \"WestJet 2 heavy\" - LGW-YYC\n#4: Air Canada 787-9 - \"Air Canada 851 heavy\" - LHR-YYC\n#5: British Airways 787-8  - \"Speedbird 1YC heavy\" - LHR-YYC \n#6: KLM 787-9  - \"KLM 678 heavy\" - YYC-AMS \n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nOfficial Website: http://www.alexpraglowski.ca\nChannel: https://www.youtube.com/dude8472productions\nFacebook: https://www.facebook.com/AlexPAviation\nInstagram: https://www.instagram.com/ap.aviationphotography\nTwitter: https://www.twitter.com/AlexPYYC\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\n© Alex Praglowski Aviation 2017\n\nThis video is the property of Alex Praglowski Aviation and may not be used for any purpose without prior permission. \n\nMEDIA: Please contact me at the email in the \"About\" section of my channel.",source:"youtube",source_id:"TI-3EYbTHs8",type:"Flight",stops:[],postdate:new Date(1510609293000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/alex-praglowski/2017/15-minutes-of-snowy-plane-spotting-heavies-at-calgary-international-airport.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

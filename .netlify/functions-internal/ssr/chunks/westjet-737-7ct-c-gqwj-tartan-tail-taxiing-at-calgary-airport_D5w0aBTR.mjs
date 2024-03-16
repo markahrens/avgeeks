@@ -1,0 +1,10 @@
+const id = "alex-praglowski/2015/westjet-737-7ct-c-gqwj-tartan-tail-taxiing-at-calgary-airport";
+const collection = "trips";
+const data = {name:"WestJet 737-7CT [C-GQWJ] \"Tartan Tail\" Taxiing at Calgary Airport ᴴᴰ",description:"Aye, laddie! Here we have WestJet's newest special livery, AKA Tartan Tail, taxiing after landing at Calgary International Airport. Revealed on May 9th, to celebrate the addition of Glasgow to WestJet's route network, one of its first flights was YYC, and I just so happened to be out there when it returned from YMM, after flying there earlier in the day. Sorry for the shakiness, this was all filmed hand held, and you know me and hand held filming. I hope you enjoy this quick shot of Tartan Tail, nonetheless!\n\nThanks for watching! Please comment, rate, and subscribe!\n____________________________________________________\n\nFLIGHT INFO\nAirline: WestJet (WJA/WS)\nAircraft: Boeing 737-700 (B73G)\nAircraft Name: None\nLivery: Tartan Tail\nEngines: 2x CFMI CFM56-7B24 \nRegistration: C-GQWJ\nRoute: YMM-YYC\nCallsign: WestJet 558\nRunway used: 17L\nLocal Time: 1601\nFlightAware: http://flightaware.com/live/flight/CGQWJ\n____________________________________________________\n\nPrevious video: https://www.youtube.com/watch?v=E7aq0GGa8bY\nFacebook: http://www.facebook.com/dude8472productions\nMy Channel: http://www.youtube.com/dude8472productions\nGoogle Plus: http://www.google.com/+dude8472productions\nSubscribe: http://www.youtube.com/subscription_center?add_user=dude8472productions\nMy Website: http://www.dude8472productions.com\n____________________________________________________\n\n© dude8472productions 2015\n\nThis video is the property of dude8472productions and may not be used in any way without permission.",source:"youtube",source_id:"7lnDHyhuuA8",type:"Flight",stops:[],postdate:new Date(1431490573000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/alex-praglowski/2015/westjet-737-7ct-c-gqwj-tartan-tail-taxiing-at-calgary-airport.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

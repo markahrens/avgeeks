@@ -1,0 +1,10 @@
+const id = "alex-praglowski/2018/trip-report-or-air-canada-airbus-a321-200-preferred-seats-calgary-to-toronto";
+const collection = "trips";
+const data = {name:"TRIP REPORT | Air Canada Airbus A321-200 (PREFERRED SEATS) Calgary to Toronto",description:"My first trip report on board an Air Canada flight! C-FLKX, one of Air Canada's Airbus A321s took me from my home town in Calgary to Toronto, in Air Canada's economy class, but in their preferred seating section. For me, the Calgary-Toronto route is my most flown one, this being my 6th time flying it (I think), but this is my first time actually documenting it, so I hope you all enjoy this trip report on Air Canada's A321!\n\nThanks for watching!\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nVIDEO LOG\n00:05 - Pre-Security\n01:25 - Post-Security\n02:30 - At the gate\n02:55 - Boarding\n08:10 - In Flight\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nFLIGHT INFORMATION\nAirline: Air Canada (ACA/AC)\nAircraft: Airbus A321-211 (A321)\nFlight Number: AC140\nSeat: 12A\nAircraft Name: None\nLivery: New (2017)\nEngines: 2x CFMI CFM56-5B3/P \nRegistration: C-FLKX\nRoute: Calgary (YYC) - Toronto-Pearson (YYZ)\nCallsign: AIR CANADA 140\nRunway used: 35R (YYC) - 23 (YYZ)\nDate filmed: July 2018\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nOfficial Website: http://www.alexpraglowski.ca\nChannel: https://www.youtube.com/dude8472productions\nFacebook: https://www.facebook.com/AlexPAviation\nInstagram: https://www.instagram.com/ap.aviationphotography\nTwitter: https://www.twitter.com/AlexPYYC\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\n© Alex Praglowski Aviation 2018\n\nThis video is the property of dude8472productions / Alex Praglowski Aviation and may not be used for any purpose without prior permission. \n\nMEDIA: Please contact me at the email in the \"About\" section of my channel.",source:"youtube",source_id:"_jrgPzVWOy0",type:"Flight",stops:[],postdate:new Date(1533764554000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/alex-praglowski/2018/trip-report-or-air-canada-airbus-a321-200-preferred-seats-calgary-to-toronto.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

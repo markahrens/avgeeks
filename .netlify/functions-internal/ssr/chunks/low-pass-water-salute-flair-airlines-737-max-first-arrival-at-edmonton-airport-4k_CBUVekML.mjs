@@ -1,0 +1,10 @@
+const id = "alex-praglowski/2021/low-pass-water-salute-flair-airlines-737-max-first-arrival-at-edmonton-airport-4k";
+const collection = "trips";
+const data = {name:"LOW PASS + WATER SALUTE! Flair Airlines 737 MAX First Arrival at Edmonton Airport [4K]",description:"Thank you to RadarBox for supporting this plane spotting video! Find out more about them at https://www.radarbox.com/?referrer=AlexAviation\n\nPrior to their inaugural 737 MAX flight on June 10th, Flair ferried the aircraft from their maintenance base in Calgary to their HQ in Edmonton.\n\nAs the first Flair MAX to arrive in Edmonton, they and Edmonton International Airport put on an amazing show, with two low passes (I filmed one and took pictures of the other), along with a water salute before taxiing to the hangar.\n\nCongrats to Flair once again!\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nBecome a Channel Member:\nhttps://www.youtube.com/channel/UCN1SQ1Ffsm_13OQu7MwHXbA/join\n\nWebsite: https://www.alexpraglowski.ca\nInstagram: https://www.instagram.com/alexpraglowskiaviation\nTwitter: https://www.twitter.com/AlexPraglowski\nFacebook: https://www.facebook.com/AlexPAviation\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nFLIGHT INFORMATION\nAirline: Flair Airlines (FLE/F8)\nAircraft: Boeing 737-8 MAX (B38M)\nFlight Number: F8930\nLivery: New (2021)\nEngines: 2x CFM LEAP-1B\nRegistration: C-FLEJ\nRoute: Calgary (YYC) - Edmonton (YEG)\nCallsign: FLAIR 930\nRunway used: 30\nDate filmed: June 10, 2021\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nOutro song - \"Take Flight\" by Nyhtian: https://youtu.be/bCTTwQ_269c\n\n© Alex Praglowski Aviation 2021\n\nThis video is the property of Alex Praglowski Aviation and may not be used for any purpose without prior permission. Contact me at the email in the \"About\" section of my channel for usage.",source:"youtube",source_id:"IYcNG6nF_2w",type:"Flight",stops:[],postdate:new Date(1623592826000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/alex-praglowski/2021/low-pass-water-salute-flair-airlines-737-max-first-arrival-at-edmonton-airport-4k.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

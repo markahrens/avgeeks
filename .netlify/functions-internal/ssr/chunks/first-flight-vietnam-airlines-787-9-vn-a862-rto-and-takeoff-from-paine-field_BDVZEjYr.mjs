@@ -1,0 +1,10 @@
+const id = "alex-praglowski/2015/first-flight-vietnam-airlines-787-9-vn-a862-rto-and-takeoff-from-paine-field";
+const collection = "trips";
+const data = {name:"First Flight! Vietnam Airlines 787-9 [VN-A862] RTO and Takeoff from Paine Field ᴴᴰ",description:"My very first video of a Boeing 787-9 Dreamliner! Here we have Vietnam Airlines' second 787 performing a rejected takeoff test and then lifting off on its first flight, with lots of water spray! The aircraft has since been delivered. The 787-8 is already an amazing looking aircraft, but the dash 9 is so much more proportional. Add Vietnam Airlines' excellent updated livery to that, and you've got one nice looking airplane. Enjoy, fellow avgeeks!\n\nThanks for watching! Please comment, rate, and subscribe!\n____________________________________________________\n\nFLIGHT INFO\nAirline: Vietnam Airlines (HVN/VN)\nAircraft: Boeing 787-9 Dreamliner\nAircraft Name: None\nLivery: Updated\nEngines: 2x GEnx-1B \nRegistration: VN-A862\nRoute: PAE-PAE\nCallsign: Boeing 537 heavy\nRunway used: 16R\nLocal Time: 1030\nFlightAware: http://flightaware.com/live/flight/VNA862\n____________________________________________________\n\nPrevious video: https://www.youtube.com/watch?v=RD7PE46xaVM\nFacebook: https://www.facebook.com/dude8472productions\nTwitter: https://www.twitter.com/dude8472_YYC\nChannel: https://www.youtube.com/dude8472productions\nGoogle Plus: https://www.google.com/+dude8472productions\nSubscribe: https://www.youtube.com/subscription_center?add_user=dude8472productions\nOfficial Website: https://www.dude8472productions.com\n____________________________________________________\n\n© dude8472productions 2015\n\nThis video is the property of dude8472productions and may not be used in any way without permission.",source:"youtube",source_id:"SldvqJDq1aE",type:"Flight",stops:[],postdate:new Date(1439584674000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/alex-praglowski/2015/first-flight-vietnam-airlines-787-9-vn-a862-rto-and-takeoff-from-paine-field.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

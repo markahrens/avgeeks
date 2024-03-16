@@ -1,0 +1,10 @@
+const id = "jeb-brooks/2020/delta-a350-delta-one-international-business-class-flight";
+const collection = "trips";
+const data = {name:"Delta A350 Delta One International Business Class Flight",description:"This Delta A350 video was sponsored by NordVPN. Head to https://nordvpn.com/jebbrooks and use promo code JebBrooks to sign up and get 70% off + one month free! Also, NordVPN is giving away surprise gifts to their customers as they celebrate their birthday!\n\nDelta Air Lines’ A350 is their flagship airplane. I flew on the first ever Delta A350 flight back in October 2017, but haven’t been back in a Delta One Suite (the Delta A350 first class) since then. \n\nI needed to get to Cape Town and when I saw the Delta A350 flight as part of a potential itinerary, I jumped out of my seat! Flying on the very first flight of the Delta A350 was exciting enough, but getting the chance to see whether it has stood the test of time was even more exciting.\n\nThis video highlights the lounge in Detroit, the Delta A350 Delta One Suite, IFE, Food, and service. If you’re thinking about flying with Delta in their flagship A350 – particularly in Delta One - this video has it all!\n\nHere’s a link to the unedited take-off and landing footage:\nhttps://youtu.be/chVCCsd85UE\n\nCheck out my Sponsorship Policy here:\nhttp://greenergrass.com/sponsors\n\nFor more trip reports, please subscribe to my channel!\nhttp://www.JebBrooksFlies.com\n\nCheck me out on Instagram: \nhttps://www.instagram.com/jebbrooksflies \n\nAnd don't forget to take a look at my travel blog: \nhttps://greenergrass.com/ \n\nMusic:\nPrescient – Howard Harper-Barnes\nMicro Evolution - Howard Harper-Barnes\nNever Complain, Never Explain - Howard Harper-Barnes\nVague – Amaranth Cove",source:"youtube",source_id:"QFn1dc5h-EY",type:"Flight",stops:[],postdate:new Date(1583589610000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/jeb-brooks/2020/delta-a350-delta-one-international-business-class-flight.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

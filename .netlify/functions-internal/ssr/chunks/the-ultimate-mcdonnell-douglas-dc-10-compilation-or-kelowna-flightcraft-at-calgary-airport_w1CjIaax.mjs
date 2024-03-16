@@ -1,0 +1,10 @@
+const id = "alex-praglowski/2018/the-ultimate-mcdonnell-douglas-dc-10-compilation-or-kelowna-flightcraft-at-calgary-airport";
+const collection = "trips";
+const data = {name:"The Ultimate McDonnell Douglas DC-10 Compilation | Kelowna Flightcraft at Calgary Airport",description:"Up until 2015, Kelowna Flightcraft, a Canadian cargo carrier, operated McDonnell-Douglas DC-10s into Calgary, operating for Purolator, until they lost the contract at the start of 2015 to Cargojet, who had much newer 757s and 767s. Just over 3 years ago in March 2015, Kelowna Flightcraft officially stopped flying their DC-10-30F here, a sad day for Calgary as we haven't had a DC-10 here since, and even sadder for me as I was actually out of town in Japan at the time. \n\nNonetheless, I still wanted to make this compilation of some of my favourite DC-10 clips, all filmed from 2013 to 2015. This includes 3 of Kelowna Flightcraft's DC-10s, C-GKFB (which has since been scrapped), as well as C-GKFD and C-GKFT which are both still flying with Kelowna Flightcraft, which has also rebranded to KF Aerospace since. \n\nEnjoy this 20+ minute compilation of DC-10 action!\n\nThanks for watching!\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nOfficial Website: https://www.dude8472productions.com\nChannel: https://www.youtube.com/dude8472productions\nFacebook: https://www.facebook.com/dude8472productionsYT\nInstagram: https://www.instagram.com/dude8472productions\nTwitter: https://www.twitter.com/dude8472_YYC\nFlickr: https://www.flickr.com/photos/dude8472productions/\n\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\n© dude8472productions 2018\n\nThis video is the property of dude8472productions and may not be used for any purpose without prior permission. \n\nMEDIA: Please contact me at the email in the \"About\" section of my channel.",source:"youtube",source_id:"qjczYXe2vNY",type:"Flight",stops:[],postdate:new Date(1522245604000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/alex-praglowski/2018/the-ultimate-mcdonnell-douglas-dc-10-compilation-or-kelowna-flightcraft-at-calgary-airport.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

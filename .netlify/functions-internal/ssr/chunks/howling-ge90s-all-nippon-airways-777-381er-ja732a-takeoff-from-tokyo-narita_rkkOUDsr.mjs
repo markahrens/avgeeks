@@ -1,0 +1,10 @@
+const id = "alex-praglowski/2015/howling-ge90s-all-nippon-airways-777-381er-ja732a-takeoff-from-tokyo-narita";
+const collection = "trips";
+const data = {name:"Howling GE90s! All Nippon Airways 777-381ER [JA732A] Takeoff from Tokyo Narita ᴴᴰ",description:"Just listen to those engines! Here is my very first spotting video from Tokyo Narita International Airport, featuring a Boeing 777-300ER from Japan's largest airline, All Nippon Airways. You can really hear the power of JA732A's 2 GE90-115Bs powering this bird out for a thirteen hour flight to Washington Dulles International Airport. Apologies for the fence, the viewing area at Narita is closed in with a wire mesh which made it tricky to film out of. Anyway, I hope you all enjoy this GE90 action!\n\nThanks for watching! Please comment, rate, and subscribe!\n____________________________________________________\n\nFLIGHT INFO\nAirline: All Nippon Airways (ANA/NH)\nAircraft: Boeing 777-300ER (B77W)\nAircraft Name: None\nLivery: Standard\nEngines: 2x GE90-115B\nRegistration: JA732A\nRoute: NRT-IAD\nCallsign: All Nippon 002 Heavy\nRunway used: 16R\nLocal Time: 1125\nFlightAware: http://flightaware.com/live/flight/JA732A\n____________________________________________________\n\nPrevious video: http://www.youtube.com/watch?v=wE3Cjj2yp_o\nFacebook: http://www.facebook.com/dude8472productions\nMy Channel: http://www.youtube.com/dude8472productions\nGoogle Plus: http://www.google.com/+dude8472productions\nSubscribe: http://www.youtube.com/subscription_center?add_user=dude8472productions\nMy Website: http://www.dude8472productions.com\n____________________________________________________\n\n© dude8472productions 2015\n\nThis video is the property of dude8472productions and may not be used in any way without permission.",source:"youtube",source_id:"A1Ysca4yom8",type:"Flight",stops:[],postdate:new Date(1432165007000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/alex-praglowski/2015/howling-ge90s-all-nippon-airways-777-381er-ja732a-takeoff-from-tokyo-narita.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

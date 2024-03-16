@@ -1,0 +1,10 @@
+const id = "alex-praglowski/2018/klm-asia-boeing-777-200er-landing-and-takeoff-at-calgary-airport";
+const collection = "trips";
+const data = {name:"KLM Asia Boeing 777-200ER Landing and Takeoff at Calgary Airport",description:"Nice to see KLM's 777 again! KLM's service to Calgary this winter is operated by a mix of A330-300s and 787-9s, but with an occasional 777 thrown in. Here's one such visit from their 777, making a windy landing on runway 35R and departing after a 2 hour stay on the ground during golden hour back to Amsterdam. ATC is included!\n\nThanks for watching!\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nFLIGHT INFORMATION\nAirline: KLM Royal Dutch Airlines (KLM/KL)\nAircraft: Boeing 777-206(ER) (B772)\nFlight Number: KL677/KL678\nAircraft Name: \"Iguazú Falls\"\nLivery: Asia\nEngines: 2x General Electric GE90-94B\nRegistration: PH-BQI\nRoute: Amsterdam-Schiphol (AMS) - Calgary (YYC) - Amsterdam-Schiphol (AMS)\nCallsign: KLM 677/678 heavy\nRunway used: 35R\nDate filmed: December 21, 2018\nLocal time: 1330/1600\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nOfficial Website: http://www.alexpraglowski.ca\nChannel: https://www.youtube.com/dude8472productions\nFacebook: https://www.facebook.com/AlexPAviation\nInstagram: https://www.instagram.com/ap.aviationphotography\nTwitter: https://www.twitter.com/AlexPYYC\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\n© Alex Praglowski Aviation 2018\n\nThis video is the property of Alex Praglowski Aviation and may not be used for any purpose without prior permission. \n\nMEDIA: Please contact me at the email in the \"About\" section of my channel.",source:"youtube",source_id:"HHu0d1Mmd6I",type:"Flight",stops:[],postdate:new Date(1545511450000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/alex-praglowski/2018/klm-asia-boeing-777-200er-landing-and-takeoff-at-calgary-airport.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

@@ -1,0 +1,10 @@
+const id = "alex-praglowski/2013/the-best-engine-sounds-of-2013";
+const collection = "trips";
+const data = {name:"The Best Engine Sounds of 2013",description:"1. Morningstar Air Express 757-200F with RB211 engines\n2. Cargolux 747-8F with GEnx-2B67 engines\n3. Norwegian Long Haul 787-8 with RR Trent 1000 engines\n4. Atlas Air 747-400 with GE CF6-80C2B1F engines\n5. British Airways 767-300ER with RR RB211-524H engines\n6. National Air Cargo 747-400F with GE CF6-80C2B1F engines\n7. World Airways MD-11 with PW4462 engines\n_____________________________________________________\n\nCheck out my previous video: http://www.youtube.com/watch?v=cUvhEuVZpKY\n(Calgary International Airport 2013 music video)\n_____________________________________________________\n\n© 2013",source:"youtube",source_id:"05JApNQFq18",type:"Flight",stops:[],postdate:new Date(1388518379000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/alex-praglowski/2013/the-best-engine-sounds-of-2013.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

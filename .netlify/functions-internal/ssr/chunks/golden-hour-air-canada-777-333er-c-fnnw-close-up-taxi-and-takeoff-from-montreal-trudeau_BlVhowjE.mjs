@@ -1,0 +1,10 @@
+const id = "alex-praglowski/2017/golden-hour-air-canada-777-333er-c-fnnw-close-up-taxi-and-takeoff-from-montreal-trudeau";
+const collection = "trips";
+const data = {name:"Golden Hour! Air Canada 777-333ER [C-FNNW] Close Up Taxi and Takeoff from Montréal-Trudeau ᴴᴰ",description:"Air Canada is by far the largest airline at Montréal-Trudeau, the airport being one of AC's three main hubs (YYC is sort of a weird mix between hub and focus city). Here's one of the airline's busiest routes, Montréal to London, departing 24L at YUL in some gorgeous evening lighting on board one of the carrier's high density 77Ws, fin number 747, ironically. Enjoy this golden takeoff with ATC!\n\nThanks for watching!\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nFLIGHT INFO\nAirline: Air Canada (ACA/AC)\nAircraft: Boeing 777-300ER (B77W)\nAircraft Name: None\nLivery: Old (2005-2017)\nEngines: 2x GE90-115B\nRegistration: C-FNNW\nRoute: Montréal-Trudeau (YUL) - London-Heathrow (LHR)\nCallsign: Air Canada 864 heavy\nRunway used: 24L\nDate filmed: July 17, 2017\nLocal time: 2000\nFlightAware: http://flightaware.com/live/flight/CFNNW\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nFlickr: https://www.flickr.com/photos/dude8472productions/\nTwitter: https://www.twitter.com/dude8472_YYC\nInstagram: https://www.instagram.com/dude8472productions\nChannel: https://www.youtube.com/dude8472productions\nOfficial Website: https://www.dude8472productions.com\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\n© dude8472productions 2017\n\nThis video is the property of dude8472productions and may not be used in any way without permission.",source:"youtube",source_id:"sbzWtTxcolE",type:"Flight",stops:[],postdate:new Date(1503522976000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/alex-praglowski/2017/golden-hour-air-canada-777-333er-c-fnnw-close-up-taxi-and-takeoff-from-montreal-trudeau.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

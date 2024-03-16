@@ -1,0 +1,10 @@
+const id = "alex-praglowski/2021/training-flight-air-canada-boeing-737-max-8-snowy-action-at-calgary-airport";
+const collection = "trips";
+const data = {name:"TRAINING FLIGHT! Air Canada Boeing 737 MAX 8 Snowy Action at Calgary Airport",description:"On February 1st, 2021, Air Canada became the second Canadian airline to return the 737 MAX to service.\n\nAs part of that, Air Canada did multiple training flights in both Eastern and Western Canada in the weeks prior. In the western triangle, two 737 MAXs were flying between Calgary, Edmonton, and Vancouver in varying directions.\n\nI'm glad to see the Air Canada MAX back, of all the types flying their new livery, I think the MAX suits it best. Enjoy the video! \n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nBecome a Channel Member:\nhttps://www.youtube.com/channel/UCN1SQ1Ffsm_13OQu7MwHXbA/join\n\nWebsite: https://www.alexpraglowski.ca\nInstagram: https://www.instagram.com/alexpraglowskiaviation\nTwitter: https://www.twitter.com/AlexPraglowski\nFacebook: https://www.facebook.com/AlexPAviation\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nFLIGHT INFORMATION\nAirline: Air Canada (ACA/AC)\nAircraft: Boeing 737 MAX 8 (B38M)\nFlight Number: AC2354/AC2355\nLivery: New (2017)\nEngines: 2x CFM LEAP-1B\nRegistration: C-FSNU\nRoute: Vancouver (YVR) - Calgary (YYC) - Edmonton (YEG)\nCallsign: AIR CANADA 2354/2355\nRunway used: 17R / 17L\nDate filmed: January 28th, 2021\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nOutro song - \"Take Flight\" by Nyhtian: https://youtu.be/bCTTwQ_269c\n\n© Alex Praglowski Aviation 2021\n\nThis video is the property of Alex Praglowski Aviation and may not be used for any purpose without prior permission. Contact me at the email in the \"About\" section of my channel for usage.",source:"youtube",source_id:"KXRdPGO-q4w",type:"Flight",stops:[],postdate:new Date(1612364418000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/alex-praglowski/2021/training-flight-air-canada-boeing-737-max-8-snowy-action-at-calgary-airport.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

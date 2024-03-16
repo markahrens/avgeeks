@@ -1,0 +1,10 @@
+const id = "alex-praglowski/2019/full-flight-or-delta-air-lines-boeing-717-200-minneapolis-to-calgary";
+const collection = "trips";
+const data = {name:"FULL FLIGHT | Delta Air Lines Boeing 717-200 Minneapolis to Calgary",description:"A bit of a throwback to my first trip report series, flying from Calgary to Huntsville and back on Delta in March 2018! I had meant to make a trip report of each leg on this trip, but didn't get around to the final one, MSP-YYC, until a bit later in the year. At that point I had uploaded some other (better) reports and realized the footage I got wasn't quite up to my standards for a true 'trip report'.\n\nNonetheless, I thought the wing views were quite good for a night time flight, plus the usual symphony of BR715s on the takeoff! Enjoy this full flight video from Minneapolis, Minnesota, to my hometown of Calgary, Alberta.\n\nThanks for watching!\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nTAKEOFF - 02:40\nLANDING - 11:40\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nSOCIAL MEDIA\nInstagram: https://www.instagram.com/ap.aviationphotography\nTwitter: https://www.twitter.com/AlexPYYC\nFacebook: https://www.facebook.com/AlexPAviation\n\nOFFICIAL WEBSITE: http://www.alexpraglowski.ca\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nFLIGHT INFORMATION\nAirline: Delta Air Lines\nAircraft: Boeing 717-2BD (B712)\nFlight Number: DL2278\nSeat: 25A\nLivery: Standard\nEngines: 2x RR/BMW BR715\nRegistration: N951AT\nRoute: Minneapolis-St. Paul (MSP) - Calgary (YYC)\nCallsign: DELTA 2278\nRunway used: 12L (MSP) / 35R (YYC)\nDate filmed: March 2018\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\n© Alex Praglowski Aviation 2019\n\nThis video is the property of Alex Praglowski Aviation and may not be used for any purpose without prior permission.\n\nMEDIA: Please contact me at the email in the \"About\" section of my channel.",source:"youtube",source_id:"aaYKuno14gk",type:"Flight",stops:[],postdate:new Date(1548115202000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/alex-praglowski/2019/full-flight-or-delta-air-lines-boeing-717-200-minneapolis-to-calgary.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

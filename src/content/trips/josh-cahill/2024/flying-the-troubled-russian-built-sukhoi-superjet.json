@@ -4,7 +4,7 @@
  "source": "youtube",
  "source_id": "y26hQjXr3Ig",
  "type": "Flight",
- "company": "",
- "stops": [],
+ "company": "Rossiya",
+ "stops": ["GUW","AER"],
  "postdate": "2024-03-02T09:00:50Z"
 }

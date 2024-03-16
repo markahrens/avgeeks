@@ -1,0 +1,10 @@
+const id = "alex-praglowski/2021/calgary-international-airport-the-best-of-2021";
+const collection = "trips";
+const data = {name:"Calgary International Airport - The Best of 2021",description:"2021 was quite the year at Calgary International Airport - although not nearly as busy as pre-2020 years, we still had some notable visitors! Today, I take a look at the best of 2021 at YYC!\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nThank you to RadarBox for supporting this plane spotting video! Find out more about them at https://www.radarbox.com/?referrer=AlexAviation\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nBecome a Channel Member:\nhttps://www.youtube.com/channel/UCN1SQ1Ffsm_13OQu7MwHXbA/join\n\nWebsite: https://www.alexpraglowski.ca\nInstagram: https://www.instagram.com/alexpraglowskiaviation\nTwitter: https://www.twitter.com/AlexPraglowski\nFacebook: https://www.facebook.com/AlexPAviation\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nOutro song - \"Take Flight\" by Nyhtian: https://youtu.be/bCTTwQ_269c\n\n© Alex Praglowski Aviation 2021\n\nThis video is the property of Alex Praglowski Aviation and may not be used for any purpose without prior permission. Contact me at the email in the \"About\" section of my channel for usage.",source:"youtube",source_id:"MJ-FdgQIEcY",type:"Flight",stops:[],postdate:new Date(1640876412000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/alex-praglowski/2021/calgary-international-airport-the-best-of-2021.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

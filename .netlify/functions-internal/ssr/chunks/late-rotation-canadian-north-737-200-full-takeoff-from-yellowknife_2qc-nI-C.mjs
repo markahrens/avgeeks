@@ -1,0 +1,10 @@
+const id = "alex-praglowski/2021/late-rotation-canadian-north-737-200-full-takeoff-from-yellowknife";
+const collection = "trips";
+const data = {name:"LATE ROTATION? Canadian North 737-200 FULL TAKEOFF From Yellowknife",description:"Back in July 2019, I flew on one of Canadian North's Boeing 737-200s, C-GOPW, for the last time on a day trip between Edmonton and Yellowknife with some good friends of mine.\n\nIn honour of OPW's recent retirement from Canadian North, I wanted to share this takeoff footage, which has some of the best JT8D engine sounds I've ever heard, not to mention a pretty long takeoff roll!\n\nEnjoy the sights and sounds of this 737-200, making a late rotation off of runway 16 at YZF, on a particularly muggy day!\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nBecome a Channel Member:\nhttps://www.youtube.com/channel/UCN1SQ1Ffsm_13OQu7MwHXbA/join\n\nWebsite: https://www.alexpraglowski.ca\nInstagram: https://www.instagram.com/alexpraglowskiaviation\nTwitter: https://www.twitter.com/AlexPraglowski\nFacebook: https://www.facebook.com/AlexPAviation\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nFLIGHT INFORMATION\nAirline: Canadian North (MPE/5T)\nAircraft: Boeing 737-275(C) (B732)\nFlight Number: 5T445\nSeat: 4A\nLivery: Old\nEngines: 2x JT8D-17\nRegistration: C-GOPW\nRoute: Yellowknife (YZF) - Edmonton (YEG)\nCallsign: EMPRESS 445 (rip)\nRunway used: 16\nDate filmed: July 2019\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nOutro song - \"Take Flight\" by Nyhtian: https://youtu.be/bCTTwQ_269c\n\n© Alex Praglowski Aviation 2021\n\nThis video is the property of Alex Praglowski Aviation and may not be used for any purpose without prior permission. Contact me at the email in the \"About\" section of my channel for usage.",source:"youtube",source_id:"ZTHjmFxPLwM",type:"Flight",stops:[],postdate:new Date(1624197624000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/alex-praglowski/2021/late-rotation-canadian-north-737-200-full-takeoff-from-yellowknife.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

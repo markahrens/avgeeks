@@ -1,0 +1,10 @@
+const id = "alex-praglowski/2014/tons-of-condensation-air-canada-777-333er-c-fivx-landing-at-vancouver-airport";
+const collection = "trips";
+const data = {name:"Tons of Condensation! Air Canada 777-333ER [C-FIVX] Landing at Vancouver Airport ᴴᴰ",description:"Wow, the condensation on the wings of this 777 was just unbelievable! I've never seen this much condensation on any airplane before, but then again I live somewhere where it's not very humid. Anyway, I decided to try out some other spots while I was there, and this is one that I got a few videos from. Just the sight of the plane being that low over the runway lights is pretty spectacular. Hope you enjoy this quick video, and stay tuned for more exciting footage!\n\nThanks for watching! Please comment, rate, and subscribe!\n____________________________________________________\n\nFLIGHT INFO\nAirline: Air Canada (ACA/AC)\nAircraft: Boeing 777-300ER (B77W)\nAircraft Name: None\nLivery: Standard\nEngines: 2x GE90-115B\nRegistration: C-FIVX\nRoute: HKG-YVR\nCallsign: Air Canada 008 Heavy\nRunway used: 08L\nTaxiway(s) used: M5, M, J\nFlightAware: http://flightaware.com/live/flight/CFIVX\n____________________________________________________\n\nPrevious video: https://www.youtube.com/watch?v=z5ICRjaXkuQ\nFacebook: http://www.facebook.com/dude8472productions\nMy Channel: http://www.youtube.com/dude8472productions\nGoogle Plus: http://www.google.com/+dude8472productions\nSubscribe: http://www.youtube.com/subscription_center?add_user=dude8472productions\nMy Website: http://www.dude8472productions.com\n____________________________________________________\n\n© dude8472productions 2014\n\nThis video is the property of dude8472productions and may not be used in any way without permission.",source:"youtube",source_id:"6iJ2HVSBddM",type:"Flight",stops:[],postdate:new Date(1414455694000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/alex-praglowski/2014/tons-of-condensation-air-canada-777-333er-c-fivx-landing-at-vancouver-airport.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

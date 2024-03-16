@@ -1,0 +1,10 @@
+const id = "alex-praglowski/2018/dual-view-westjet-737-7ct-approach-and-landing-at-calgary-airport";
+const collection = "trips";
+const data = {name:"Dual View! WestJet 737-7CT Approach and Landing at Calgary Airport",description:"Back in August 2017, a good friend of mine flew to Hawaii and took some inflight videos for me to upload. On his arrival back in Calgary, I was there filming the landing, and decided to make another dual-view video, much like CYUL Plane Spotter and I made in 2016 when I landed in Montreal on a Lufthansa A330. ATC is included, hope you enjoy this inflight video from warmer times!\n\nSpecial thanks to @yyc_aviationphotography for the footage! Follow him here: www.instagram.com/yyc_aviationphotography\n\nThanks for watching!\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nFLIGHT INFO\nAirline: WestJet Airlines (WJA/WS)\nAircraft: Boeing 737-700 (B73G)\nAircraft Name: None\nLivery: Standard\nEngines: 2x CFM56\nRegistration: C-FUWS\nRoute: Vancouver (YVR) - Calgary (YYC)\nSeat: 7F\nCallsign: WestJet 152\nRunway used: 17R\nDate filmed: August 9, 2017\nLocal time: 1300\nFlightAware: http://flightaware.com/live/flight/CFUWS\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nOfficial Website: http://www.alexpraglowski.ca\nChannel: https://www.youtube.com/dude8472productions\nFacebook: https://www.facebook.com/AlexPAviation\nInstagram: https://www.instagram.com/ap.aviationphotography\nTwitter: https://www.twitter.com/AlexPYYC\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\n© Alex Praglowski Aviation 2018\n\nThis video is the property of Alex Praglowski Aviation and may not be used for any purpose without prior permission. \n\nMEDIA: Please contact me at the email in the \"About\" section of my channel.",source:"youtube",source_id:"_J1-0mHPbI8",type:"Flight",stops:[],postdate:new Date(1515355998000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/alex-praglowski/2018/dual-view-westjet-737-7ct-approach-and-landing-at-calgary-airport.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

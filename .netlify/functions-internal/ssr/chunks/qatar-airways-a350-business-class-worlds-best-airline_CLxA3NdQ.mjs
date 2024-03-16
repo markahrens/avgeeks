@@ -1,0 +1,10 @@
+const id = "paul-lucas/2020/qatar-airways-a350-business-class-worlds-best-airline";
+const collection = "trips";
+const data = {name:"Qatar Airways A350 Business Class - World's Best Airline?",description:"Go to https://buyraycon.com/winginit for 15% OFF your order! Brought to you by Raycon.\n\nMy exclusive written review is available only at https://simpleflying.com/qatar-airways-a350-business/ - go check it out!\n\n**This video is from November 2019. Please do not make any non-essential journeys; please follow current government and medical advice. I am at home...and you probably should be too!**\n\nFollow me on Twitter: @paul_winginit ¦ https://twitter.com/paul_winginit\n\nFollow me on Instagram: paul_winginit ¦ https://www.instagram.com/paul_winginit\n\nMy website: www.winginit.me\n\nDate of Travel: 26 NOV 2019\nAirline: Qatar Airways \nLivery: Standard \nRoute: HEL-DOH\nAircraft: Airbus A350-900 XWB\nFlight Number: QR 304\nMiles: 2730\nAirborne time: 5h49m\n\nIf you want to find out more about my future plans and join in conversations I have about travel, follow me on Twitter: @paul_winginit. I’ve started using it properly now and it would be great to see some of you there too. \n\nMake sure you have your notifications set! 🛎 \n\n_____________________________________\n\nDo you have any ideas for future trip reports? Something you've never seen on YouTube before? Why not suggest it to me in the comments? I read every single one! 👍🏻\n\nEnjoy the video, and thanks for watching. If you subscribe, then thanks for being part of the channel!\n\n#paulstripreports #vlog #review #flying #travel #aviation #avgeek #trains #railfan\n\nMusic courtesy of YouTube Audio Library\n\n***DON’T FORGET TO SUBSCRIBE!***",source:"youtube",source_id:"6pS8cEqpTpk",type:"Flight",stops:[],postdate:new Date(1584979205000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/paul-lucas/2020/qatar-airways-a350-business-class-worlds-best-airline.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

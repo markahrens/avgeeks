@@ -1,0 +1,10 @@
+const id = "alex-praglowski/2018/asl-airlines-belgium-boeing-747-400f-taxi-and-takeoff-from-calgary-airport";
+const collection = "trips";
+const data = {name:"ASL Airlines Belgium Boeing 747-400F Taxi and Takeoff from Calgary Airport",description:"Every year, Calgary receives a specially chartered 747 for the Spruce Meadows Masters, an equestrian event located south of the city. This year's 747 was operated by ASL Airlines Belgium, carrying 55 show jumping horses from Europe, and here it is departing as an empty ferry flight to New York the day after! Here we have OE-IFB, one of 5 747s in ASL's fleet taxiing up close on Alpha and departing 35L on a crisp September morning, with ATC. Hope you enjoy!\n\nThanks for watching!\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nFLIGHT INFORMATION\nAirline: ASL Airlines Belgium (3V/TAY)\nAircraft: Boeing 747-4B5F(ER) (B744)\nFlight Number: 3V682P\nAircraft Name: None \nLivery: White w/ ASL titles\nEngines: 4x Pratt and Whitney PW4062A \nRegistration: OE-IFB\nRoute: Calgary (YYC) - New York-Kennedy (JFK)\nCallsign: QUALITY 682 PAPA heavy\nRunway used: 35L\nDate filmed: September 2, 2018\nLocal time: 1100\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nOfficial Website: http://www.alexpraglowski.ca\nChannel: https://www.youtube.com/dude8472productions\nFacebook: https://www.facebook.com/AlexPAviation\nInstagram: https://www.instagram.com/ap.aviationphotography\nTwitter: https://www.twitter.com/AlexPYYC\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\n© Alex Praglowski Aviation 2018\n\nThis video is the property of dude8472productions / Alex Praglowski Aviation and may not be used for any purpose without prior permission. \n\nMEDIA: Please contact me at the email in the \"About\" section of my channel.",source:"youtube",source_id:"SuKChx8lCHc",type:"Flight",stops:[],postdate:new Date(1535923436000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/alex-praglowski/2018/asl-airlines-belgium-boeing-747-400f-taxi-and-takeoff-from-calgary-airport.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

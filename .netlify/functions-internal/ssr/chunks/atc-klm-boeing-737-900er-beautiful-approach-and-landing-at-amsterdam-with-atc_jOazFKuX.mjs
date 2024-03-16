@@ -1,0 +1,10 @@
+const id = "noel-philips/2016/atc-klm-boeing-737-900er-beautiful-approach-and-landing-at-amsterdam-with-atc";
+const collection = "trips";
+const data = {name:"ATC: KLM Boeing 737-900ER Beautiful Approach and Landing at Amsterdam (with ATC)",description:"Approach and landing at Amsterdam onboard KLM Boeing 737-900 PH-BXO, operating flight KL1478 from Glasgow, UK.\n\nVideo taken from seat 5A.\n\n\nAirline:  KLM \nFlight:  KL1478\nAircraft: Boeing 737-900 PH-BXO (SkyTeam Livery)\nFrom:  Glasgow (GLA)\nTo:  Amsterdam (AMS)\nDeparture:  17:06\nArrival:  19:06\nFlight Time:  01:00\nSeat:  5A\n\n✈ ✈\nEquipment used:\n\nCameras: \nWindow footage: GoPro Hero4 Silver http://goo.gl/Wz7Uxt\nMount: Generic suction mount http://goo.gl/E2vRBs\nYou need this for the suction mount: http://goo.gl/vWQVne\nBoya Frame Case for GoPro: http://goo.gl/tqM3H1\nBattery: Anker E7 25600mAh  http://goo.gl/ZXfxOy\nMicroSD cards: Sandisk 128GB http://goo.gl/KDjm4Y\nScanner for ATC: Yupiteru MVT-7300\nRecorder for ATC: Olympus VN-741PC http://amzn.to/2fb4Lab\n\n✈✈✈✈✈✈✈✈✈✈✈✈✈✈✈✈✈✈✈✈✈✈✈✈✈\n\nWould you like to view my full flight videos ahead of everyone else, and support inflight Video at the same time?  Please consider supporting me on Patreon at https://www.patreon.com/inflightvideo.  Patrons get early access to all of my full length, full flight videos, as well as other perks including access to giveaways, freebies, and regular live chats to talk about what's coming soon for inflight Video!  You'll also be supporting me by allowing me to reserve seats with a good view, and access a wider range of interesting flights to film.  Thank you!\n\n✈✈✈✈✈✈✈✈✈✈✈✈✈✈✈✈✈✈✈✈✈✈✈✈✈",source:"youtube",source_id:"CPVz9-HhokE",type:"Flight",stops:[],postdate:new Date(1482760811000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/noel-philips/2016/atc-klm-boeing-737-900er-beautiful-approach-and-landing-at-amsterdam-with-atc.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

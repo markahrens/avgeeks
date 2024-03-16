@@ -1,0 +1,10 @@
+const id = "alex-praglowski/2022/trent-xwb-power-finnair-a350-900-amazing-engine-view-takeoff-from-calgary-4k";
+const collection = "trips";
+const data = {name:"TRENT XWB POWER! Finnair A350-900 AMAZING Engine View Takeoff from Calgary! [4K]",description:"An amazing-sounding takeoff on board this Finnair Airbus A350-900 operating for Eurowings Discover, departing Calgary, Canada, for Frankfurt, Germany!\n\nUnfortunately it was a smoky day in Calgary due to wildfires in British Columbia and south of the border, but that doesn't diminish just how nice those Rolls Royce Trent XWBs sound. \n\nEnjoy this extended cut of the takeoff footage from the trip report here: https://youtu.be/DujdvcHBg8E\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nBecome a Channel Member:\nhttps://www.youtube.com/channel/UCN1SQ1Ffsm_13OQu7MwHXbA/join\n\nWebsite: https://www.alexpraglowski.ca\nInstagram: https://www.instagram.com/alexpraglowskiaviation\nTwitter: https://www.twitter.com/AlexPraglowski\nFacebook: https://www.facebook.com/AlexPAviation\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nFLIGHT INFORMATION\nAirline: Eurowings Discover (operated by Finnair) (OCN/4Y)\nAircraft: Airbus A350-900 (A359)\nFlight Number: 4Y73\nSeat: 7L (Business Class)\nLivery: Standard Finnair\nEngines: 2x RR Trent XWB-84\nRegistration: OH-LWG\nRoute: Calgary (YYC) - Frankfurt (FRA)\nCallsign: OCEAN 7A heavy\nRunway used: 17L (YYC)\nDate filmed: September 2022\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nOutro song - \"Take Flight\" by Nyhtian: https://youtu.be/bCTTwQ_269c\n\n© Alex Praglowski Aviation 2022\n\nThis video is the property of Alex Praglowski Aviation and may not be used for any purpose without prior permission. Contact me at the email in the \"About\" section of my channel for usage.",source:"youtube",source_id:"y6ojsBtsTrY",type:"Flight",stops:[],postdate:new Date(1663707622000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/alex-praglowski/2022/trent-xwb-power-finnair-a350-900-amazing-engine-view-takeoff-from-calgary-4k.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

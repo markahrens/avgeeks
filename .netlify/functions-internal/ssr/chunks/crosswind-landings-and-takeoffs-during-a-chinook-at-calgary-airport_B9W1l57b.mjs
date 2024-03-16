@@ -1,0 +1,10 @@
+const id = "alex-praglowski/2020/crosswind-landings-and-takeoffs-during-a-chinook-at-calgary-airport";
+const collection = "trips";
+const data = {name:"CROSSWIND Landings and Takeoffs During a CHINOOK at Calgary Airport!",description:"Thanks to its proximity to the Rocky Mountains, Calgary gets a few warmer days during the winter with high winds coming in from the Pacific, warming as they descend over the eastern slopes, usually melting most of the snow on the ground - otherwise known as Chinooks!\n\nThat leads to some interesting arrivals at Calgary International Airport, plus the use of its crosswind runways, 11/29 and 08/26. The latter is currently closed for aircraft storage, and 29 has some of the best angles of any runway at the airport.\n\nWith winds from the west at 20 gusting to 30 knots, and runway 29's northwest orientation, it still leads to a noticeable crab angle on these arrivals and departures.\n\nThis is a video I've been wanting to make for years, and I'm pretty pleased with how it turned out! Hope you all enjoy.\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nBecome a Channel Member:\nhttps://www.youtube.com/channel/UCN1SQ1Ffsm_13OQu7MwHXbA/join\n\nSOCIAL MEDIA\nInstagram: https://www.instagram.com/alexpraglowskiaviation\nTwitter: https://www.twitter.com/AlexPraglowski\nFacebook: https://www.facebook.com/AlexPAviation\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nOutro song - \"Take Flight\" by Nyhtian: https://youtu.be/bCTTwQ_269c\n\n© Alex Praglowski Aviation 2020\n\nThis video is the property of Alex Praglowski Aviation and may not be used for any purpose without prior permission. Contact me at the email in the \"About\" section of my channel for usage.",source:"youtube",source_id:"EM4Mh2gdCaw",type:"Flight",stops:[],postdate:new Date(1608481833000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/alex-praglowski/2020/crosswind-landings-and-takeoffs-during-a-chinook-at-calgary-airport.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

@@ -1,0 +1,10 @@
+const id = "alex-praglowski/2013/calgary-international-airport-2013-or-an-aviation-music-video";
+const collection = "trips";
+const data = {name:"Calgary International Airport 2013 | An Aviation Music Video ᴴᴰ",description:"2013's been an amazing year of plane spotting at Calgary International Airport. I've discovered new spots, seen so many new planes, and met a lot of other spotters. This is also my 100th YYC plane spotting video. Let's see if I can get 100 more in 2014 ;)\n\nPlease note that this video is only a brief reflection on my spotting adventures in Calgary - I'll make a special video combining videos from the airports I've been to :)\n\nThanks for watching! Please comment, rate, and subscribe!\n_____________________________________________________\n\nCheck out my previous video: http://www.youtube.com/watch?v=bS12Ck1QBiM\n(Norwegian 787 RTO)\n_____________________________________________________\n\nMusic is \"Exciting Trailer\" by Kevin MacLeod (incompetech.com)\n\n© dude8472productions 2013\n\nThis video is the property of dude8472productions and may not be used in any way without permission.",source:"youtube",source_id:"cUvhEuVZpKY",type:"Flight",stops:[],postdate:new Date(1388432786000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/alex-praglowski/2013/calgary-international-airport-2013-or-an-aviation-music-video.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

@@ -1,0 +1,10 @@
+const id = "alex-praglowski/2018/air-canada-new-livery-777-300er-landing-and-takeoff-at-calgary-airport";
+const collection = "trips";
+const data = {name:"Air Canada New Livery 777-300ER Landing and Takeoff at Calgary Airport",description:"Air Canada's new paint on the 77W looks better and better every time I see it! Here we have the first and oldest 77W in AC's fleet arriving and departing Calgary International Airport on a one-off equipment swap from and to AC's largest hub, Toronto-Pearson. ATC is included, hope you enjoy this masked 77W!\n\nThanks for watching!\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nFLIGHT INFORMATION\nAirline: Air Canada (ACA/AC)\nAircraft: Boeing 777-333/ER (B77W)\nFlight Number: AC149/AC154\nAircraft Name: 731 \nLivery: New (2017)\nEngines: 2x GE90-115B\nRegistration: C-FITL\nRoute: Toronto-Pearson (YYZ) - Calgary (YYC) - Toronto-Pearson (YYZ)\nCallsign: AIR CANADA 149/154 heavy \nRunway used: 17L, 17R\nDate filmed: July 15, 2018\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nOfficial Website: http://www.alexpraglowski.ca\nChannel: https://www.youtube.com/dude8472productions\nFacebook: https://www.facebook.com/AlexPAviation\nInstagram: https://www.instagram.com/ap.aviationphotography\nTwitter: https://www.twitter.com/AlexPYYC\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\n© Alex Praglowski Aviation 2018\n\nThis video is the property of dude8472productions / Alex Praglowski Aviation and may not be used for any purpose without prior permission. \n\nMEDIA: Please contact me at the email in the \"About\" section of my channel.",source:"youtube",source_id:"ydb3rgI1ZXQ",type:"Flight",stops:[],postdate:new Date(1533052807000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/alex-praglowski/2018/air-canada-new-livery-777-300er-landing-and-takeoff-at-calgary-airport.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

@@ -1,0 +1,10 @@
+const id = "alex-praglowski/2023/i-flew-on-europes-last-md-80s";
+const collection = "trips";
+const data = {name:"I Flew On Europe's LAST MD-80s!",description:"The McDonnell Douglas MD-80 is, arguably, one of the most iconic looking airliners out there. With almost 1200 built between 1979 and 1999, it was one of the most popular airliners ever produced by McDonnell Douglas.\n\nSadly though, they are being retired quite quickly around the world in recent years, especially with American and Delta retiring theirs in 2019 and 2020, respectively.\n\nHowever, in summer 2023, there was one last remaining operator of the McDonnell Douglas MD-80 in the European Union - Bulgarian charter airline European Air Charter!\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nBecome a Channel Member:\nhttps://www.youtube.com/channel/UCN1SQ1Ffsm_13OQu7MwHXbA/join\n\nWebsite: https://www.alexpraglowski.ca\nInstagram: https://www.instagram.com/alexpraglowskiaviation\nTwitter: https://www.twitter.com/AlexPraglowski\nFacebook: https://www.facebook.com/AlexPraglowski\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nFLIGHT INFORMATION\nAirline: European Air Charter (BUC)\nAircraft: McDonnell Douglas MD-82 (MD82)\nFlight Number: BUC6106/6135\nSeat: 32F/30F\nLivery: Standard\nEngines: 2x Pratt & Whitney JT8D-217C\nRegistration: LZ-LDJ/LZ-LDP\nRoute: Dresden (DRS) - Burgas (BOJ) - Vienna (VIE)\nCallsign: EUROCHARTER 6106/6135\nRunway used: 22 (DRS) - 04 (BOJ) - 16 (VIE)\nDate filmed: July 2023\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nOutro song - \"Take Flight\" by Nyhtian: https://youtu.be/bCTTwQ_269c\n\n© Alex Praglowski Aviation 2023\n\nThis video is the property of Alex Praglowski Aviation and may not be used for any purpose without prior permission. Contact me at the email in the \"About\" section of my channel for usage.",source:"youtube",source_id:"9hkSUwyxv68",type:"Flight",stops:[],postdate:new Date(1702843203000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/alex-praglowski/2023/i-flew-on-europes-last-md-80s.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

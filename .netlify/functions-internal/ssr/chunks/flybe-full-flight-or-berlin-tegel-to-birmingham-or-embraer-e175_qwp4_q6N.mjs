@@ -1,0 +1,10 @@
+const id = "noel-philips/2015/flybe-full-flight-or-berlin-tegel-to-birmingham-or-embraer-e175";
+const collection = "trips";
+const data = {name:"Flybe Full Flight | Berlin Tegel to Birmingham | Embraer E175",description:"A full length full flight video in real time with Flybe, onboard Embraer E175 G-FBJI, operating flight BE1859 from Berlin Tegel (TXL) to Birmingham (BHX) on January 13 2015.  \n\nThe video begins on stand in Berlin Tegel as the captain welcomes us aboard.  We push back and taxi out to runway 26L and depart on a beautiful morning, getting a great view of the Tegeler See just after takeoff.  We climb to our cruising altitude of 36,000ft as we head west across Germany towards Hanover.  We make very slow progress on this flight, due to strong headwinds (150mph).  The cloud starts to build up below, but as we approach the coast of The Netherlands near to Amsterdam, the cloud clears giving a clear view of the North Sea.  As usual, we cross the UK coast near to Clacton-on-Sea, turning right to head over Luton and in to Birmingham for an arrival on runway 33, after a flight time of 1h46m.\n\nVideo taken from seat 23D.\n\nAirline:  Flybe\nFlight:  BE1859\nAircraft:  Embraer E175 G-FBJI\nFrom:  Berlin Tegel (TXL)\nTo:  Birmingham (BHX)\nDeparture:  13:00\nArrival:  13:46\nFlight Time:  01:46\nSeat:  23D\nFlight Path:  http://goo.gl/8Z8E2n\n#inflightVideo #FullFlight #FullFlightVideo",source:"youtube",source_id:"ZWB1ZlEfFFk",type:"Flight",stops:[],postdate:new Date(1431172965000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/noel-philips/2015/flybe-full-flight-or-berlin-tegel-to-birmingham-or-embraer-e175.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

@@ -1,0 +1,10 @@
+const id = "alex-praglowski/2018/jt8d-music-or-bulgarian-air-charter-md-82-startup-taxi-and-takeoff-from-rzeszow-jasionka";
+const collection = "trips";
+const data = {name:"JT8D Music! | Bulgarian Air Charter MD-82 Startup, Taxi, and Takeoff from Rzeszów-Jasionka",description:"Listen to those JT8Ds sing! Here we have a classic Bulgarian Air Charter McDonnell-Douglas MD-82 at Poland's eighth-busiest airport, starting up, taxiing, and taking off on a charter flight full of tourists to Burgas, Bulgaria. This is my second time filming a mad dog from Bulgarian Air Charter, the first time being in 2014 with this same aircraft at the same airport. I'd like to think this video is a bit of an improvement over that one ;) Hope you enjoy this classic MD-80 departure!\n\nThanks for watching!\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nFLIGHT INFORMATION\nAirline: Bulgarian Air Charter\nAircraft: McDonnell-Douglas MD-82 (MD82)\nFlight Number: BUC2362\nAircraft Name: None\nLivery: Standard\nEngines: 2x PW JT8D-217C \nRegistration: LZ-LDW \nRoute: Rzeszów-Jasionka (RZE) - Burgas (BOJ)\nCallsign: BULGARIA 2362\nRunway used: 09\nDate filmed: August 2018\nLocal time: 1700\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nOfficial Website: http://www.alexpraglowski.ca\nChannel: https://www.youtube.com/dude8472productions\nFacebook: https://www.facebook.com/AlexPAviation\nInstagram: https://www.instagram.com/ap.aviationphotography\nTwitter: https://www.twitter.com/AlexPYYC\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\n© Alex Praglowski Aviation 2018\n\nThis video is the property of dude8472productions / Alex Praglowski Aviation and may not be used for any purpose without prior permission. \n\nMEDIA: Please contact me at the email in the \"About\" section of my channel.",source:"youtube",source_id:"9MnpGzoev9Q",type:"Flight",stops:[],postdate:new Date(1541816795000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/alex-praglowski/2018/jt8d-music-or-bulgarian-air-charter-md-82-startup-taxi-and-takeoff-from-rzeszow-jasionka.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

@@ -1,0 +1,10 @@
+const id = "alex-praglowski/2016/diversion-or-lufthansa-747-430-d-abvu-takeoff-from-calgary-airport";
+const collection = "trips";
+const data = {name:"DIVERSION | Lufthansa 747-430 [D-ABVU] Takeoff from Calgary Airport ᴴᴰ",description:"Look at that condensation! Here we have an 18-year old Lufthansa 747-400 departing Calgary International Airport after a medical diversion en route from Frankfurt to Seattle as LH490. Sure was a nice treat to see this beauty, and with some amazing condensation as well, you don't see that very often in Calgary. Hopefully the passenger makes a speedy recovery. Enjoy this special catch.\n\nThanks for watching!\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nFLIGHT INFO\nAirline: Lufthansa (DLH/LH)\nAircraft: Boeing 747-400 (B744)\nAircraft Name: \"Bayern\"\nLivery: Standard\nEngines: 4x GE CF6-80C2B1F \nRegistration: D-ABVU\nRoute: FRA-(YYC)-SEA\nCallsign: Lufthansa 490 heavy\nRunway used: 17R\nLocal Time: 1300\nFlightAware: http://flightaware.com/live/flight/DABVU\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nFlickr: https://www.flickr.com/photos/dude8472productions/\nTwitter: https://www.twitter.com/dude8472_YYC\nInstagram: https://www.instagram.com/dude8472productions\nChannel: https://www.youtube.com/dude8472productions\nOfficial Website: https://www.dude8472productions.com\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\n© dude8472productions 2016\n\nThis video is the property of dude8472productions and may not be used in any way without permission.",source:"youtube",source_id:"tBlaogmo8M0",type:"Flight",stops:[],postdate:new Date(1474673284000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/alex-praglowski/2016/diversion-or-lufthansa-747-430-d-abvu-takeoff-from-calgary-airport.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

@@ -1,0 +1,10 @@
+const id = "alex-praglowski/2019/klm-boeing-777-200er-close-up-taxi-and-takeoff-from-calgary-airport";
+const collection = "trips";
+const data = {name:"KLM Boeing 777-200ER Close Up Taxi and Takeoff from Calgary Airport",description:"Back to some spotting content, otherwise known as my comfort zone in my corner of YouTube, lol. Back on January 5th, this KLM Triple Seven operated an extra flight as 'KLM 680' due to a sick crew member the previous day resulting in a cancellation.\n\nIt departed around 1400 local time, a bit after the regular Amsterdam flight arrived, so for a moment we had two KLM aircraft on the ground! \n\nHere we have one of KLM's Boeing 777-200ERs, taxiing up close on Bravo and departing runway 17L, with some fantastic sound from those GE90s. ATC is included!\n\nThanks for watching!\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nSOCIAL MEDIA\nInstagram: https://www.instagram.com/ap.aviationphotography\nTwitter: https://www.twitter.com/AlexPYYC\nFacebook: https://www.facebook.com/AlexPAviation\n\nOFFICIAL WEBSITE: http://www.alexpraglowski.ca\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nFLIGHT INFORMATION\nAirline: KLM Royal Dutch Airlines (KLM/KL)\nAircraft: Boeing 777-206/ER (B772)\nFlight Number: KL680\nLivery: Old\nEngines: 2x General Electric GE90-94B \nRegistration: PH-BQO \nRoute: Calgary (YYC) - Amsterdam (AMS)\nCallsign: KLM 680 HEAVY\nRunway used: 17L\nDate filmed: January 5th, 2019\nLocal time: 1400\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\n© Alex Praglowski Aviation 2019\n\nThis video is the property of Alex Praglowski Aviation and may not be used for any purpose without prior permission.\n\nMEDIA: Please contact me at the email in the \"About\" section of my channel.",source:"youtube",source_id:"0GEWch6ykts",type:"Flight",stops:[],postdate:new Date(1548897485000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/alex-praglowski/2019/klm-boeing-777-200er-close-up-taxi-and-takeoff-from-calgary-airport.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

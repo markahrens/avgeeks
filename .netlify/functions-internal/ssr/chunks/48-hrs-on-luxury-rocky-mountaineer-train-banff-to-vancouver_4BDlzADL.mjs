@@ -1,0 +1,10 @@
+const id = "trek-trendy/2022/48-hrs-on-luxury-rocky-mountaineer-train-banff-to-vancouver";
+const collection = "trips";
+const data = {name:"48 hrs on Luxury Rocky Mountaineer Train - Banff to Vancouver",description:"Head to https://squarespace.com/trektrendy to save 10% off your first purchase of a website or domain using code TREKTRENDY\n\nJoin me on one of the world's most luxurious and exciting train journeys. The Rocky Mountaineer train across the Canadian Rockies, from Banff to Vancouver. I'll show you exactly what it's like to travel on this private train, from the dining to where I sleep and even the outside viewing deck! It's a trip like none other, and is widely regarded as Canada's most luxurious train. I'm in what's called Gold Leaf today, but there is also Silver Leaf offered. \n\nWe'll start in the gorgeous town of Banff and you'll join me every step of the way, First Class, all the way to Vancouver. Now of course this experience doesn't come cheap, but i'll explain exactly how I booked, and how much I paid. \n\n0:00 - Intro\n1:07 - Gold Leaf Class\n2:42 - Breakfast\n4:00 - Viewing Platform\n8:17 - Kamloops\n10:14 - Day Two\n12:25 - The Kitchen\n14:42 - Lunch \n15:51 - Vancouver",source:"youtube",source_id:"ASMMDYLry80",type:"Flight",stops:[],postdate:new Date(1655675093000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/trek-trendy/2022/48-hrs-on-luxury-rocky-mountaineer-train-banff-to-vancouver.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

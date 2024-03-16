@@ -1,0 +1,10 @@
+const id = "alex-praglowski/2019/cf6-engine-roar-or-westjet-boeing-767-300er-winter-departure-from-calgary-airport";
+const collection = "trips";
+const data = {name:"CF6 ENGINE ROAR | WestJet Boeing 767-300ER Winter Departure from Calgary Airport!",description:"On my way to fly the inaugural flight of WestJet's 787 Dreamliner, I decided to try out the other widebody aircraft in the WestJet fleet, their Boeing 767-300! \n\nI'll be uploading a full trip report on this flight later on, but for now, here's this gorgeous wintertime departure from Calgary! This is easily one of my all time favourite takeoff videos, so enjoy these CF6s from one of the best engine view seats I've ever had!\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nSOCIAL MEDIA\nInstagram: https://www.instagram.com/ap.aviationphotography\nTwitter: https://www.twitter.com/AlexPYYC\nFacebook: https://www.facebook.com/AlexPAviation\n\nOFFICIAL WEBSITE: http://www.alexpraglowski.ca\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nFLIGHT INFORMATION\nAirline: WestJet Airlines (WJA/WS)\nAircraft: Boeing 767-338ER(WL) (B76W)\nFlight Number: WS662\nSeat: 5A (Economy Class)\nEngines: 2x GE CF6-80C2B6 \nRegistration: C-FOGT\nRoute: Calgary (YYC) - Toronto-Pearson (YYZ)\nCallsign: WESTJET 662 heavy\nRunway used: 17L\nDate filmed: February 2019\nLocal time: 0950\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\n© Alex Praglowski Aviation 2019\n\nThis video is the property of Alex Praglowski Aviation and may not be used for any purpose without prior permission.\n\nMEDIA: Please contact me at the email in the \"About\" section of my channel for usage.",source:"youtube",source_id:"s8mXb7VdraE",type:"Flight",stops:[],postdate:new Date(1551463208000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/alex-praglowski/2019/cf6-engine-roar-or-westjet-boeing-767-300er-winter-departure-from-calgary-airport.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

@@ -1,0 +1,10 @@
+const id = "alex-praglowski/2019/flying-the-dornier-328-central-mountain-air-calgary-to-edmonton";
+const collection = "trips";
+const data = {name:"FLYING THE DORNIER 328! Central Mountain Air Calgary to Edmonton",description:"Central Mountain Air, or CMA, is a Canadian regional airline that flies mostly within Alberta and British Columbia. They fly a fleet of Dash 8s, Beech 1900s, and Dornier 328s - the subject of today's trip report!\n\nSee what I thought of Central Mountain Air and their unique Dornier in this flight review from Calgary to Edmonton.\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nSOCIAL MEDIA\nInstagram: https://www.instagram.com/ap.aviationphotography\nTwitter: https://www.twitter.com/AlexPYYC\nFacebook: https://www.facebook.com/AlexPAviation\n\nOFFICIAL WEBSITE: http://www.alexpraglowski.ca\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nFLIGHT INFORMATION\nAirline: Central Mountain Air (9M/GLR)\nAircraft: Dornier 328-110 (D328)\nFlight Number: 9M653\nSeat: 3A/9A\nLivery: White\nEngines: 2x Pratt & Whitney Canada PW119B \nRegistration: C-FHVX \nRoute: Calgary (YYC) - Edmonton (YEG)\nCallsign: GLACIER 653\nRunway used: 35L (YYC) - 12 (YEG)\nDate filmed: May 2019\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\n© Alex Praglowski Aviation 2019\n\nThis video is the property of Alex Praglowski Aviation and may not be used for any purpose without prior permission.\n\nMEDIA: Please contact me at the email in the \"About\" section of my channel for usage.",source:"youtube",source_id:"fwORCAvJvFg",type:"Flight",stops:[],postdate:new Date(1563153156000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/alex-praglowski/2019/flying-the-dornier-328-central-mountain-air-calgary-to-edmonton.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

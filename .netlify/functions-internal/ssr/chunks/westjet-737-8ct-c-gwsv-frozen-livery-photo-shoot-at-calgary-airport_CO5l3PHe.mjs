@@ -1,0 +1,10 @@
+const id = "alex-praglowski/2015/westjet-737-8ct-c-gwsv-frozen-livery-photo-shoot-at-calgary-airport";
+const collection = "trips";
+const data = {name:"WestJet 737-8CT [C-GWSV] \"Frozen Livery\" Photo Shoot at Calgary Airport ᴴᴰ",description:"On October 18th, WestJet unveiled this new special livery on one of their many 737-800s from Disney's \"Frozen\", after having been flown to Toronto under the cover of darkness. The following day it flew Toronto-Orlando and back, and then repositioned to YYC late in the evening for this photo shoot with Wolfe Air's Learjet 25B. Includes the taxi, takeoff, and touch and go with ATC throughout, hope you enjoy.\n\nThanks for watching!\n\nFLIGHT INFO\nAirline: WestJet (WJA/WS)\nAircraft: Boeing 737-800\nAircraft Name: None\nLivery: \"Frozen\"\nEngines: 2x CFMI CFM56-7B27 \nRegistration: C-GWSV\nRoute: YYC-YYC\nCallsign: WestJet 8910\nRunway used: 17L\nLocal Time: 1620\nFlightAware: http://flightaware.com/live/flight/CGWSV\n\nAirline: Wolfe Air\nAircraft: Learjet 25B\nAircraft Name: None\nRegistration: N49WA\nRoute: YYC-YYC\nCallsign: November 49 Whiskey Alpha\nRunway used: 17L\nLocal Time: 1620\nFlightAware: http://flightaware.com/live/flight/N49WA\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nOfficial Website: http://www.alexpraglowski.ca\nChannel: https://www.youtube.com/dude8472productions\nFacebook: https://www.facebook.com/AlexPAviation\nInstagram: https://www.instagram.com/ap.aviationphotography\nTwitter: https://www.twitter.com/AlexPYYC\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\n© Alex Praglowski Aviation 2015\n\nThis video is the property of Alex Praglowski Aviation and may not be used for any purpose without prior permission. \n\nMEDIA: Please contact me at the email in the \"About\" section of my channel.",source:"youtube",source_id:"IVcd_sfPWeE",type:"Flight",stops:[],postdate:new Date(1445393604000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/alex-praglowski/2015/westjet-737-8ct-c-gwsv-frozen-livery-photo-shoot-at-calgary-airport.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

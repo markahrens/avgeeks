@@ -1,0 +1,10 @@
+const id = "josh-cahill/2020/review-jazeera-airways-a320-great-crew-and-gross-cabin";
+const collection = "trips";
+const data = {name:"Review: JAZEERA AIRWAYS A320 - GREAT CREW & GROSS CABIN!",description:"**#PDFYourWay Edit PDF with PDFelement: https://bit.ly/379dcLI\n**Donwload PDFelement for Mac: https://bit.ly/375Ykh0\n**Get #PDFelement Up to Exclusive 50% OFF: https://bit.ly/2H8pHy4  \n\n#PDFYourWay #PDFelement is an all-in-one smart PDF editor, which offers the easiest way to create, edit, convert, annotate, sign PDF documents on Windows and Mac, ios, android.  PDFelement is the best Acrobat Alternative and a simple PDF editor to maximize your document productivity. \n\n▶︎ Support ME and become a PATRON to join my WhatsApp Group and many more perks! \n\nhttps://www.patreon.com/joshcahill\n\nThis is a comprehensive Flight Review of Jazeera Airways.\n\nClass: Economy\nRoute: Dubai (DXB) to Istanbul (SAW) via Kuwait City (KWI)\nPlane: A320-200\n\n▶︎ Follow me on Instagram, Facebook, TikTok and Twitter!\n\nhttps://instagram.com/gotravelyourway\nhttps://www.facebook.com/gotravelyourway\nhttps://twitter.com/gotravelyourway\nhttps://www.tiktok.com/@gotravelyourway\n\n▶︎ My Website: http://www.gotravelyourway.com\n▶︎ Email Contact: gotravelyourway@gmail.com\n\n#jazeeraairways #joshcahill #kuwait #PDFeditor #PDFelement #PDFconvertor",source:"youtube",source_id:"DWg3sB6ra7c",type:"Flight",stops:[],postdate:new Date(1606467607000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/josh-cahill/2020/review-jazeera-airways-a320-great-crew-and-gross-cabin.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

@@ -4,7 +4,7 @@
  "source": "youtube",
  "source_id": "UVOj672w4BI",
  "type": "Flight",
- "company": "",
- "stops": [],
+ "company": "Starlux, Emirates, Etihad",
+ "stops": ["SIN","TPE","DXB","LHR"],
  "postdate": "2024-01-21T19:30:02Z"
 }

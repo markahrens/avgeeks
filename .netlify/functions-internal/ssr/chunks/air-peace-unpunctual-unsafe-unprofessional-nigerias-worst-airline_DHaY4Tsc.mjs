@@ -1,0 +1,10 @@
+const id = "josh-cahill/2022/air-peace-unpunctual-unsafe-unprofessional-nigerias-worst-airline";
+const collection = "trips";
+const data = {name:"AIR PEACE - UNPUNCTUAL, UNSAFE, UNPROFESSIONAL, NIGERIA'S WORST AIRLINE!",description:"▶︎ Support ME and become a PATRON to join my WhatsApp Group and many more perks! \n\nhttps://www.patreon.com/joshcahill\n\nThis is a comprehensive Flight Review of Air Peace.\n\nClass: Economy\nRoute: Abuja (ABJ) to Kano (KAN) via Lagos (LOS)\nPlane: Embraer E195-E2\n\n▶︎ Follow me on Instagram, Facebook, TikTok and Twitter!\n\nhttps://instagram.com/gotravelyourway\nhttps://www.facebook.com/gotravelyourway\nhttps://twitter.com/gotravelyourway\nhttps://www.tiktok.com/@gotravelyourway\n\n▶︎ My Website: http://www.gotravelyourway.com\n▶︎ Email Contact: gotravelyourway@gmail.com\n\nChapters:\n\n0:00 Intro\n1:33 Travel to the Airport\n3:12 Check In Experience\n4:32 Changing Flights\n5:51 Luggage Confusion\n7:06 Boarding Area\n7:48 Flight Delay\n8:45 Cabin Introduction \n9:28 Seat intro\n10:04 Take Off\n10:32 The Loo Review\n11:37 Landing in Lagos\n12:40 Finding my Luggage \n13:35 Check In to Kano\n13:55 Terminal Review\n15:01 Thoughts on Domestic Travel\n15:19 Flight Delay\n16:00 Boarding Kano Flight\n17:43 Safety Hazards\n19:26 Walk to the Terminal\n20:40 Finding a Taxi Driver\n21:30 Final Summary\n\n#nigeria #joshcahill #aviation",source:"youtube",source_id:"ut1VvP8yIDQ",type:"Flight",stops:[],postdate:new Date(1651309223000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/josh-cahill/2022/air-peace-unpunctual-unsafe-unprofessional-nigerias-worst-airline.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

@@ -1,0 +1,10 @@
+const id = "alex-praglowski/2018/corsair-international-boeing-747-400-arrival-at-calgary-airport";
+const collection = "trips";
+const data = {name:"Corsair International Boeing 747-400 Arrival at Calgary Airport",description:"What an awesome visitor! This Boeing 747-400 from French airline Corsair paid Calgary a visit, carrying a group of European tourists from Anchorage, Alaska. A passenger 747 is rare enough in Calgary, but I can't say I expected to see a Corsair one! This video includes the arrival on 17R, taxiing, some views of it parked on the apron, and then it later being towed to Apron II to await its departure later this week. Hope you enjoy this particularly rare catch, with ATC included!\n\nThanks for watching!\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nFLIGHT INFORMATION\nAirline: Corsair International (CRL/SS)\nAircraft: Boeing 747-422 (B744)\nFlight Number: SS833\nAircraft Name: None\nLivery: Revised\nEngines: 4x Pratt and Whitney PW4056\nRegistration: F-HSUN\nRoute: Anchorage (ANC) - Calgary (YYC)\nCallsign: CORSAIR 833 heavy\nRunway used: 17R\nDate filmed: May 20, 2018\nLocal time: 1530\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nOfficial Website: http://www.alexpraglowski.ca\nChannel: https://www.youtube.com/dude8472productions\nFacebook: https://www.facebook.com/AlexPAviation\nInstagram: https://www.instagram.com/ap.aviationphotography\nTwitter: https://www.twitter.com/AlexPYYC\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\n© Alex Praglowski Aviation 2018\n\nThis video is the property of Alex Praglowski Aviation and may not be used for any purpose without prior permission. \n\nMEDIA: Please contact me at the email in the \"About\" section of my channel.",source:"youtube",source_id:"-Q14hVVegMY",type:"Flight",stops:[],postdate:new Date(1526884152000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/alex-praglowski/2018/corsair-international-boeing-747-400-arrival-at-calgary-airport.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

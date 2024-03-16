@@ -1,0 +1,10 @@
+const id = "jeb-brooks/2019/united-airlines-business-class-island-hopper-flight";
+const collection = "trips";
+const data = {name:"United Airlines BUSINESS CLASS Island Hopper Flight",description:"For a 30-day free trial and one free audiobook go to http://audible.com/Jeb or text Jeb to 500500\n\nSeveral times each week, United Airlines makes an Island Hopper flight that stops at several islands throughout the Pacific. The flight has become world famous because of its unique nature. \n\nThree times each week, the Island Hopper flight connects Honolulu with Guam via Majuro, Kwajalein, Kosrae (twice per week), Pohnpei, and Chuuk.\n\nThe Island Hopper flight ranks high on most #AvGeek bucket lists and in this video, we'll explore what it's like to fly on the Island Hopper, along with the history, and unique nature of the flight. The Island Hopper is unlike any other flight in the world and this video breaks it down so you can understand all of the unique quirks of it. \n\nOf course, as always, we'll take a look at the seat, service, entertainment, food, and lounge, but we'll also look deeper at the United Airlines Island Hopper.\n\nFor more trip reports, please subscribe to my channel!\nhttps://www.youtube.com/jebbrooksflies\n\nHere's a link to the complete and unedited takeoff and landing:\nhttps://youtu.be/1v-rGMptWcY\n\nCheck me out on Instagram: \nhttps://www.instagram.com/jebbrooksflies/\n\nAnd don't forget to take a look at my travel blog:\nhttps://greenergrass.com/\n\nMusic:\nAnticipation - Future Joust\nEnemy Territory - Jean Leonti\nIsland Race - Wanda Shakes\nSacudir - Flooaw\nSolitude Island - Calm Shores\nMilk Island - David Celeste\nMystery Island - Rune Dale\nThe Key - Jean Leonti\nHidden Identity - Jean Leonti\nBe Free with Me (Acoustic Version) - Siine",source:"youtube",source_id:"r1cON15Av1M",type:"Flight",stops:[],postdate:new Date(1557583319000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/jeb-brooks/2019/united-airlines-business-class-island-hopper-flight.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

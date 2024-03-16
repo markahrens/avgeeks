@@ -1,0 +1,10 @@
+const id = "alex-praglowski/2017/cathay-pacific-cargo-hong-kong-trader-747-867f-b-lja-close-up-landing-at-calgary-airport";
+const collection = "trips";
+const data = {name:"Cathay Pacific Cargo \"Hong Kong Trader\" 747-867F [B-LJA] Close Up Landing at Calgary Airport ᴴᴰ",description:"Less than a week after I caught \"Hong Kong Trader\" for the first time, I caught it again, but this time with a much better video, in my opinion. Cathay Pacific Cargo's Hong Kong Trader has been to YYC quite a few time already, but not so often in daylight. Here we have Cathay 095 heavy making a gorgeous close up landing on 17L this morning from JFK and taxiing to the apron with some great views of the city and the Rockies. I'm really happy with this video, and hopefully y'all are too! ATC is included, hope you enjoy!\n\nThanks for watching!\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nFLIGHT INFO\nAirline: Cathay Pacific Cargo (CPA/CX)\nAircraft: Boeing 747-8F (B74N)\nAircraft Name: None\nLivery: \"Hong Kong Trader\"\nEngines: 4x GEnx-2B67\nRegistration: B-LJA\nRoute: New York (JFK) - Calgary (YYC)\nCallsign: Cathay 095 heavy\nRunway used: 17L\nDate filmed: June 3, 2017\nLocal time: 0900\nFlightAware: http://flightaware.com/live/flight/BLJA\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nFlickr: https://www.flickr.com/photos/dude8472productions/\nTwitter: https://www.twitter.com/dude8472_YYC\nInstagram: https://www.instagram.com/dude8472productions\nChannel: https://www.youtube.com/dude8472productions\nOfficial Website: https://www.dude8472productions.com\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\n© dude8472productions 2017\n\nThis video is the property of dude8472productions and may not be used in any way without permission.",source:"youtube",source_id:"ZDsGP3yBLr0",type:"Flight",stops:[],postdate:new Date(1496549654000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/alex-praglowski/2017/cathay-pacific-cargo-hong-kong-trader-747-867f-b-lja-close-up-landing-at-calgary-airport.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

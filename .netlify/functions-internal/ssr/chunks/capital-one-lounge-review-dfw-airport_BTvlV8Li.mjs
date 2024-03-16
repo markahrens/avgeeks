@@ -1,0 +1,10 @@
+const id = "jeb-brooks/2022/capital-one-lounge-review-dfw-airport";
+const collection = "trips";
+const data = {name:"Capital One Lounge Review – DFW Airport",description:"Join us inside the brand new Capital One Lounge in Dallas Fort Worth International Airport!\n\nIn this video, you’ll see everything this world-class lounge has to offer. You’ll see the Peloton room, the sleep pods, and – of course – the top-notch food and beverage offerings! \n\nLocated near Gate D22 in Terminal D of the DFW Airport, the Capital One Lounge is open from 6:00 a.m. to 9:00 p.m. \n\nWe had the chance to see both breakfast and lunch options during our visit. We paid $65 per person because we do not have a Capital One credit card that includes access to the lounge. \n\nWe thought it was worth the money for the food, drinks, amenities, and – perhaps best of all – views accessible only from the Capital One Lounge. But what do you think? Leave a comment and let us know whether you think it’s worth it!\n\nHere’s a link to information about lounge access from Capital One themselves:\nhttps://www.capitalone.com/about/newsroom/start-your-vacation-before-you-even-arrive/\n\n0:00 Capital One Lounge Overview\n1:46 Capital One Lounge Amenities\n3:03 Capital One Lounge Food\n3:50 Capital One Lounge Bar\n4:18 Conclusion\n\nFor more trip reports, please subscribe to my channel! \nhttp://www.JebBrooksFlies.com \n\nCheck me out on Instagram: \nhttps://www.Instagram.com/JebBrooksFlies \n\nCheck me out on Twitter, too: \nhttps://twitter.com/jebbrooks \n\nAnd don't forget to take a look at my travel blog: \nhttps://greenergrass.com/ \n\nMusic:\nKeep Going – Catiso\nHey Should Have Been Me – Onda Norte",source:"youtube",source_id:"HkpQ-nRgi7s",type:"Flight",stops:[],postdate:new Date(1644076807000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/jeb-brooks/2022/capital-one-lounge-review-dfw-airport.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

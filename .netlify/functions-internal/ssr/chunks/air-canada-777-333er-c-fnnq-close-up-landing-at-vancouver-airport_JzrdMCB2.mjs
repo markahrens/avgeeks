@@ -1,0 +1,10 @@
+const id = "alex-praglowski/2014/air-canada-777-333er-c-fnnq-close-up-landing-at-vancouver-airport";
+const collection = "trips";
+const data = {name:"Air Canada 777-333ER [C-FNNQ] Close Up Landing at Vancouver Airport ᴴᴰ",description:"First time catching one of Air Canada's \"sardine can\" 77Ws, one of 5 such configured aircraft in the fleet at the moment. Here is fin number 745 landing at Vancouver International Airport on Runway 08L, with some sweet GE90 sound and spray! I really like how this clip turned out, the look of the aircraft on short final and the touchdown shot are just great. I hope you enjoy the video.\n\nThanks for watching! Please comment, rate, and subscribe!\n____________________________________________________\n\nFLIGHT INFO\nAirline: Air Canada (ACA/AC)\nAircraft: Boeing 777-300ER\nAircraft Name: None\nLivery: Standard\nEngines: 2x GE90-115B\nRegistration: C-FNNQ\nRoute: YYZ-YVR\nCallsign: Air Canada 1175 Heavy\nRunway used: 08L\nTaxiway(s) used: M5, M, J, JB\nFlightAware: http://flightaware.com/live/flight/CFNNQ\n____________________________________________________\n\nPrevious video: https://www.youtube.com/watch?v=uSE54DsddOo\nFacebook: http://www.facebook.com/dude8472productions\nMy Channel: http://www.youtube.com/dude8472productions\nGoogle Plus: http://www.google.com/+dude8472productions\nSubscribe: http://www.youtube.com/subscription_center?add_user=dude8472productions\nMy Website: http://www.dude8472productions.com\n____________________________________________________\n\n© dude8472productions 2014\n\nThis video is the property of dude8472productions and may not be used in any way without permission.",source:"youtube",source_id:"X5rTbEvBSHI",type:"Flight",stops:[],postdate:new Date(1418883946000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/alex-praglowski/2014/air-canada-777-333er-c-fnnq-close-up-landing-at-vancouver-airport.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

@@ -1,0 +1,10 @@
+const id = "trek-trendy/2022/80-hrs-from-london-to-istanbul-by-sleeper-train";
+const collection = "trips";
+const data = {name:"80 hrs from London to Istanbul by Sleeper Train",description:"Start speaking a new language in 3 weeks with Babbel : Get up to 65% OFF your subscription : HERE: https://go.babbel.com/t?bsc=1200m65-youtube-trektrendy-july-2022&btp=default&utm_term=generic_v1&utm_medium=paidsocial&utm_source=YouTube&utm_content=Influencer..trektrendy..USA..YouTube\n\nToday I’m taking taking the train from London all the way to Istanbul. Crossing 9 countries along the way on a variety of different sleeper trains, high speed trains and down right awful trains! Join me as I travel in the fastest possible time by using only the method of rail to get from one side of the continent of Europe to the other. Starting in London St Pancras, I’ll catch the Eurostar to Paris Gare Du Nord. Next up due to a delay from my previously booked train, I’ll grab a TGV over to Zurich, Switzerland. From there it’s the Austian Nightjet over to Vienna. Thanks to several lucky scrapes, I’m able to grab a 1st class train over to Budapest and catch up with my original itinerary to continue on to Arad, Romania. From Arad I’ll take one Romania’s most luxurious sleeper train over to Bucharest in order to catch my final train over to Turkey. This will be a couchette and it’s fare to say it’s a little rough around the edges. \n\nAs always let me know what you think, and if you’d do the same - to travel across Europe by sleeper train. It’s certainly possible with a little patience and a lack of sleep aha. \n\n0:00 - Introduction\n1:46 - Eurostar to Paris\n4:06 - TGV to Zurich\n7:18 - Nightjet to Vienna\n10:10 - 1st Class to Budapest\n14:39 - Sleeper train to Bucharest \n19:22 - Couchette to Istanbul\n26:56 - Turkish border",source:"youtube",source_id:"Bam_hdkfmSQ",type:"Flight",stops:[],postdate:new Date(1657493829000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/trek-trendy/2022/80-hrs-from-london-to-istanbul-by-sleeper-train.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

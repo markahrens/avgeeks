@@ -1,0 +1,10 @@
+const id = "paul-lucas/2023/canadas-longest-rail-journey-4500km-across-canada-part-22-winnipeg-to-vancouver";
+const collection = "trips";
+const data = {name:"Canada's LONGEST rail journey: 4,500KM across Canada! (Part 2/2: Winnipeg to Vancouver)",description:"Get Rosetta Stone NOW for £174.50 instead of £349 for a LIFETIME subscription. Make that investment in yourself today - which language will you learn? Click for the special discount HERE: https://bit.ly/3KZcTsp\n\nWatch Part 1 NOW if you haven't already! https://www.youtube.com/watch?v=rr4lp3bKTjA&t\n\nThis is the second and most epic part of my mammoth four-night excursion on VIA Rail's outstanding Canadian train, VIA Rail no.1. Toronto to Vancouver is one heck of a ride, so this second part deals with the last 2000km from Winnipeg to Vancouver. We pass through Saskatchewan and Alberta, on to Jasper, the Rocky Mountains, Mount Robson, Pyramid Falls, Kamloops and finally Vancouver! Enjoy the video!  \n\nFollow me on Twitter: @paul_winginit ¦ https://twitter.com/paul_winginit\nFollow me on Instagram: paul_winginit ¦ https://www.instagram.com/paul_winginit\nI made a Bright Trip guide to train travel : https://www.brighttrip.com/europebytrain\nMerch store: https://wingin-it.teemill.com/collection/all-products/\nPreferred VPN: https://surfshark.deals/winginit - promo code WINGINIT for discount\n♫ I use Epidemic sounds; give it a try: http://share.epidemicsound.com/paulwinginit\nJoin me on PATREON where you'll get perks like AD-FREE EARLY ACCESS viewing of all my trip report videos, my tips and tricks for hacking fares, my \"best of the month\" airfare rundown, and MORE...support me: https://www.patreon.com/winginit",source:"youtube",source_id:"5QCLkhANEkA",type:"Flight",stops:[],postdate:new Date(1678622404000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/paul-lucas/2023/canadas-longest-rail-journey-4500km-across-canada-part-22-winnipeg-to-vancouver.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

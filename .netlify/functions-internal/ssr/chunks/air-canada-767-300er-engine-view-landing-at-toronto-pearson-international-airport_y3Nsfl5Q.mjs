@@ -1,0 +1,10 @@
+const id = "alex-praglowski/2018/air-canada-767-300er-engine-view-landing-at-toronto-pearson-international-airport";
+const collection = "trips";
+const data = {name:"Air Canada 767-300ER Engine View Landing at Toronto-Pearson International Airport!",description:"Been a while since I've uploaded some wing view footage! Here's the full version of my landing in Toronto a few trip reports ago, on Air Canada's Boeing 767-300ER, in their Business/Signature Class Cabin. The departure video wasn't great, thanks to a heavily scratched window, but I moved a few seats back for the landing and ended up with this great engine view. Enjoy!\n\nCheck out my trip report of this flight here: https://www.youtube.com/watch?v=C0Vm-zn4vu4\n\nThanks for watching!\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nFLIGHT INFORMATION\nAirline: Air Canada (ACA/AC)\nAircraft: Boeing 767-300ER (B763)\nFlight Number: AC827\nSeat: 8A (Business Class)\nAircraft Name: 641\nLivery: 2005-2017\nEngines: 2x GE CF6-80C2B6F \nRegistration: C-GLCA\nRoute: Warsaw-Chopin (WAW) - Toronto-Pearson (YYZ)\nCallsign: AIR CANADA 827 heavy\nRunway used: 24L\nDate filmed: August 2018\nLocal time: 1800\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nOfficial Website: http://www.alexpraglowski.ca\nChannel: https://www.youtube.com/dude8472productions\nFacebook: https://www.facebook.com/AlexPAviation\nInstagram: https://www.instagram.com/ap.aviationphotography\nTwitter: https://www.twitter.com/AlexPYYC\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\n© Alex Praglowski Aviation 2018\n\nThis video is the property of Alex Praglowski Aviation and may not be used for any purpose without prior permission. \n\nMEDIA: Please contact me at the email in the \"About\" section of my channel.",source:"youtube",source_id:"UJbEFXdp9xM",type:"Flight",stops:[],postdate:new Date(1544810403000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/alex-praglowski/2018/air-canada-767-300er-engine-view-landing-at-toronto-pearson-international-airport.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

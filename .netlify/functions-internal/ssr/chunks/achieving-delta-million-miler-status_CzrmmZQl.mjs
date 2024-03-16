@@ -1,0 +1,10 @@
+const id = "jeb-brooks/2019/achieving-delta-million-miler-status";
+const collection = "trips";
+const data = {name:"Achieving Delta MILLION MILER Status",description:"Since opening a SkyMiles Account back in 2006, I've flown 999,730 miles. Today, I'll earn Delta MILLION MILER Status on a flight from Greensboro, NC to Atlanta, GA. My Delta Miliion Miler flight will be on an MD-88 in FIRST CLASS! I hope you'll join me.\n\nI'll share some of the benefits and secrets of Delta Million Miler status. I'll also show you all of the possible Delta Million Miler Gifts that are available along with the Delta Million Miler Gift I chose!\n\nWhat do you think of the flight? Leave a comment!\n\nFull take-off and landing footage here:\nhttps://youtu.be/yl5HxkbOwcU\n\nFor more trip reports, please subscribe to my channel!\nhttps://www.youtube.com/jebbrooksflies\n\nHere's a link to the complete and unedited takeoff and landing:\nhttps://youtu.be/GWhgIe2FJxs\n\nCheck me out on Instagram: \nhttps://www.instagram.com/jebbrooksflies/\n\nAnd don't forget to take a look at my travel blog:\nhttps://greenergrass.com/\n\nMusic:\nIn Gratitude - Real Heroes\nToo Fast - Ooyy\nAll Music from Epidemic Sound",source:"youtube",source_id:"wxj9TTRB_7k",type:"Flight",stops:[],postdate:new Date(1556373707000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/jeb-brooks/2019/achieving-delta-million-miler-status.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

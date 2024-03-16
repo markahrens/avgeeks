@@ -1,0 +1,10 @@
+const id = "alex-praglowski/2014/air-greenland-a330-223-oy-grn-parked-at-calgary-airport";
+const collection = "trips";
+const data = {name:"Air Greenland A330-223 [OY-GRN] Parked at Calgary Airport ᴴᴰ",description:"Can you say \"rare\"? This bird snuck in early this morning from Brize Norton, and it's been on the ground since then (I believe it still is, at the time of upload). It'll probably evade us YYC spotters and leave in the early morning tomorrow :/ I'm glad I was able to see it on the ground at least though, since this is probably the first time Air Greenland has ever been in Calgary, let alone Alberta. Us YYC spotters have certainly been spoiled by all the special RAF charters in the past few weeks! Hope you enjoy this short video, and watch in 1080p!\n\nThanks for watching! Please comment, rate, and subscribe!\n____________________________________________________\n\nFLIGHT INFO\nAirline: Air Greenland (GL/GRL)\nAircraft: Airbus A330-200\nAircraft Name: \"Norsaq\"\nEngines: 2x PW PW4168A\nRegistration: OY-GRN\nRoute: N/A\nCallsign: N/A\nRunway used: N/A \nTaxiway(s) used: N/A\nFlightAware: None\n____________________________________________________\n\nPrevious video: https://www.youtube.com/watch?v=TbCgrYgYPvM\nMy Channel: http://www.youtube.com/dude8472productions\nFollow me on Facebook: https://www.facebook.com/dude8472productions\nSubscribe: http://www.youtube.com/subscription_center?add_user=dude8472productions\nMy Website: http://www.planespottinginternational.com\n____________________________________________________\n\n© dude8472productions 2014\n\nThis video is the property of dude8472productions and may not be used in any way without permission.",source:"youtube",source_id:"dslajQJt_RM",type:"Flight",stops:[],postdate:new Date(1408837379000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/alex-praglowski/2014/air-greenland-a330-223-oy-grn-parked-at-calgary-airport.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

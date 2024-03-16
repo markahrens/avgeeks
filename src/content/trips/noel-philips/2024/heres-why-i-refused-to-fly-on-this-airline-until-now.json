@@ -4,7 +4,7 @@
  "source": "youtube",
  "source_id": "PnR2BvogNiY",
  "type": "Flight",
- "company": "",
- "stops": [],
+ "company": "Norse Atlantic",
+ "stops": ["LGW","MIA"],
  "postdate": "2024-01-21T13:59:58Z"
 }

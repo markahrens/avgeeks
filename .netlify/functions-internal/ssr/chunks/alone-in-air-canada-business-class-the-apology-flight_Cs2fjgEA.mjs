@@ -1,0 +1,10 @@
+const id = "trek-trendy/2021/alone-in-air-canada-business-class-the-apology-flight";
+const collection = "trips";
+const data = {name:"ALONE in Air Canada Business Class *The APOLOGY Flight*",description:"Go check out ZEN today https://www.zen.com/?utm_medium=TREKTRENDY&utm_source=Influencer&utm_campaign=PERFORMANCE_GB and get 120 days cost-free subscription using code TREKTRENDYZEN \n\nToday I'm back onboard Air Canada.. alone! After my last flight on their 787-9 in Business Class over from Mexico City, there's certainly a lot of room for improvement. I have a 14 hour layover first to contend with at Toronto international airport. \n\nMy second Air Canada flight will be on their 777-300ER in Business Class. I'm told there should be a number of improvements with their soft product for this routing including some bedding this time! I'll also get to meet the captain and this time I will have no issues filming as Air Canada are aware of this flight. This does make reviewing this impartially a bit difficult as you'll see, service is certainly adapted to account for my presence. However I will say I experienced some of the best cabin crew onboard, a huge contrast to my previous flight. The question remains.... will I fly Air Canada again (interestingly awarded North America's best airline). Let's find out. \n\nFollow along live to my travel on IG: will.luxurytravel",source:"youtube",source_id:"1_3kpW58g0E",type:"Flight",stops:[],postdate:new Date(1625427900000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/trek-trendy/2021/alone-in-air-canada-business-class-the-apology-flight.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

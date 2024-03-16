@@ -1,0 +1,10 @@
+const id = "noel-philips/2020/inside-saudias-surprising-business-class";
+const collection = "trips";
+const data = {name:"INSIDE Saudia's SURPRISING Business Class",description:"Check out SurfShark and get 83% off, plus 1 month free: use code NOELPHILIPS at http://surfshark.deals/noelphilips (sponsored)\nI took a flight on Saudia Business Class onboard the Boeing 787 and A320 - and what I found surprised me.\n=====\nCHECK OUT PRIORITY PASS FOR LOUNGE ACCESS - 10% DISCOUNT FOR MY VIEWERS: https://bit.ly/2SVYYqc \nCURVE: Get £5 free and your free Curve card!  https://www.curve.app/en-gb/join#NOEL5\n(affiliate links)\n\nEARLY ACCESS, MERCH AND MORE - SUPPORT ME ON PATREON! http://patreon.com/inflightvideo\n\nPLEASE SUBSCRIBE FOR WEEKLY TRIP REPORTS!\n\nBig thanks to my Patrons!  Join them at patreon.com/inflightvideo\n\n#Travel 15,Aaron Adams, Alan Williamson, Alyssa Parssinen, Andrew Laybourne, Andrew S, Anthony Cavaco, Bob Barton, Brandon Promeneur, Daniel Hornett, Daniel Juschus, David Anderson, Eirik Christoffersen, Elliot Marsh, Graham brownlow, Grant Kennedy, Jake Paul, James Cardwell, Jandus Jacobsen, Joao Pedro Wilshusen , Joshua bedel, Kieran Butterfield\nMark Weatherley, Matthew Ogilvie, Max Lavallee, Mellows, Mike Meloni, Mike Up, Mike Wooldridge, Nathan Say, Neil Turner, Paul Fitchen, Pete Chadwick, Peter Smets, QFS Aviation, Rafal K, Ryan Wylde, Sam Morris, Sam Robinson\nSam Yates, Sarah Clark, Simon Casey, th3bubbanator, Vic German, Will Sparrow, Zarniwoop B\n\nEQUIPMENT (affiliate links)\nGoPro Hero 7 https://amzn.to/2SVH1er\nFeiyutech G6 Gimbal https://amzn.to/2NsNXd7",source:"youtube",source_id:"PDvP5ugtXYA",type:"Flight",stops:[],postdate:new Date(1583582390000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/noel-philips/2020/inside-saudias-surprising-business-class.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

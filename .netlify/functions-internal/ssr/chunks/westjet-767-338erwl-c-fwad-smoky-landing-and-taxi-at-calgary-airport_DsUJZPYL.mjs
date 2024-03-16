@@ -1,0 +1,10 @@
+const id = "alex-praglowski/2017/westjet-767-338erwl-c-fwad-smoky-landing-and-taxi-at-calgary-airport";
+const collection = "trips";
+const data = {name:"WestJet 767-338ER(WL) [C-FWAD] Smoky Landing and Taxi at Calgary Airport ᴴᴰ",description:"A quick clip from 2016! Here we have C-FWAD, WestJet's 3rd 767 making a smokey touchdown on 17L, from London-Gatwick. WestJet currently operates 3 times a week from Calgary to London for the winter, increasing back to 5 times a week starting in the summer. ATC is included, enjoy!\n\nThanks for watching!\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nFLIGHT INFO\nAirline: WestJet (WJA/WS)\nAircraft: Boeing 767-300ER (B76W)\nAircraft Name: None\nLivery: Revised\nEngines: 2x GE CF6-80C2B6 \nRegistration: C-FWAD\nRoute: LGW-YYC\nCallsign: WestJet 2 heavy\nRunway used: 17L\nLocal Time: 1900\nFlightAware: http://flightaware.com/live/flight/CFWAD\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nFlickr: https://www.flickr.com/photos/dude8472productions/\nTwitter: https://www.twitter.com/dude8472_YYC\nInstagram: https://www.instagram.com/dude8472productions\nChannel: https://www.youtube.com/dude8472productions\nOfficial Website: https://www.dude8472productions.com\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\n© dude8472productions 2017\n\nThis video is the property of dude8472productions and may not be used in any way without permission.",source:"youtube",source_id:"TP7Gqv6xkIo",type:"Flight",stops:[],postdate:new Date(1485549316000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/alex-praglowski/2017/westjet-767-338erwl-c-fwad-smoky-landing-and-taxi-at-calgary-airport.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

@@ -1,0 +1,10 @@
+const id = "alex-praglowski/2016/cockpit-view-cessna-172n-c-gyde-landing-at-springbank-airport";
+const collection = "trips";
+const data = {name:"Cockpit View! Cessna 172N [C-GYDE] Landing at Springbank Airport ᴴᴰ",description:"Follow me on Instagram: https://www.instagram.com/dude8472productions/\n\nLanding at Springbank! I went up in a Cessna 172 for the first time on an introductory flight today. Did the takeoff, some turns, and level flying with an instructor out to Cochrane and back. Lots of fun, can't wait to start the training. Here is our 172 landing back at CYBW (filmed by me, of course). Maybe I'll get a GoPro for more videos like these, would anyone be interested? Enjoy!\n\nThanks for watching!\n____________________________________________________\n\nFLIGHT INFO\nAirline: Calgary Flying Club\nAircraft: Cessna 172N Skyhawk II\nAircraft Name: None\nLivery: White with brown stripes\nEngines: 1x Lycoming O-360\nRegistration: C-GYDE\nRoute: YBW-YBW\nCallsign: Yankee Delta Echo\nRunway used: 17\nLocal Time: 1300\nFlightAware: None\n____________________________________________________\n\nPrevious video: https://www.youtube.com/watch?v=8thDvcxgUYw\nFlickr: https://www.flickr.com/photos/dude8472productions/\nTwitter: https://www.twitter.com/dude8472_YYC\nInstagram: https://www.instagram.com/dude8472productions\nChannel: https://www.youtube.com/dude8472productions\nGoogle Plus: https://www.google.com/+dude8472productions\nSubscribe: https://www.youtube.com/subscription_center?add_user=dude8472productions\nOfficial Website: https://www.dude8472productions.com\n____________________________________________________\n\n© dude8472productions 2016\n\nThis video is the property of dude8472productions and may not be used in any way without permission.",source:"youtube",source_id:"y8f2HjuH8Eg",type:"Flight",stops:[],postdate:new Date(1457220434000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/alex-praglowski/2016/cockpit-view-cessna-172n-c-gyde-landing-at-springbank-airport.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

@@ -1,0 +1,10 @@
+const id = "trek-trendy/2016/sri-lanka-tourist-guide-4-of-12";
+const collection = "trips";
+const data = {name:"SRI LANKA TOURIST GUIDE - #4 of 12",description:"For my forth country of the year, I flew over to Sri Lanka, starting in the capital, Colombo. After a day on the road, I found myself in the stunning surroundings of Dambulla, where I wasted no time in trekking the Sri Lankan jungle. We then spent some time in Sigiriya, relaxing in the Jetwing hotel and seeing elephants on safari! After another long journey up to the North of the country, we spent a week on the beaches of Trincomalee, where we saw dolphins, whales and I indulged in a spot of jetskiing. But before going home, I had to experience one of the most famous Sri Lankan delicacies, it's tea, in Kandy. \n\nPlease like, share and subscribe this video to support TrekTrendy TV so that we can continue to bring awesome videos from around the world :)\n\nMake sure you check out TrekTrendy.com where I'll show you how you can travel to some of the worlds most exciting destinations, at a fraction of the cost.",source:"youtube",source_id:"cUtPGA9WWDE",type:"Flight",stops:[],postdate:new Date(1459158926000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/trek-trendy/2016/sri-lanka-tourist-guide-4-of-12.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

@@ -1,0 +1,10 @@
+const id = "alex-praglowski/2015/royal-air-force-a330-243mrtt-zz331-landing-and-taxi-at-calgary-airport";
+const collection = "trips";
+const data = {name:"Royal Air Force A330-243MRTT [ZZ331] Landing and Taxi at Calgary Airport ᴴᴰ",description:"Finally managed to catch one of the RAF A330MRTTs! Here we have ZZ331 making a fairly windy landing at Calgary International Airport. This summer's RAF flights have begun, and we've been seeing a lot of these military A330s lately; however, they're pretty hard to track. Some condensation can be seen around 1:00, and sorry for the shaky footage on taxi. It was fairly windy and I stood on a picnic table, so I wasn't able to set up my tripod. ATC included with captions. Regardless, I hope you enjoy!\n\nThanks for watching! Please comment, rate, and subscribe!\n____________________________________________________\n\nFLIGHT INFO\nAirline: Royal Air Force (RFR/RR)\nAircraft: Airbus A330 MRTT (Multi-Role Tanker Transport)\nAircraft Name: None\nLivery: Standard RAF grey\nEngines: 2x RR Trent 772B-60 \nRegistration: ZZ331\nRoute: HAJ-YYC\nCallsign: Ascot 2786 heavy\nRunway used: 35R\nLocal Time: 1850\nFlightAware: None\n____________________________________________________\n\nPrevious video: https://www.youtube.com/watch?v=qtG2GOhQJ9k\nFacebook: http://www.facebook.com/dude8472productions\nMy Channel: http://www.youtube.com/dude8472productions\nGoogle Plus: http://www.google.com/+dude8472productions\nSubscribe: http://www.youtube.com/subscription_center?add_user=dude8472productions\nMy Website: http://www.dude8472productions.com\n____________________________________________________\n\n© dude8472productions 2015\n\nThis video is the property of dude8472productions and may not be used in any way without permission.",source:"youtube",source_id:"yNRIWEJsDG0",type:"Flight",stops:[],postdate:new Date(1430369518000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/alex-praglowski/2015/royal-air-force-a330-243mrtt-zz331-landing-and-taxi-at-calgary-airport.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

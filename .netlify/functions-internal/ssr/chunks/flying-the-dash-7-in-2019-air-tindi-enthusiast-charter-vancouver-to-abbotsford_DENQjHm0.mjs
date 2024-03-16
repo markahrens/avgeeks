@@ -1,0 +1,10 @@
+const id = "alex-praglowski/2019/flying-the-dash-7-in-2019-air-tindi-enthusiast-charter-vancouver-to-abbotsford";
+const collection = "trips";
+const data = {name:"FLYING THE DASH 7 IN 2019! Air Tindi Enthusiast Charter Vancouver to Abbotsford",description:"On August 10th, an Air Tindi de Havilland Canada Dash 7 flew into the Abbotsford Airshow with a cabin full of aviation enthusiasts. \n\nThis was a charter flight organized by Henry Tenby as a way for a bunch of people to fly on a very rare Dash 7, and of course, I had to be on board! \n\nWe flew in early in the morning in time for the show to start, and left right after the Snowbirds finished their performance. See what it's like to fly on this classic STOL airliner, with two high-performance takeoffs and landings!\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nHENRY TENBY:\nhttps://www.jetflix.tv\nhttps://www.theAltitudeApp.com\n\nSOCIAL MEDIA\nInstagram: https://www.instagram.com/ap.aviationphotography\nTwitter: https://www.twitter.com/AlexPYYC\nFacebook: https://www.facebook.com/AlexPAviation\n\nOFFICIAL WEBSITE: http://www.alexpraglowski.ca\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nFLIGHT INFORMATION\nAirline: Air Tindi (8T)\nAircraft: de Havilland Canada Dash 7 (DHC7)\nFlight Number: 8T804/803\nSeat: 4A/13D\nLivery: Standard\nEngines: 4x Pratt & Whitney Canada PT6A-50\nRegistration: C-GFFL\nRoute: Vancouver (YVR) - Abbotsford (YXX) - Vancouver (YVR)\nCallsign: TINDI 804/803\nRunway used: 08L (YVR) - 07 (YXX) // 25 (YXX) - 26L (YVR)\nDate filmed: August 10, 2019\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\n© Alex Praglowski Aviation 2019\n\nThis video is the property of Alex Praglowski Aviation and may not be used for any purpose without prior permission.\n\nMEDIA: Please contact me at the email in the \"About\" section of my channel for usage.",source:"youtube",source_id:"cRorX6AmGxY",type:"Flight",stops:[],postdate:new Date(1566004203000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/alex-praglowski/2019/flying-the-dash-7-in-2019-air-tindi-enthusiast-charter-vancouver-to-abbotsford.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

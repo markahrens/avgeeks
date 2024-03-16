@@ -1,0 +1,10 @@
+const id = "alex-praglowski/2015/titan-airways-767-36ner-g-powd-dusk-takeoff-from-calgary-airport";
+const collection = "trips";
+const data = {name:"Titan Airways 767-36NER [G-POWD] Dusk Takeoff from Calgary Airport ᴴᴰ",description:"This bird has eluded me at YYC for over a year, often operating charters for the Royal Air Force. The last time I saw it was in late June of last year, and I was only able to catch it with my phone, which is much, much less than ideal. Titan Airways will slowly be phasing out their Boeing aircraft over the next few years, this bird included. Glad I was able to capture it this time, even though it's not my best video. ATC is included with captions, and I hope you enjoy!\n\nThanks for watching! Please comment, rate, and subscribe!\n____________________________________________________\n\nFLIGHT INFO\nAirline: Titan Airways (AWC/ZT)\nAircraft: Boeing 767-300ER (B763)\nAircraft Name: None\nLivery: Old\nEngines: 2x GE CF6-80C2B7F \nRegistration: G-POWD\nRoute: YYC-BZZ\nCallsign: ZAP 981 heavy\nRunway used: 35L\nLocal Time: 1930\nFlightAware: http://flightaware.com/live/flight/GPOWD\n____________________________________________________\n\nPrevious video: https://www.youtube.com/watch?v=c1_rmFnKFx8\nFacebook: https://www.facebook.com/dude8472productions\nTwitter: https://www.twitter.com/dude8472_YYC\nChannel: https://www.youtube.com/dude8472productions\nGoogle Plus: https://www.google.com/+dude8472productions\nSubscribe: https://www.youtube.com/subscription_center?add_user=dude8472productions\nOfficial Website: https://www.dude8472productions.com\n____________________________________________________\n\n© dude8472productions 2015\n\nThis video is the property of dude8472productions and may not be used in any way without permission.",source:"youtube",source_id:"Njm0_QA6Dt0",type:"Flight",stops:[],postdate:new Date(1443941337000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/alex-praglowski/2015/titan-airways-767-36ner-g-powd-dusk-takeoff-from-calgary-airport.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

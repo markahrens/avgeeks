@@ -1,0 +1,10 @@
+const id = "dennis-bunnik/2016/singapore-airlines-first-class-suites-a380-sq-part-4";
+const collection = "trips";
+const data = {name:"Singapore Airlines First Class Suites A380: SQ Part 4",description:"First Class on the iconic Singapore Airlines A380!  So how good is it?  Very good indeed!  Join me as I step into a world of luxury at the very pointy end of the aircraft as I fly from Singapore to Zurich in a first class suite on board the famous Singapore Airlines A380.  \n\nThis flight review video is Episode 4 of my series The 4 Classes of Singapore Airlines.   Check them all out by clicking on my channel below....and of course please don't forget to subscribe. \n\nThe other episodes are:\n\nEp 1: Singapore Airlines Economy Class:   https://youtu.be/cMR8v4K7ugg \nEp 2: Singapore Airlines Premium Economy Class:  https://youtu.be/iuJEP9s9UAU  \nEp 3: Singapore Airlines Business Class:  https://youtu.be/zP7f0VjHwPE \n\nThis episode covers my flight from Singapore to Zurich to Singapore on SQ346 on the Airbus A380 in a beautiful First Class Suite.\n\nThis flight review video covers first class check-in at Singapore Airport, the First Class SilverKris Lounge - including The Private Room. Then it's time to board using the dedicated Suites passengers' aerobridge.  On board I cover the suite, seat, inflight dining, the Singapore Airlines Suites flat bed and the amenities provided to first class passengers.   \n\nFor more flight review videos including Emirates, Qantas, Qatar, LATAM, Turkish Airlines, Air Baltic and Cathay Pacific please visit my channel DennisBunnik Travels.  \n\nFlight:  SQ346\nAirline:  Singapore Airlines\nRoute:  Singapore to Zurich\nAircraft:  Airbus A380-800\nAircraft Reg: 9VSKS\nSeat:  4A (window)",source:"youtube",source_id:"yNoNrAXS38I",type:"Flight",stops:[],postdate:new Date(1473725437000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/dennis-bunnik/2016/singapore-airlines-first-class-suites-a380-sq-part-4.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

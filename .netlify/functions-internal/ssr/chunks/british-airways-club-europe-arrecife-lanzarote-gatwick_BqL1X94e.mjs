@@ -1,0 +1,10 @@
+const id = "paul-lucas/2017/british-airways-club-europe-arrecife-lanzarote-gatwick";
+const collection = "trips";
+const data = {name:"British Airways Club Europe, Arrecife (Lanzarote) - Gatwick",description:"Fancy becoming a Patron? Want some credits, or to see \"secret\" content? \n\nhttps://www.patreon.com/paulstripreports \n\nTHANKS TO PATRONS: \nAbby Fitzpatrick\nKitty Oskin\n\nFollow me on Snapchat: pauls_trips ¦ https://snapchat.com/add/pauls_trips\n\nFollow me on Twitter: @pauls_trips ¦ https://twitter.com/pauls_trips\n\nFollow me on Instagram: paulstripreports ¦ https://www.instagram.com/paulstripreports/\n\nDate of Travel: 11 MAY 2017\nAircraft: Airbus A320-200\nTail: G-MEDK\nLivery: BA Standard\nRoute: ACE-LGW\nWeather on Departure: Partly cloudy, winds 20kts\nWeather on Arrival: Broken cloud, winds 10kts\nAirborne Time: 3h43m\nMiles: 1681\nRemarks: None\n\n\nThanks for finding my video and pressing play! \n\nJoin me on my return trip from Lanzarote back to London Gatwick, a trip I made at the end of my holiday there last month. We visit the VIP Guacimeta Lounge (one of the most basic lounges I've ever been in!) prior to departure.\n\nAnother solid Club Europe flight, but you have to wonder what BA were thinking of with a starter of poached pears, stilton cheese and dill sauce - unnecessarily daft, complex, and not acceptable for something so niche to be the only choice! Why not just have a salad?\n\nEnjoy the video.\n\nMY MOST-WATCHED VIDEO - BRITISH AIRWAYS FIRST CLASS 787 REPORT: https://www.youtube.com/watch?v=4LRFyTtxlRg \n\nTRAINS, ANYONE? https://www.youtube.com/watch?v=_iSjr-5LbaA \n\n#paulstripreports #vlog #review #flying #travel #aviation #avgeek \n\nMusic courtesy of Czech Vibes Sound\n\n***DON’T FORGET TO SUBSCRIBE!***",source:"youtube",source_id:"iPR8LpHjAkk",type:"Flight",stops:[],postdate:new Date(1497771301000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/paul-lucas/2017/british-airways-club-europe-arrecife-lanzarote-gatwick.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

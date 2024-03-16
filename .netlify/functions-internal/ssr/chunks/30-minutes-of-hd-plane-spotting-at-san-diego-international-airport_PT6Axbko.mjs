@@ -1,0 +1,10 @@
+const id = "alex-praglowski/2014/30-minutes-of-hd-plane-spotting-at-san-diego-international-airport";
+const collection = "trips";
+const data = {name:"30 Minutes of HD Plane Spotting at San Diego International Airport!",description:"Here is one of my final videos from my vacation in San Diego back in February (I know, it's taken forever to go through all these), and this one features 30 minutes of action, shot on different days. The heavies featured in this video include the Japan Airlines 787, British Airways 777-200ER, FedEx MD-10-10F, and a Delta 767-300. And also, the final video is Alaska Airlines' \"Salmon Thirty Salmon\" aircraft taking off (even though you can't see much of it). I hope you enjoy.\n\nThanks for watching! Please comment, rate, and subscribe\n!\n-=-=-=-=-=-=-=-=-=-=-=-\n\nOfficial Website: http://www.alexpraglowski.ca\nChannel: https://www.youtube.com/dude8472productions\nFacebook: https://www.facebook.com/AlexPAviation\nInstagram: https://www.instagram.com/ap.aviationphotography\nTwitter: https://www.twitter.com/AlexPYYC\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\n© Alex Praglowski Aviation 2014\n\nThis video is the property of Alex Praglowski Aviation and may not be used for any purpose without prior permission. \n\nMEDIA: Please contact me at the email in the \"About\" section of my channel.",source:"youtube",source_id:"vB1UFe-89b4",type:"Flight",stops:[],postdate:new Date(1412544661000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/alex-praglowski/2014/30-minutes-of-hd-plane-spotting-at-san-diego-international-airport.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

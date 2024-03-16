@@ -1,0 +1,10 @@
+const id = "noel-philips/2013/contrails-over-mansfield-1-dec-2013";
+const collection = "trips";
+const data = {name:"Contrails over Mansfield - 1 Dec 2013",description:"A couple of hours of morning contrails overhead Mansfield, 1 December 2013.\n\nOn this video:\n\nAer Lingus A320 EI-DEL, DUB-AMS, FL370\nGama Aviation Hawker 1000 G-GMAB, LTN-???, FL400\nMartinair Cargo MD11 PH-MCU, MIA-AMS, FL350\nCondor B767-300 G-DAJC, VRA-FRA, FL370\nKLM B777-200 PH-BQH, GYE-AMS, FL370\nUS Airways A330-300 N276AY, CLT-FRA, FL390\nLufthansa A340-600 D-AIHB, BOG-FRA, FL390\nRyanair B737-800 EI-EFO, DUB-EIN, FL370\n\nApologies for the shakiness from time to time, this is my first attempt at recording video through my telescope!\n\nFor pictures please check out my website www.aviationphotos.co.uk.\n\n✈ ✈\nEquipment used:\n\nCamera: GoPro Hero4 Silver http://goo.gl/Wz7Uxt\nMount: Generic suction mount http://goo.gl/E2vRBs\nSwivel Mount: http://goo.gl/vWQVne\nBoya Frame Case for GoPro: http://goo.gl/tqM3H1\nBattery: Anker E7 25600mAh  http://goo.gl/ZXfxOy\nMicroSD cards: Sandisk 128GB http://goo.gl/KDjm4Y\n\n✈✈✈✈✈✈✈✈✈✈✈✈✈✈✈✈✈✈✈✈✈✈✈✈✈\n\nWould you like to view my full flight videos ahead of everyone else, and support inflight Video at the same time?  Please consider supporting me on Patreon at https://www.patreon.com/inflightvideo.  Patrons get early access to all of my full length, full flight videos, as well as other perks including access to giveaways, freebies, and regular live chats to talk about what's coming soon for inflight Video!  You'll also be supporting me by allowing me to reserve seats with a good view, and access a wider range of interesting flights to film.  Thank you!\n\n✈✈✈✈✈✈✈✈✈✈✈✈✈✈✈✈✈✈✈✈✈✈✈✈✈",source:"youtube",source_id:"OV98HIXKwRo",type:"Flight",stops:[],postdate:new Date(1385931319000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/noel-philips/2013/contrails-over-mansfield-1-dec-2013.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

@@ -1,0 +1,10 @@
+const id = "alex-praglowski/2017/air-france-skyteam-livery-777-328er-f-gznt-taxi-and-takeoff-from-montreal-trudeau";
+const collection = "trips";
+const data = {name:"Air France (SkyTeam Livery) 777-328ER [F-GZNT] Taxi and Takeoff from Montréal-Trudeau ᴴᴰ",description:"I've seen Star Alliance liveries countless times, oneworld liveries only a few times, but never a SkyTeam one (on a 777, that is)! Here we have one of three daily Air France flights into Montréal taxiing up close and departing runway 24L for Paris. Oh, also, in case you haven't noticed already, I went back to YUL for more plane spotting ;) I've got some great footage coming up from Canada's third busiest airport, so stay tuned. Enjoy my first catch of a SkyTeam livery!\n\nThanks for watching!\n\nAnd a very special thank you to my good friend CYUL Plane Spotter for showing me around YUL. Check him out here: https://www.youtube.com/CYULPlaneSpotter\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nFLIGHT INFO\nAirline: Air France (AFR/AF)\nAircraft: Boeing 777-300ER (B77W)\nAircraft Name: None\nLivery: SkyTeam\nEngines: 2x GE90-115B\nRegistration: F-GZNT\nRoute: Montréal-Trudeau (YUL) - Paris Charles de Gaulle (CDG)\nCallsign: Airfrance 347 heavy\nRunway used: 24L\nDate filmed: July 17, 2017\nLocal time: 2030\nFlightAware: http://flightaware.com/live/flight/FGZNT\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nFlickr: https://www.flickr.com/photos/dude8472productions/\nTwitter: https://www.twitter.com/dude8472_YYC\nInstagram: https://www.instagram.com/dude8472productions\nChannel: https://www.youtube.com/dude8472productions\nOfficial Website: https://www.dude8472productions.com\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\n© dude8472productions 2017\n\nThis video is the property of dude8472productions and may not be used in any way without permission.",source:"youtube",source_id:"nRA8GYxxdaY",type:"Flight",stops:[],postdate:new Date(1502320096000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/alex-praglowski/2017/air-france-skyteam-livery-777-328er-f-gznt-taxi-and-takeoff-from-montreal-trudeau.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

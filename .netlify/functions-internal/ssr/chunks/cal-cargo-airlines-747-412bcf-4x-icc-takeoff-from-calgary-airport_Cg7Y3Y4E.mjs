@@ -1,0 +1,10 @@
+const id = "alex-praglowski/2016/cal-cargo-airlines-747-412bcf-4x-icc-takeoff-from-calgary-airport";
+const collection = "trips";
+const data = {name:"CAL Cargo Airlines 747-412BCF [4X-ICC] Takeoff from Calgary Airport ᴴᴰ",description:"The rare visitors just keep coming! Here we have one of three 747s from Israeli cargo carrier CAL Cargo Airlines departing YYC after a week long stay on our cargo apron. This bird was in town to transport the horses for the Spruce Meadows Masters event, an annual event that takes place south of Calgary, a horse jumping show with professionals from all over the world. The past couple of years, National Air Cargo has flown the horses in, but a new carrier is always welcome, though not as pretty a sight as National's 747s. Enjoy this short video with ATC.\n\nThanks for watching!\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nFLIGHT INFO\nAirline: CAL Cargo Airlines (ICL/5C)\nAircraft: Boeing 747-400BCF (B744)\nAircraft Name: None\nLivery: Arctic Camouflage (all white)\nEngines: 4x Pratt and Whitney PW4056\nRegistration: 4X-ICC\nRoute: YYC-LGG\nCallsign: CAL 952 heavy\nRunway used: 17R\nLocal Time: 1745\nFlightAware: http://flightaware.com/live/flight/4XICC\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nFlickr: https://www.flickr.com/photos/dude8472productions/\nTwitter: https://www.twitter.com/dude8472_YYC\nInstagram: https://www.instagram.com/dude8472productions\nChannel: https://www.youtube.com/dude8472productions\nOfficial Website: https://www.dude8472productions.com\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\n© dude8472productions 2016\n\nThis video is the property of dude8472productions and may not be used in any way without permission.",source:"youtube",source_id:"bDS9yVtaEEc",type:"Flight",stops:[],postdate:new Date(1473734206000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/alex-praglowski/2016/cal-cargo-airlines-747-412bcf-4x-icc-takeoff-from-calgary-airport.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

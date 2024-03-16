@@ -1,0 +1,10 @@
+const id = "alex-praglowski/2020/loud-canadian-north-boeing-737-200-combi-in-action-at-calgary-international-airport";
+const collection = "trips";
+const data = {name:"LOUD Canadian North Boeing 737-200 Combi in Action at Calgary International Airport!",description:"This 39-year-old Boeing 737-200 paid Calgary a visit earlier this week, operating a diamond mine charter to Ekati, NWT.\n\nThese flights are normally flown with Summit Air's Avro RJs, but for whatever reason, they chartered the 732 for this flight. Not complaining!\n\nEnjoy this footage of this classic bird in action here in Calgary.\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nSOCIAL MEDIA\nInstagram: https://www.instagram.com/alexpraglowskiaviation\nTwitter: https://www.twitter.com/AlexPraglowski\nFacebook: https://www.facebook.com/AlexPAviation\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nFLIGHT INFORMATION\nAirline: Canadian North (MPE/5T)\nAircraft: Boeing 737-275 Combi (B732)\nFlight Number: 5T9410/5T9411\nLivery: Old \nEngines: 2x Pratt & Whitney JT8D-17\nRegistration: C-GOPW\nRoute: Edmonton (YEG) - Calgary (YYC) - Ekati (YOA) - Calgary (YYC) - Edmonton (YEG)\nCallsign: EMPRESS 9410/EMPRESS 9411\nRunway used: 35L, 35L\nDate filmed: June 16th, 2020\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nOutro song: \"Take Flight\" by Nyhtian: https://www.youtube.com/watch?v=bCTTwQ_269c\n\n© Alex Praglowski Aviation 2020\n\nThis video is the property of Alex Praglowski Aviation and may not be used for any purpose without prior permission. Contact me at the email in the \"About\" section of my channel for usage.",source:"youtube",source_id:"Cy8nmyyi5wg",type:"Flight",stops:[],postdate:new Date(1592607605000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/alex-praglowski/2020/loud-canadian-north-boeing-737-200-combi-in-action-at-calgary-international-airport.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

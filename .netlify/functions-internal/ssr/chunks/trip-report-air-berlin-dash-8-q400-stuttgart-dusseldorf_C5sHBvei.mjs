@@ -1,0 +1,10 @@
+const id = "paul-lucas/2017/trip-report-air-berlin-dash-8-q400-stuttgart-dusseldorf";
+const collection = "trips";
+const data = {name:"Trip Report: Air Berlin Dash-8 Q400, Stuttgart-Düsseldorf",description:"Fancy being a Patron? https://www.patreon.com/paulstripreports\n\nFollow me on Snapchat: pauls_trips ¦ https://snapchat.com/add/pauls_trips\n\nFollow me on Twitter: @pauls_trips ¦ https://twitter.com/pauls_trips\n\nFollow me on Instagram: paulstripreports ¦ https://www.instagram.com/paulstripreports/\n\nDate of Travel: 06 APR 2017\nAircraft: Dash 8 Q400\nTail: D-ABQJ\nLivery: Air Berlin standard\nRoute: STR-DUS\nWeather on Departure: Cloudy, winds 10kts\nWeather on Arrival: Overcast, winds 10kts\nAirborne Time: 0h48m\nMiles: 210\nRemarks: My first Air Berlin flight\n\n\nThanks for finding my video and pressing play! \n\nIn this trip, I take one of Air Berlin’s Q400 aircraft between Stuttgart and Dusseldorf. I’m in a preferred seat, which is at the front of economy and directly behind business class (which AB only introduced recently). \n\nWhile I don’t like Q400 aircraft, they’re hardy and basic and do the job just fine. This was a no-fuss flight with Air Berlin, who occupy a strange niche as a pseudo-low cost carrier.\n\nHappy Easter and see you next Sunday…\n\nMY MOST-WATCHED VIDEO - BRITISH AIRWAYS FIRST CLASS 787 REPORT: https://www.youtube.com/watch?v=4LRFyTtxlRg \n\nTRAINS, ANYONE? https://www.youtube.com/watch?v=_iSjr-5LbaA \n\n#paulstripreports #vlog #review #flying #travel #aviation #avgeek #stuttgart #str #dus #dusseldorf #airberlin\n\nMusic: Xad - Story\n\n***DON’T FORGET TO SUBSCRIBE!***",source:"youtube",source_id:"xrJaFq2O3oA",type:"Flight",stops:[],postdate:new Date(1492332907000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/paul-lucas/2017/trip-report-air-berlin-dash-8-q400-stuttgart-dusseldorf.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

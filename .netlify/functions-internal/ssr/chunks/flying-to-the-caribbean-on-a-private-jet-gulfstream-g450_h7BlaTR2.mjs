@@ -1,0 +1,10 @@
+const id = "jeb-brooks/2023/flying-to-the-caribbean-on-a-private-jet-gulfstream-g450";
+const collection = "trips";
+const data = {name:"Flying to the Caribbean on a PRIVATE JET (Gulfstream G450)",description:"Watch this video to see inside a Private Jet! We were invited by our friends to join them on a Gulfstream G450 flight from our home in Greensboro, NC to the Caribbean island of St. Maarten (SXM)!\n\nYou’ll see everything from the luxurious accommodations onboard to the catering, even the Gulfstream cockpit! We'll give you a Gulfstream private jet tour, highlighting the Gulfstream G450 interior!\n\nThis 1,600 mile trip lasted four hours thanks to a surprise change in our flight path, but we weren’t about to complain about more time onboard this “Better-Than-First-Class” Private Jet experience!\n\nThis private jet is one of the most luxurious in the sky. The Gulfstream G450 is capable of traveling up to 5,000 miles. In fact, our crew had recently flown from Washington Dulles Airport to Milan in Italy! Our four hours onboard this private jet were incredible!\n\n0:00 Introduction\n1:38 Boarding Gulfstream G450\n4:41 Breakfast onboard\n6:29 Landing at SXM Airport\n\nOur video about GSO Airport!\nhttps://www.youtube.com/watch?v=iAPHau4HyE0\n \nFor more trip reports, please subscribe to my channel!\nhttp://www.JebBrooksFlies.com\n \nCheck me out on Instagram:\nhttps://www.Instagram.com/JebBrooksFlies\n \nCheck me out on Twitter, too:\nhttps://twitter.com/jebbrooks\n \nAnd don't forget to take a look at my travel blog:\nhttps://greenergrass.com/\n \nMusic:\nYour Eyes - Tomas Skyldeberg\nThat Is What She Told Me - Tomas Skyldeberg\nFeel The Breeze - Tomas Skyldeberg\nCounting the Hours - Tomas Skyldeberg",source:"youtube",source_id:"fKexTTHHP5o",type:"Flight",stops:[],postdate:new Date(1679756434000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/jeb-brooks/2023/flying-to-the-caribbean-on-a-private-jet-gulfstream-g450.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

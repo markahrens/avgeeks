@@ -1,0 +1,10 @@
+const id = "alex-praglowski/2017/air-north-737-2x6a-combi-c-ganv-pushback-taxi-and-takeoff-from-calgary-airport";
+const collection = "trips";
+const data = {name:"Air North 737-2X6A Combi [C-GANV] Pushback, Taxi, and Takeoff from Calgary Airport ᴴᴰ",description:"What better way to commemorate the 50th anniversary of the 737's first flight than with a classic 737? Here we have Air North's sole 737-200 pushing back, taxiing, and taking off from Calgary International Airport on a special charter flight to Cranbrook. Sorry about all the wind noise, but I was on top of a 7 story parkade and it was exceptionally windy that day. ATC is included, hope you enjoy!\n\nThanks for watching!\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\n\nFLIGHT INFO\nAirline: Air North (ANT/4N)\nAircraft: Boeing 737-200 Combi (B732)\nAircraft Name: None\nLivery: Standard\nEngines: 2x Pratt & Whitney JT8D-17\nRegistration: C-GANV \nRoute: YXY-YDQ-YYC-YXC-YVR\nCallsign: Air North 518\nRunway used: 17R\nDate filmed: March 18, 2017\nLocal time: 1500\nFlightAware: http://flightaware.com/live/flight/ANT518\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nFlickr: https://www.flickr.com/photos/dude8472productions/\nTwitter: https://www.twitter.com/dude8472_YYC\nInstagram: https://www.instagram.com/dude8472productions\nChannel: https://www.youtube.com/dude8472productions\nOfficial Website: https://www.dude8472productions.com\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\n© dude8472productions 2017\n\nThis video is the property of dude8472productions and may not be used in any way without permission.",source:"youtube",source_id:"vwaxshzn6-I",type:"Flight",stops:[],postdate:new Date(1491799061000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/alex-praglowski/2017/air-north-737-2x6a-combi-c-ganv-pushback-taxi-and-takeoff-from-calgary-airport.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

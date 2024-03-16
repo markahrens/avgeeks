@@ -1,0 +1,10 @@
+const id = "alex-praglowski/2020/via-rail-canada-business-class-whats-it-like";
+const collection = "trips";
+const data = {name:"VIA RAIL CANADA Business Class - What's It Like?",description:"In early January this year, I needed to get from Toronto to London, Ontario, and there are a few options available. \n\nInstead of subjecting myself to another flight on a Dash 8-400, I decided to try out VIA Rail Canada's Business Class, for a whole lot less!\n\nSee what I thought of VIA Rail Canada's impressively inexpensive Business Class in this special rail trip report!\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nSOURCES\nUnion Station History:\nhttps://www.toronto.ca/services-payments/venues-facilities-bookings/booking-city-facilities/union-station/history-of-union-station/\n\nhttps://www.toronto.ca/services-payments/venues-facilities-bookings/booking-city-facilities/union-station/union-station-revitalization-milestones/\n\nVia Rail 2018 Annual Report:\nhttps://media.viarail.ca/sites/default/files/publications/2018_Annual_Report_EN_1.pdf\n\nVia Rail Locomotives:\nhttps://corpo.viarail.ca/en/projects-infrastructure/train-fleet/locomotives-p42dc\n\n-=-=-=-=-=-=-=-=-=-=-=- \n\nSOCIAL MEDIA\nInstagram: https://www.instagram.com/alexpraglowskiaviation\nTwitter: https://www.twitter.com/AlexPraglowski\nFacebook: https://www.facebook.com/AlexPAviation\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nOutro song: \"Take Flight\" by Nyhtian: https://www.youtube.com/watch?v=bCTTwQ_269c\n\n#TallPeopleOnTrains\n\n© Alex Praglowski Aviation 2020\n\nThis video is the property of Alex Praglowski Aviation and may not be used for any purpose without prior permission. Contact me at the email in the \"About\" section of my channel for usage.",source:"youtube",source_id:"rHwSD1k7xo8",type:"Flight",stops:[],postdate:new Date(1589583618000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/alex-praglowski/2020/via-rail-canada-business-class-whats-it-like.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

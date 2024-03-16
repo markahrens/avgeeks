@@ -4,7 +4,7 @@
  "source": "youtube",
  "source_id": "P4wg-WSyu1U",
  "type": "Flight",
- "company": "",
- "stops": [],
+ "company": "Aeroflot",
+ "stops": ["GUW","SVO"],
  "postdate": "2024-02-03T09:00:15Z"
 }

@@ -4,7 +4,7 @@
  "source": "youtube",
  "source_id": "w3K1bhc4KP4",
  "type": "Flight",
- "company": "",
- "stops": [],
+ "company": "ITA Airways",
+ "stops": ["LHR","FCO"],
  "postdate": "2024-01-11T16:47:25Z"
 }

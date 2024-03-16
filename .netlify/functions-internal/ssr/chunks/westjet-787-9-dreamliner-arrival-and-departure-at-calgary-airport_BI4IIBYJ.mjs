@@ -1,0 +1,10 @@
+const id = "alex-praglowski/2019/westjet-787-9-dreamliner-arrival-and-departure-at-calgary-airport";
+const collection = "trips";
+const data = {name:"WestJet 787-9 Dreamliner Arrival and Departure at Calgary Airport",description:"Skip to 2:59 for the funny ATC exchange!\n\nI've caught the delivery, flown on the first revenue flight, but haven't actually filmed a spotting perspective of WestJet's Dreamliner yet! Here's Tail 901, arriving from Toronto on runway 35R and taxiing out about two hours later, and departing 35L back to Toronto.\n\nThis also includes a pretty funny exchange between the ground controller and the pilots regarding legroom for a round trip to London! Because, hey, if there's nobody else on the frequency, why call customer service when you can talk to someone on the plane? ¯\\_(ツ)_/¯\n\nEnjoy these shots of WestJet's new Dreamliner, finally in some warmer weather.\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nSOCIAL MEDIA\nInstagram: https://www.instagram.com/ap.aviationphotography\nTwitter: https://www.twitter.com/AlexPYYC\nFacebook: https://www.facebook.com/AlexPAviation\n\nOFFICIAL WEBSITE: http://www.alexpraglowski.ca\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nFLIGHT INFORMATION\nAirline: WestJet (WJA/WS)\nAircraft: Boeing 787-9 Dreamliner (B789)\nFlight Number: WS655/WS670\nLivery: New (2018) \nEngines: 2x GEnx-1B\nRegistration: C-GUDH\nRoute: Toronto-Pearson (YYZ) - Calgary (YYC) - Toronto-Pearson (YYZ)\nCallsign: WESTJET 655/670 heavy\nRunway used: 35R/35L\nDate filmed: March 2019\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\n© Alex Praglowski Aviation 2019\n\nThis video is the property of Alex Praglowski Aviation and may not be used for any purpose without prior permission.\n\nMEDIA: Please contact me at the email in the \"About\" section of my channel for usage.",source:"youtube",source_id:"OgytucQAk80",type:"Flight",stops:[],postdate:new Date(1552226404000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/alex-praglowski/2019/westjet-787-9-dreamliner-arrival-and-departure-at-calgary-airport.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

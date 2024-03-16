@@ -1,0 +1,10 @@
+const id = "alex-praglowski/2017/air-canada-777-333er-c-fiur-spectacular-head-on-takeoff-from-calgary-airport";
+const collection = "trips";
+const data = {name:"Air Canada 777-333ER [C-FIUR] Spectacular Head On Takeoff from Calgary Airport ᴴᴰ",description:"This is by far one of my favorite shots of a 777-300ER at YYC! On October 24th, Calgary had some strong winds from the west once again, a very common occurrence during the winter, which led to YYC's crosswind runway being used for most arrivals and departures. As you may have seen in a previous video, an Atlas 747-400 also took 29 on arrival, and that wasn't the only special catch on 29 for me that day. Here we have the largest aircraft in Air Canada's fleet, the mighty Boeing 777-300ER taking off head on with a spectacular close up rotation on runway 29 for Frankfurt! ATC is included, hope you enjoy. \n\nThanks for watching!\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nFLIGHT INFO\nAirline: Air Canada (ACA/AC)\nAircraft: Boeing 777-300ER (B77W)\nAircraft Name: None\nLivery: Old (2005-2017)\nEngines: 2x GE90-115B\nRegistration: C-FIUR\nRoute: Calgary (YYC) - Frankfurt-Main (FRA)\nCallsign: Air Canada 844 heavy\nRunway used: 29\nDate filmed: October 24, 2017\nLocal time: 1800\nFlightAware: http://flightaware.com/live/flight/CFIUR\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nFlickr: https://www.flickr.com/photos/dude8472productions/\nTwitter: https://www.twitter.com/dude8472_YYC\nInstagram: https://www.instagram.com/dude8472productions\nChannel: https://www.youtube.com/dude8472productions\nOfficial Website: https://www.dude8472productions.com\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\n© dude8472productions 2017\n\nThis video is the property of dude8472productions and may not be used in any way without permission.",source:"youtube",source_id:"sisWl90OrpE",type:"Flight",stops:[],postdate:new Date(1509333598000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/alex-praglowski/2017/air-canada-777-333er-c-fiur-spectacular-head-on-takeoff-from-calgary-airport.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

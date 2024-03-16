@@ -1,0 +1,10 @@
+const id = "jeb-brooks/2019/flight-attendant-training-emergency-landing-evacuation-demos";
+const collection = "trips";
+const data = {name:"Flight Attendant Training + Emergency Landing Evacuation Demos",description:"Flight Attendants go through intense training for emergencies like Emergency Landing Evacuations. In this video, we'll take a look at some of that flight attendant training including what you should do as a passenger in the event of an Emergency Landing Evacuation.\n\nBecause I'm part of a dynamic group of Delta Air Lines Customers and Employees called \"Gretchen's Gazelles,\" I had the chance to make a donation to cancer research and get a peek behind the scenes at Delta Air Lines' Flight Attendant Training Program. \n\nDelta's Flight Attendant Training program lasts eight weeks, but I was only there for about one day. That means we only experienced the absolute most intense aspects of Flight Attendant Training.\n\nWe learned about how Flight Attendants Train to open every window and door exit on every aircraft in the fleet.\n\nWe learned about how Flight Attendants Train to evacuate aircraft both on the ground and in the water.\n\nIf you liked this video, please click the \"Thumbs Up\" button. I will donate $1 to Cancer Research for every like this video receives in the first two weeks it's live (up to $5k).\n\nFor more trip reports, please subscribe to my channel! \nhttp://jebbrooksflies.com \n\nCheck me out on Instagram: \nhttps://www.instagram.com/jebbrooksflies/ \n\nAnd don't forget to take a look at my travel blog: \nhttps://greenergrass.com/ \n\nMusic:\nAbsent Minded - Calm Shores\nIntense Thrill - Bonnie Grace\nMade to Survive - Robert Ruth",source:"youtube",source_id:"87hLOXutRS0",type:"Flight",stops:[],postdate:new Date(1563199424000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/jeb-brooks/2019/flight-attendant-training-emergency-landing-evacuation-demos.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

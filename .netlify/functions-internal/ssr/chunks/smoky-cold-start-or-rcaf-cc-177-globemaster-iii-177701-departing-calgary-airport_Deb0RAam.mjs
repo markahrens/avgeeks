@@ -1,0 +1,10 @@
+const id = "alex-praglowski/2018/smoky-cold-start-or-rcaf-cc-177-globemaster-iii-177701-departing-calgary-airport";
+const collection = "trips";
+const data = {name:"SMOKY COLD START | RCAF CC-177 Globemaster III [177701] Departing Calgary Airport",description:"Easily the most insane engine startup I've witnessed! This Royal Canadian Air Force CC-177 Globemaster III spent a very cold day here in Calgary on Friday, where it was -20 °C. \"CANFORCE 3609\" is seen here making impressive amounts of smoke from its four PW2040 engines on startup, taxiing, and making a quick liftoff from runway 35L! They started engine #1 first, then #2, then put #2 into reverse and seemingly restarted #1 before moving onto #3 and #4. Enjoy this special catch, with ATC included!\n\nThanks for watching!\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nFLIGHT INFO\nAirline: Canadian Forces (CFC)\nAircraft: McDonnell-Douglas C-17A (Canadian designation CC-177)\nLivery: Standard CF Grey\nEngines: 4x PW F117-PW-100\nRegistration: 177701\nRoute: Calgary (YYC) - Canadian Forces Base Trenton (YTR)\nCallsign: CANFORCE 3609\nRunway used: 35L\nDate filmed: February 9, 2017\nLocal time: 1500\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nOfficial Website: http://www.alexpraglowski.ca\nChannel: https://www.youtube.com/dude8472productions\nFacebook: https://www.facebook.com/AlexPAviation\nInstagram: https://www.instagram.com/ap.aviationphotography\nTwitter: https://www.twitter.com/AlexPYYC\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\n© Alex Praglowski Aviation 2018\n\nThis video is the property of Alex Praglowski Aviation and may not be used for any purpose without prior permission. \n\nMEDIA: Please contact me at the email in the \"About\" section of my channel.",source:"youtube",source_id:"NLF8udy1fSY",type:"Flight",stops:[],postdate:new Date(1518395095000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/alex-praglowski/2018/smoky-cold-start-or-rcaf-cc-177-globemaster-iii-177701-departing-calgary-airport.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

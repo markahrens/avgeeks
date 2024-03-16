@@ -1,0 +1,10 @@
+const id = "alex-praglowski/2018/diversion-capital-airlines-a330-343-b-8678-taxi-and-takeoff-from-calgary-airport";
+const collection = "trips";
+const data = {name:"DIVERSION! Capital Airlines A330-343 [B-8678] Taxi and Takeoff from Calgary Airport",description:"Today, Capital Airlines flight 471 from Qingdao to Vancouver diverted to Calgary due to fog! Capital Airlines is a fairly new airline in North America, starting service to Vancouver at the end of 2016, which is currently its only North American destination. They serve Vancouver from Qingdao, China, with a tag-on to Hangzhou. In this case, they flew to Vancouver, did a loop, then headed right to Calgary, as they don't have CAT II/III certification in Canada apparently. Enjoy this rare diversion departing a very snowy Calgary!\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nFLIGHT INFO\nAirline: Beijing Capital Airlines (CBJ/JD)\nAircraft: Airbus A330-300 (A333)\nAircraft Name: None\nLivery: Standard\nEngines: 2x RR Trent 772B-60 \nRegistration: B-8678\nRoute: Qingdao (TAO) - Calgary (YYC) - Vancouver (YVR)\nCallsign: Capital Jet 471 heavy\nRunway used: 35R\nDate filmed: January 14, 2018\nLocal time: 1400\nFlightAware: http://flightaware.com/live/flight/B8678\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nOfficial Website: http://www.alexpraglowski.ca\nChannel: https://www.youtube.com/dude8472productions\nFacebook: https://www.facebook.com/AlexPAviation\nInstagram: https://www.instagram.com/ap.aviationphotography\nTwitter: https://www.twitter.com/AlexPYYC\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\n© Alex Praglowski Aviation 2018\n\nThis video is the property of Alex Praglowski Aviation and may not be used for any purpose without prior permission. \n\nMEDIA: Please contact me at the email in the \"About\" section of my channel.",source:"youtube",source_id:"ee9-USjYlGU",type:"Flight",stops:[],postdate:new Date(1515979116000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/alex-praglowski/2018/diversion-capital-airlines-a330-343-b-8678-taxi-and-takeoff-from-calgary-airport.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

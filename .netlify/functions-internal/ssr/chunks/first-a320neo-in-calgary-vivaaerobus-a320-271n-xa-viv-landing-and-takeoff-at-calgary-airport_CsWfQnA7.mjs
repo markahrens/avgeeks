@@ -1,0 +1,10 @@
+const id = "alex-praglowski/2018/first-a320neo-in-calgary-vivaaerobus-a320-271n-xa-viv-landing-and-takeoff-at-calgary-airport";
+const collection = "trips";
+const data = {name:"First A320neo in Calgary! VivaAerobús A320-271N [XA-VIV] Landing and Takeoff at Calgary Airport",description:"When VivaAerobus started service here back in December, I was hopeful that they'd send an A320neo eventually. The chance seemed pretty low, given that they have around 20 A320ceos and only 2 neos, but here it is! The 737MAX is already here at least 2-3 times a day from both WestJet and AC, so the neo was a great surprise! Hope you enjoy what is also my first ever catch of a A320neo!\n\nThanks for watching!\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nFLIGHT INFO\nAirline: VivaAerobus (VIV/VB)\nAircraft: Airbus A320neo (A20N)\nAircraft Name: None\nLivery: Standard\nEngines: 2x Pratt and Whitney PW1127G \nRegistration: XA-VIV\nRoute: San Jose Del Cabo (SJD) - Calgary (YYC) - San Jose Del Cabo (SJD)\nCallsign: Aeroenlaces/Viva 7950/7951\nRunway used: 35R\nDate filmed: January 13, 2018\nLocal time: 1300/1400\nFlightAware: http://flightaware.com/live/flight/XAVIV\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nOfficial Website: http://www.alexpraglowski.ca\nChannel: https://www.youtube.com/dude8472productions\nFacebook: https://www.facebook.com/AlexPAviation\nInstagram: https://www.instagram.com/ap.aviationphotography\nTwitter: https://www.twitter.com/AlexPYYC\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\n© Alex Praglowski Aviation 2018\n\nThis video is the property of Alex Praglowski Aviation and may not be used for any purpose without prior permission. \n\nMEDIA: Please contact me at the email in the \"About\" section of my channel.",source:"youtube",source_id:"VtMbLMnl7FI",type:"Flight",stops:[],postdate:new Date(1515895534000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/alex-praglowski/2018/first-a320neo-in-calgary-vivaaerobus-a320-271n-xa-viv-landing-and-takeoff-at-calgary-airport.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

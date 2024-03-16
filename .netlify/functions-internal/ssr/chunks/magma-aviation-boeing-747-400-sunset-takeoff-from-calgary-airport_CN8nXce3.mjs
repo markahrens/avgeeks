@@ -1,0 +1,10 @@
+const id = "alex-praglowski/2019/magma-aviation-boeing-747-400-sunset-takeoff-from-calgary-airport";
+const collection = "trips";
+const data = {name:"Magma Aviation Boeing 747-400 Sunset Takeoff from Calgary Airport",description:"Every summer, Calgary receives a few specially chartered aircraft for Spruce Meadows, an equestrian facility located south of the city that hosts multiple horse jumping events throughout the warmer months of the year.\n\nMagma Aviation (operated by Air Atlanta Icelandic) is a new one for us though, they flew in late on Sunday night with this eye-catching orange and white 747-400 freighter, leaving the following day at sunset with a full load of horses bound for Liege, Belgium. Always nice to have these special 747s in town, and great to see another 747 livery!\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nSOCIAL MEDIA\nInstagram: https://www.instagram.com/ap.aviationphotography\nTwitter: https://www.twitter.com/AlexPYYC\nFacebook: https://www.facebook.com/AlexPAviation\n\nOFFICIAL WEBSITE: http://www.alexpraglowski.ca\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nFLIGHT INFORMATION\nAirline: Air Atlanta Icelandic (ABD/CC)\nAircraft: Boeing 747-4F6/BCF (B744)\nFlight Number: CC361\nLivery: Magma Aviation \nEngines: 4x GE CF6-80C2B1F \nRegistration: TF-AMN\nRoute: Calgary (YYC) - Liege (LGG)\nCallsign: Alpha Bravo Delta 361 heavy\nRunway used: 17R\nDate filmed: July 8, 2019\nLocal time: 2000\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\n© Alex Praglowski Aviation 2019\n\nThis video is the property of Alex Praglowski Aviation and may not be used for any purpose without prior permission.\n\nMEDIA: Please contact me at the email in the \"About\" section of my channel for usage.",source:"youtube",source_id:"AIbGlhH730s",type:"Flight",stops:[],postdate:new Date(1562799600000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/alex-praglowski/2019/magma-aviation-boeing-747-400-sunset-takeoff-from-calgary-airport.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

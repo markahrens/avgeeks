@@ -1,0 +1,10 @@
+const id = "alex-praglowski/2015/united-airlines-continental-retrojet-737-924er-n75436-takeoff-from-calgary-airport";
+const collection = "trips";
+const data = {name:"United Airlines (Continental Retrojet) 737-924ER [N75436] Takeoff from Calgary Airport ᴴᴰ",description:"Hey everybody, here's a quick video from me today, a United 737-900ER painted in a retro Continental livery taking off from Calgary Airport on runway 17L. ATC is included. Now, I know this isn't my best video. It was quite windy and I was just generally filming poorly that day. I still wanted to upload this though, seeing as it is a pretty rare aircraft here. Anyway, I hope you'll enjoy somewhat.\n\nThanks for watching! Please comment, rate, and subscribe!\n____________________________________________________\n\nFLIGHT INFO\nAirline: United Airlines (UAL/UA)\nAircraft: Boeing 737-900ER (B739)\nAircraft Name: None\nLivery: \"75th Anniversary Blue Skyway\"\nEngines: 2x CFMI CFM56-7B26 \nRegistration: N75436\nRoute: YYC-IAH\nCallsign: United 1532\nRunway used: 17L\nLocal Time: 1750\nFlightAware: http://flightaware.com/live/flight/N75436\n____________________________________________________\n\nPrevious video: https://www.youtube.com/watch?v=yNRIWEJsDG0\nFacebook: http://www.facebook.com/dude8472productions\nMy Channel: http://www.youtube.com/dude8472productions\nGoogle Plus: http://www.google.com/+dude8472productions\nSubscribe: http://www.youtube.com/subscription_center?add_user=dude8472productions\nMy Website: http://www.dude8472productions.com\n____________________________________________________\n\n© dude8472productions 2015\n\nThis video is the property of dude8472productions and may not be used in any way without permission.",source:"youtube",source_id:"6yNsoJFFb6k",type:"Flight",stops:[],postdate:new Date(1430747796000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/alex-praglowski/2015/united-airlines-continental-retrojet-737-924er-n75436-takeoff-from-calgary-airport.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

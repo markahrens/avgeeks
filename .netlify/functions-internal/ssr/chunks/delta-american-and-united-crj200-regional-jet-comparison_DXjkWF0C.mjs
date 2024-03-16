@@ -1,0 +1,10 @@
+const id = "jeb-brooks/2018/delta-american-and-united-crj200-regional-jet-comparison";
+const collection = "trips";
+const data = {name:"Delta, American, and United CRJ200 Regional Jet Comparison",description:"As a frequent flyer, there’s one question I’ve struggled with when it comes to regional flying: Who has the worst CRJ200? \n\nIs it Delta Air Lines, American Airlines, or United Airlines? Each of these airlines rely on CRJ200s Regional Jets to make short, thin routes profitable. And, on that account, the CRJ200 Regional Jet seems to work. By virtually any other measure, though, the CRJ200 is terrible, making Delta, American, and United experiences less pleasant. \n\nDelta Air Lines, American Airlines, and United Airlines all operate CRJ200 Regional Jet aircraft through their regional partners (Delta Connection, American Eagle, and United Express). \n\nOver the last couple of months, I’ve traveled onboard CRJ200s belonging to each airline. Spoiler Alert: It was TERRIBLE! In this video, I’ll share my experiences on each airline so that you can decide which one you think is the worst.\n\nWas it the:\n\nDelta CRJ200\nAmerican CRJ200\nUnited CRJ200 (United CL65)\n\nI’ve also included some interesting facts about the history and current status of the CRJ200.\n\nBe sure to leave a comment to let me know which one you think is the worst!\n\nFor more trip reports, please subscribe to my channel! \nhttps://www.youtube.com/jebbrooksflies \n\nCheck me out on Instagram: \nhttps://www.instagram.com/jebbrooksflies/ \n\nAnd don't forget to take a look at my travel blog: \nhttps://greenergrass.com/\n\nMusic:\nKnocking – Cushy\nObey – Cushy\nSpaceships – Cushy",source:"youtube",source_id:"rEv8O6gM9Wc",type:"Flight",stops:[],postdate:new Date(1533891766000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/jeb-brooks/2018/delta-american-and-united-crj200-regional-jet-comparison.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

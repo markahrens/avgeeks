@@ -1,0 +1,10 @@
+const id = "alex-praglowski/2017/final-seasonal-flight-or-edelweiss-air-a340-313-hb-jmg-landing-and-takeoff-at-calgary-airport";
+const collection = "trips";
+const data = {name:"Final Seasonal Flight | Edelweiss Air A340-313 [HB-JMG] Landing and Takeoff at Calgary Airport ᴴᴰ",description:"See you next year Edelweiss! We YYC spotters have thoroughly enjoyed our first scheduled A340 service in years this summer. Here we have the final flight of the year for Edelweiss arriving and departing Calgary International Airport, operated by HB-JMG, the only A340 in their fleet that's ever come here during the whole season. ATC is included, hope you enjoy this beautiful quadjet. I filmed Edelweiss countless more times over the summer, so stay tuned for those videos while the slower winter season begins.\n\nThanks for watching!\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nFLIGHT INFO \nAirline: Edelweiss Air (EDW/WK) \nAircraft: Airbus A340-300 (A343) \nAircraft Name: \"Melchsee-Frutt\" \nLivery: Standard \nEngines: 4x CFMI CFM56-5C4/P \nRegistration: HB-JMG \nRoute: Zurich (ZRH) - Calgary (YYC) - Zurich (ZRH) \nCallsign: Edelweiss One Four Sierra / One Five Juliet Heavy \nRunway used: 17L, 17R \nDate filmed: September 17, 2017 \nLocal time: 1600, 1730 \nFlightAware: http://flightaware.com/live/flight/HBJMG\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nFlickr: https://www.flickr.com/photos/dude8472productions/\nTwitter: https://www.twitter.com/dude8472_YYC\nInstagram: https://www.instagram.com/dude8472productions\nChannel: https://www.youtube.com/dude8472productions\nOfficial Website: https://www.dude8472productions.com\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\n© dude8472productions 2017\n\nThis video is the property of dude8472productions and may not be used in any way without permission.",source:"youtube",source_id:"dvCO1Zd_tLE",type:"Flight",stops:[],postdate:new Date(1505799459000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/alex-praglowski/2017/final-seasonal-flight-or-edelweiss-air-a340-313-hb-jmg-landing-and-takeoff-at-calgary-airport.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

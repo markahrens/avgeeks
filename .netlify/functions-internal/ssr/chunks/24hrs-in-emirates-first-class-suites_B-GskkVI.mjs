@@ -1,0 +1,10 @@
+const id = "trek-trendy/2023/24hrs-in-emirates-first-class-suites";
+const collection = "trips";
+const data = {name:"24hrs in Emirates First Class Suites",description:"Shrink the Noise with soundcore Liberty 4 NC. Enjoy $20 off! Get Prime Day savings early. \n🛒 Amazon: https://soundcore.tech/3947XUBq 🛒 soundcore: https://soundcore.tech/3947yzi5\n*For UK/DE: Use \"LIBERTY4NCUK\"/\"LIBERTY4NCDE\" for a discount.\n\nToday I'm flying across the world on Emirates First Class for 24 hours. I'll be trying out Emirates A380 First Class Suites which include an onboard lounge, shower and luxury private suite. Connecting in Dubai i'll get onboard our next flight, for 3,000 miles all the way to Belgium. This flight will be on Emirates Boeing 777 Gamechanger, regarded by many as the world's best First Class. It's the only First Class which provides floor to ceiling privacy. \n\nAs always I'll walk you through the entire experience from the food, to the pyjamas! Plus i'll explain how I booked this for a fraction of the retail cost. \n\n0:00 - Intro\n1:33 - A380 Suite\n7:30 - Dubai\n11:26 - Gamechanger Suite\n19:18 - Cost",source:"youtube",source_id:"ym97AkuKMbs",type:"Flight",stops:[],postdate:new Date(1688320821000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/trek-trendy/2023/24hrs-in-emirates-first-class-suites.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

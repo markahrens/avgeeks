@@ -1,0 +1,10 @@
+const id = "jeb-brooks/2020/greensboro-airport-piedmont-triad-international-gso";
+const collection = "trips";
+const data = {name:"Greensboro Airport - Piedmont Triad International - GSO",description:"In this video, let's explore my home airport. As the unofficial YouTuber of Piedmont Triad International Airport (GSO), I consider myself qualified to take you on a tour of the facility. \n\nGreensboro is part of the Piedmont Triad which includes the cities of Greensboro, Winston-Salem, and High Point. \n\nOur airport’s code is GSO, but it’s called PTI or Piedmont Triad International Airport to reflect its central location in between these three cities. A lot of people just call it the Greensboro Airport. It’s admittedly confusing and even inspired an attempted name change a few years back that didn’t take. It was to be called North Carolina Central International Airport. Turned out that was even more confusing, so it’s still GSO a/k/a PTI. \n\nWould you believe more than 6,000 people work on the campus! There's a lot more to Piedmont Triad International Airport - and pretty much any airport - than ticket counters, gates, and jetbridges. Airports are micro-communities with all kinds of interesting things going on.\n\nThis video explores a bit of what's going on at Piedmont Triad International.\n\nHere’s a link to the unedited take-off and landing footage:\nhttps://youtu.be/yl5HxkbOwcU\n\nMore about HAECO:\nhttps://www.youtube.com/watch?v=EjMD0xcY8Zc&t=6s\n\nFor more trip reports, please subscribe to my channel! \nhttp://www.JebBrooksFlies.com \n\nCheck me out on Instagram: \nhttps://www.instagram.com/jebbrooksflies \n\nAnd don't forget to take a look at my travel blog: \nhttps://greenergrass.com/ \n\nMusic: \nJakarta - Bonsaye\nFrom the Cliffside - Tape Machines",source:"youtube",source_id:"iAPHau4HyE0",type:"Flight",stops:[],postdate:new Date(1592658018000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/jeb-brooks/2020/greensboro-airport-piedmont-triad-international-gso.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

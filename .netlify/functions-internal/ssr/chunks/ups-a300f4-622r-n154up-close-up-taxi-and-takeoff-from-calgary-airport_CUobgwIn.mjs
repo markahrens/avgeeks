@@ -1,0 +1,10 @@
+const id = "alex-praglowski/2015/ups-a300f4-622r-n154up-close-up-taxi-and-takeoff-from-calgary-airport";
+const collection = "trips";
+const data = {name:"UPS A300F4-622R [N154UP] Close Up Taxi and Takeoff from Calgary Airport ᴴᴰ",description:"Follow me on Flickr: https://www.flickr.com/photos/dude8472productions/\n\nNice to see this classic bird (which isn't actually so classic; it was built in 2003) in Calgary. Our usual service from UPS is typically flown with a 767, though the A300 does come on weekends. Wasn't expecting to have one taxi close up while waiting for a National Airlines 747 (video below). Anyway, hope you enjoy!\n\nThanks for watching! Please comment, rate, and subscribe!\n____________________________________________________\n\nFLIGHT INFO\nAirline: United Parcel Service (UPS/5X)\nAircraft: Airbus A300F4-600R\nAircraft Name: None\nLivery: Revised\nEngines: 2x Pratt and Whitney PW4158 \nRegistration: N154UP\nRoute: YYC-SDF\nCallsign: UPS 491\nRunway used: 35R\nLocal Time: 1800\nFlightAware: http://flightaware.com/live/flight/N154UP\n____________________________________________________\n\nPrevious video: https://www.youtube.com/watch?v=LFuyOGPbSiQ\nThe 747 I was waiting for: https://www.youtube.com/watch?v=Y7hcwTmC1TU\nFlickr: https://www.flickr.com/photos/dude8472productions/\nTwitter: https://www.twitter.com/dude8472_YYC\nChannel: https://www.youtube.com/dude8472productions\nGoogle Plus: https://www.google.com/+dude8472productions\nSubscribe: https://www.youtube.com/subscription_center?add_user=dude8472productions\nOfficial Website: https://www.dude8472productions.com\n____________________________________________________\n\n© dude8472productions 2015\n\nThis video is the property of dude8472productions and may not be used in any way without permission.",source:"youtube",source_id:"6qzN_6itr08",type:"Flight",stops:[],postdate:new Date(1448589347000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/alex-praglowski/2015/ups-a300f4-622r-n154up-close-up-taxi-and-takeoff-from-calgary-airport.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

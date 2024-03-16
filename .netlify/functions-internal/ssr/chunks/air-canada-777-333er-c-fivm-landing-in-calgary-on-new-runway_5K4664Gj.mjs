@@ -1,0 +1,10 @@
+const id = "alex-praglowski/2014/air-canada-777-333er-c-fivm-landing-in-calgary-on-new-runway";
+const collection = "trips";
+const data = {name:"Air Canada 777-333ER [C-FIVM] Landing in Calgary on New Runway ᴴᴰ",description:"The first Boeing 777 to land on Calgary International Airport's newest runway! Here is my final video that I took from the temporary spot that the Calgary Airport Authority made for spotters to get the first takeoffs and landings on the new runway. Just such an awesome view! Hope you enjoy, and sorry for all the shakiness and wind noise :/\n\nI've also updated my YYC spotting guide with 2 locations for the new runway, link is below.\n\nThanks for watching! Please comment, rate, and subscribe!\n____________________________________________________\n\nFLIGHT INFO\nAirline: Air Canada (ACA/AC)\nAircraft: Boeing 777-300ER (B77W)\nRegistration: C-FIVM\nRoute: LHR-YYC\nCallsign: Air Canada 851 Heavy\nRunway used: 35R\nFlightAware: http://flightaware.com/live/flight/CFIVM\n____________________________________________________\n\nPrevious video: https://www.youtube.com/watch?v=PgrneTdiynQ\nMy Channel: http://www.youtube.com/dude8472productions\nFollow me on Facebook: https://www.facebook.com/dude8472productions\nSubscribe: http://www.youtube.com/subscription_center?add_user=dude8472productions\nMy Website: http://www.planespottinginternational.com\nYYC Spotting Guide: http://www.planespottinginternational.com/CYYC_Spotting_Guide.html\n____________________________________________________\n\n© dude8472productions 2014\n\nThis video is the property of dude8472productions and may not be used in any way without permission.",source:"youtube",source_id:"WtfvtgV2UuA",type:"Flight",stops:[],postdate:new Date(1405011512000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/alex-praglowski/2014/air-canada-777-333er-c-fivm-landing-in-calgary-on-new-runway.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

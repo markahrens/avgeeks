@@ -1,0 +1,10 @@
+const id = "alex-praglowski/2017/royal-air-force-airbus-a400m-atlas-zm404-landing-at-calgary-airport";
+const collection = "trips";
+const data = {name:"Royal Air Force Airbus A400M Atlas [ZM404] Landing at Calgary Airport ᴴᴰ",description:"The Royal Air Force operates dozens of troop and cargo flights into Calgary International Airport throughout the year, as they do a multitude of military exercises at CFB Suffield, a Canadian Forces Base south of Calgary. Here's the first visitor of the year, and my first time filming an Airbus A400M! ZM404 is the Royal Air Force's 5th A400M, delivered in February of 2016. Certainly a unique plane, and one that I'm happy to finally see flying instead of parked. ATC is included, enjoy!\n\nThanks for watching!\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nFLIGHT INFO\nAirline: Royal Air Force (RRR/RR)\nAircraft: Airbus A400M Atlas (A4M)\nAircraft Name: None\nLivery: Standard RAF Grey\nEngines: 4x Europrop TP400-D6\nRegistration: ZM404\nRoute: BZZ-YYC\nCallsign: Ascot 4508 heavy\nRunway used: 17L\nDate filmed: March 13, 2017\nLocal time: 1515\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nFlickr: https://www.flickr.com/photos/dude8472productions/\nTwitter: https://www.twitter.com/dude8472_YYC\nInstagram: https://www.instagram.com/dude8472productions\nChannel: https://www.youtube.com/dude8472productions\nOfficial Website: https://www.dude8472productions.com\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\n© dude8472productions 2017\n\nThis video is the property of dude8472productions and may not be used in any way without permission.",source:"youtube",source_id:"xh85q-hDqRc",type:"Flight",stops:[],postdate:new Date(1489453666000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/alex-praglowski/2017/royal-air-force-airbus-a400m-atlas-zm404-landing-at-calgary-airport.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

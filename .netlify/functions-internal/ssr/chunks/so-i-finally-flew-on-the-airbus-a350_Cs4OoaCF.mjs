@@ -1,0 +1,10 @@
+const id = "alex-praglowski/2022/so-i-finally-flew-on-the-airbus-a350";
+const collection = "trips";
+const data = {name:"So I Finally Flew on the Airbus A350...",description:"The newest addition to Calgary's airline lineup is German carrier Eurowings Discover, which is Lufthansa's vacation airline. \n\nThey started seasonal flights to Calgary in August, supplementing Air Canada’s existing flight to Frankfurt, and will stop service for the season at the end of October.\n\nI knew this is one flight I wanted to try while it was still around, but, there’s a bit of a catch.\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nBecome a Channel Member:\nhttps://www.youtube.com/channel/UCN1SQ1Ffsm_13OQu7MwHXbA/join\n\nWebsite: https://www.alexpraglowski.ca\nInstagram: https://www.instagram.com/alexpraglowskiaviation\nTwitter: https://www.twitter.com/AlexPraglowski\nFacebook: https://www.facebook.com/AlexPAviation\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nFLIGHT INFORMATION\nAirline: Eurowings Discover (operated by Finnair) (OCN/4Y)\nAircraft: Airbus A350-900 (A359)\nFlight Number: 4Y73\nSeat: 7L (Business Class)\nLivery: Standard Finnair\nEngines: 2x RR Trent XWB-84\nRegistration: OH-LWG\nRoute: Calgary (YYC) - Frankfurt (FRA)\nCallsign: OCEAN 7A heavy\nRunway used: 17L (YYC) - 25R (FRA)\nDate filmed: September 2022\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nOutro song - \"Take Flight\" by Nyhtian: https://youtu.be/bCTTwQ_269c\n\n© Alex Praglowski Aviation 2022\n\nThis video is the property of Alex Praglowski Aviation and may not be used for any purpose without prior permission. Contact me at the email in the \"About\" section of my channel for usage.",source:"youtube",source_id:"DujdvcHBg8E",type:"Flight",stops:[],postdate:new Date(1662904807000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/alex-praglowski/2022/so-i-finally-flew-on-the-airbus-a350.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

@@ -1,0 +1,10 @@
+const id = "alex-praglowski/2018/vivaaerobus-airbus-a320-200-landing-and-takeoff-at-calgary-airport";
+const collection = "trips";
+const data = {name:"VivaAerobús Airbus A320-200 Landing and Takeoff at Calgary Airport",description:"VivaAerobús started their seasonal service to Calgary back in December, operating as a charter service for Sunwing Vacations, with once a week service from San Jose Del Cabo to Calgary and back. With the winter season winding down, they're stopping their service, and hopefully we'll see them back again next winter! Here we have their final flight this season, operated by an A320ceo, XA-VAO, landing runway 35R and taxiing up close, and later departing 35R again back to Mexico. ATC is included, hope you enjoy!\n\nThanks for watching!\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nFLIGHT INFORMATION\nAirline: VivaAerobús (VIV/VB)\nAircraft: Airbus A320-232(SL) (A320)\nFlight Number: VB7950/VB7951\nAircraft Name: None\nLivery: Standard\nEngines: 2x IAE V2527-A5 \nRegistration: XA-VAO\nRoute: San Jose Del Cabo (SJD) - Calgary (YYC) - San Jose Del Cabo (SJD)\nCallsign: VIVA/AEROENLACES 7950/7951\nRunway used: 35R\nDate filmed: April 14, 2018\nLocal time: 1300\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nOfficial Website: https://www.dude8472productions.com\nChannel: https://www.youtube.com/dude8472productions\nFacebook: https://www.facebook.com/dude8472productionsYT\nInstagram: https://www.instagram.com/dude8472productions\nTwitter: https://www.twitter.com/dude8472_YYC\nFlickr: https://www.flickr.com/photos/dude8472productions/\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\n© dude8472productions 2018\n\nThis video is the property of dude8472productions and may not be used for any purpose without prior permission. \n\nMEDIA: Please contact me at the email in the \"About\" section of my channel.",source:"youtube",source_id:"MQ7tzyDtbKw",type:"Flight",stops:[],postdate:new Date(1523824739000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/alex-praglowski/2018/vivaaerobus-airbus-a320-200-landing-and-takeoff-at-calgary-airport.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

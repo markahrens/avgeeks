@@ -1,0 +1,10 @@
+const id = "alex-praglowski/2022/first-a330neo-in-calgary-hifly-airbus-a330-900-landing-and-takeoff";
+const collection = "trips";
+const data = {name:"FIRST A330NEO IN CALGARY! HiFly Airbus A330-900 Landing and Takeoff",description:"A few days ago, Calgary got its first ever visit from an Airbus A330neo! This HiFly A330-900 paid us a visit with some more Afghan refugees on board, and stayed a night before departing back to Europe.\n\nFor those on board - welcome to Canada!\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nThank you to RadarBox for supporting this plane spotting video! Find out more about them at https://www.radarbox.com/?referrer=AlexAviation\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nBecome a Channel Member:\nhttps://www.youtube.com/channel/UCN1SQ1Ffsm_13OQu7MwHXbA/join\n\nWebsite: https://www.alexpraglowski.ca\nInstagram: https://www.instagram.com/alexpraglowskiaviation\nTwitter: https://www.twitter.com/AlexPraglowski\nFacebook: https://www.facebook.com/AlexPAviation\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nFLIGHT INFORMATION\nAirline: HiFly (9H/HFY)\nAircraft: Airbus A330-941neo (A339)\nFlight Number: 9H261/9H262P\nLivery: Standard\nEngines: 2x RR Trent 7000-72\nRegistration: CS-TKY\nRoute: Islamabad (ISB) - Tallinn (TLL) - Calgary (YYC) - Amsterdam (AMS)\nCallsign: SKY FLYER 261 / 262 PAPA Heavy\nRunway used: 17L / 35R\nDate filmed: January 2022\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nOutro song - \"Take Flight\" by Nyhtian: https://youtu.be/bCTTwQ_269c\n\n© Alex Praglowski Aviation 2022\n\nThis video is the property of Alex Praglowski Aviation and may not be used for any purpose without prior permission. Contact me at the email in the \"About\" section of my channel for usage.",source:"youtube",source_id:"zyQA6sXBDOc",type:"Flight",stops:[],postdate:new Date(1642345227000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/alex-praglowski/2022/first-a330neo-in-calgary-hifly-airbus-a330-900-landing-and-takeoff.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

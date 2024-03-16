@@ -1,0 +1,10 @@
+const id = "alex-praglowski/2021/canadian-north-retiring-737-200s";
+const collection = "trips";
+const data = {name:"Canadian North Retiring 737-200s",description:"Last week, Canadian North announced in an article published by Nunatsiaq News that they would unfortunately be retiring their Boeing 737-200s.\n\nThese are the last 737-200s to be based in Western Canada, and are the only ones I've had the privilege of flying on. They'll be missed!\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nBecome a Channel Member:\nhttps://www.youtube.com/channel/UCN1SQ1Ffsm_13OQu7MwHXbA/join\n\nWebsite: https://www.alexpraglowski.ca\nInstagram: https://www.instagram.com/alexpraglowskiaviation\nTwitter: https://www.twitter.com/AlexPraglowski\nFacebook: https://www.facebook.com/AlexPAviation\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nSOURCES:\n\nCanadian North Retiring 737-200s:\nhttps://nunatsiaq.com/stories/article/canadian-north-to-phase-out-jet-service-to-western-nunavut-hubs/\n\nC-GOPW History:\nhttps://www.planespotters.net/airframe/boeing-737-200-c-gopw-canadian-north/r6pq8m\n\nC-GDPA History:\nhttps://www.planespotters.net/airframe/boeing-737-200-c-gdpa-canadian-north/edz1l9\n\nFirst Air Hercules:\nhttps://www.routesonline.com/news/29/breaking-news/248470/first-air-and-lynden-air-cargo-cooperate-to-keep-hercules-flying-in-canada/\n\nNolinor Fleet Info:\nhttps://nolinor.com/en/aeronefs/boeing-737-200/\n\nhttps://wwwapps.tc.gc.ca/Saf-Sec-Sur/2/CCARCS-RIACC/RchSimp.aspx\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nOutro song - \"Take Flight\" by Nyhtian: https://youtu.be/bCTTwQ_269c\n\n© Alex Praglowski Aviation 2021\n\nThis video is the property of Alex Praglowski Aviation and may not be used for any purpose without prior permission. Contact me at the email in the \"About\" section of my channel for usage.",source:"youtube",source_id:"UYOC9WBZCf0",type:"Flight",stops:[],postdate:new Date(1619964008000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/alex-praglowski/2021/canadian-north-retiring-737-200s.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

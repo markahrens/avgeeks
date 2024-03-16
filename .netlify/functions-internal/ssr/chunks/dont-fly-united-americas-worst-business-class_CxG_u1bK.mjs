@@ -1,0 +1,10 @@
+const id = "trek-trendy/2021/dont-fly-united-americas-worst-business-class";
+const collection = "trips";
+const data = {name:"DON’T fly UNITED: America’s WORST Business Class",description:"Don’t fly United Airlines…. Business Class! That’s a strong statement I know but let me explain. \n\nI’ve flown all of the full service US airlines over the last few weeks to compare their product offering side by side. It’s been a real mixed bag from an incredible flight on JetBlue Mint to a real let down on Delta’s new suites as well as this United experience. \n\nI’m going to take you guys along with me today to share what my experience of flying with United was like and why I can’t recommend paying the premium for their business class. \n\nUnited offer a plethora of different products from their brand new Boeing 787-10 plane complete with Polaris product, to their currently grounded 777-300s which feature perhaps the world's worst business class product at a 2-4-2 configuration ( jokingly referred to as the Business Class dorm). \n\nAs usual I'll take you on the full journey, from check in, security, the lounge as well as a fully comprehensive tour of the Business Class cabin. Interestingly they also call this First Class... but that's an entirely different story. I'll explain my rational as to why I feel United is not worth on some of their routes, due to their variety of product offering, overall service and what's offered by the competition. \n\nFollow my travels live on IG: will.luxurytravel \n\nIS THIS REALLY AMERICA'S BEST BUSINESS CLASS? United Polaris Business Class\nUnited Polaris 767 Review - London to New York (EWR)\nUnited Airlines Business Class Review 767 to JFK\n13 Hours in United's POLARIS BUSINESS CLASS (flying standby)",source:"youtube",source_id:"xedG6T8AX_E",type:"Flight",stops:[],postdate:new Date(1621280701000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/trek-trendy/2021/dont-fly-united-americas-worst-business-class.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

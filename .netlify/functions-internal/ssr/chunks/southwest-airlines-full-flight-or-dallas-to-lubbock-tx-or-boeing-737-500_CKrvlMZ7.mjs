@@ -1,0 +1,10 @@
+const id = "noel-philips/2017/southwest-airlines-full-flight-or-dallas-to-lubbock-tx-or-boeing-737-500";
+const collection = "trips";
+const data = {name:"Southwest Airlines Full Flight | Dallas to Lubbock, TX | Boeing 737-500",description:"A full length, full flight video from Dallas Love Field to Lubbock, TX with Southwest Airlines onboard Boeing 737-500 N520SW operating flight WN22 on August 14 2016.\n\nThis full flight video kindly submitted by CessnaN64107 - check out his awesome channel at https://www.youtube.com/channel/UCmWKnbmkFq8TZyxJbFj28GA :)\n\nIf you would like to share your own full flight videos on inflight Video then please send me a message!\n\n**Every moment of the flight included from gate to gate**\n\nPLEASE SUBSCRIBE FOR WEEKLY FULL FLIGHTSFACEBOOK: facebook.com/inflightvideo\nTWITTER: twitter.com/inflightvideo\nINSTAGRAM: instagram.com/inflightvideo\n\nAirline:  Southwest Airlines\nFlight:  WN22\nAircraft:  Boeing 737-500 N520SW\nFrom:  Dallas Love Field (DAL)\nTo:  Lubbock, TX (LBB)\nDeparture:  13:15\nArrival:  14:00\nFlight Time:  0:45\nSeat:  16F\nFlight Path: https://goo.gl/injvKP\n\nOur flight today begins on stand at Dallas' Love Field Airport.  Once boarding is complete we push back and taxi to the runway, ahead of a 50 minute flight to the remote airport at Lubbock, TX.  After a smooth flight we enter a bumpy descent into Lubbock, landing on runway 08.\n\nFilmed from seat 16F\n#inflightVideo #FullFlight #FullFlightVideo",source:"youtube",source_id:"28lCQNgqNQ0",type:"Flight",stops:[],postdate:new Date(1485180015000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/noel-philips/2017/southwest-airlines-full-flight-or-dallas-to-lubbock-tx-or-boeing-737-500.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

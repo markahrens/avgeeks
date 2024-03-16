@@ -1,0 +1,10 @@
+const id = "alex-praglowski/2017/first-737-max-flight-in-canada-westjet-737-max-8-c-frax-takeoff-from-calgary-airport";
+const collection = "trips";
+const data = {name:"First 737 MAX Flight in Canada! WestJet 737 MAX 8 [C-FRAX] Takeoff from Calgary Airport ᴴᴰ",description:"On October 11th, shortly after the employee/media event you saw in my previous video, WestJet's other 737 MAX took to the skies over Calgary with several lucky WestJet employees on board. This flight was the first flight of a 737 MAX within Canada, and I'm glad to have been there to film it! Here we have C-FRAX starting up its two brand new LEAP-1B engines, taxiing, and departing runway 35L on this special 1 hour flight. ATC is included, hope you enjoy!\n\nThanks for watching!\n\n#WestJet737MAX\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nFLIGHT INFO\nAirline: WestJet (WJA/WS)\nAircraft: Boeing 737 MAX 8 (B38M)\nAircraft Name: None\nLivery: Revised (2015 -)\nEngines: 2x CFMI LEAP-1B\nRegistration: C-FRAX\nRoute: Calgary (YYC) - BINVO - Calgary (YYC)\nCallsign: WestJet 8991\nRunway used: 35L\nDate filmed: October 11, 2017\nFlightAware: http://flightaware.com/live/flight/CFRAX\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nOfficial Website: http://www.alexpraglowski.ca\nChannel: https://www.youtube.com/dude8472productions\nFacebook: https://www.facebook.com/AlexPAviation\nInstagram: https://www.instagram.com/ap.aviationphotography\nTwitter: https://www.twitter.com/AlexPYYC\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\n© Alex Praglowski Aviation 2017\n\nThis video is the property of Alex Praglowski Aviation and may not be used for any purpose without prior permission. \n\nMEDIA: Please contact me at the email in the \"About\" section of my channel.",source:"youtube",source_id:"yANGw4OwdJI",type:"Flight",stops:[],postdate:new Date(1507859735000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/alex-praglowski/2017/first-737-max-flight-in-canada-westjet-737-max-8-c-frax-takeoff-from-calgary-airport.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

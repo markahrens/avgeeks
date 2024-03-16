@@ -1,0 +1,10 @@
+const id = "alex-praglowski/2015/cathay-pacific-777-367er-b-kqo-landing-at-vancouver-airport";
+const collection = "trips";
+const data = {name:"Cathay Pacific 777-367ER [B-KQO] Landing at Vancouver Airport ᴴᴰ",description:"Another upload from Vancouver! YVR is such a fun airport to spot at. Here we have one of Cathay Pacific's two daily flights into Vancouver, Flight 838 arriving on Runway 26R from Hong Kong. This video of Cathay Pacific is dedicated to CathayA340, a spotting channel from New York City, featuring content from New York JFK and EWR. The link is below. Enjoy the video, and have patience, more Tokyo stuff is coming soon!\n\nThanks for watching! Please comment, rate, and subscribe!\n________________________________________­­____________\n\nFLIGHT INFO\nAirline: Cathay Pacific Airways (CPA/CX)\nAircraft: Boeing 777-300ER (B77W)\nAircraft Name: None\nLivery: Standard\nEngines: 2x GE90-115B\nRegistration: B-KQO\nRoute: HKG-YVR\nCallsign: Cathay 838 Heavy\nRunway used: 26R\nFlightAware: http://flightaware.com/live/flight/BKQO\n________________________________________­­____________\n\nPrevious video: https://www.youtube.com/watch?v=LGKJg_Puq-U\nFacebook: http://www.facebook.com/dude8472productions\nMy Channel: http://www.youtube.com/dude8472productions\nCathayA340: http://www.youtube.com/user/NYCPlanespotting\nGoogle Plus: http://www.google.com/+dude8472productions\nSubscribe: http://www.youtube.com/subscription_center?add_user=dude8472productions\nMy Website: http://www.dude8472productions.com\n________________________________________­­____________\n\n© dude8472productions 2015\n\nThis video is the property of dude8472productions and may not be used in any way without permission.",source:"youtube",source_id:"000IgCPCnEM",type:"Flight",stops:[],postdate:new Date(1428459443000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/alex-praglowski/2015/cathay-pacific-777-367er-b-kqo-landing-at-vancouver-airport.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

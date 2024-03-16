@@ -1,0 +1,10 @@
+const id = "alex-praglowski/2017/classic-airbus-fedex-a310-324f-n808fd-close-up-taxi-and-takeoff-from-calgary-airport";
+const collection = "trips";
+const data = {name:"Classic Airbus! FedEx A310-324F [N808FD] Close Up Taxi and Takeoff from Calgary Airport ᴴᴰ",description:"FedEx's Airbus A310 fleet has been steadily retiring for the past few years, down to just six now. This is their second-oldest A310, at just under 30 years old now. It sure makes for some great sound and some awesome smoke trails! These birds have been in and out of YYC with no real regular schedule, but thanks to daylight savings, it departs with (some) light again. Hope to film more, including their oldest bird of all, N803FD, which is nearly 32 years old! ATC is included, enjoy this classic Airbus!\n\nThanks for watching!\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nFLIGHT INFO\nAirline: FedEx (FDX/FX)\nAircraft: Airbus A310-300F (A313)\nAircraft Name: Berkeley\nLivery: Standard\nEngines: 2x Pratt and Whitney PW4152 \nRegistration: N808FD\nRoute: YYC-MEM\nCallsign: FedEx 141 heavy\nRunway used: 17L\nDate filmed: March 14, 2017\nLocal time: 2000\nFlightAware: http://flightaware.com/live/flight/N808FD\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\nFlickr: https://www.flickr.com/photos/dude8472productions/\nTwitter: https://www.twitter.com/dude8472_YYC\nInstagram: https://www.instagram.com/dude8472productions\nChannel: https://www.youtube.com/dude8472productions\nOfficial Website: https://www.dude8472productions.com\n\n-=-=-=-=-=-=-=-=-=-=-=-\n\n© dude8472productions 2017\n\nThis video is the property of dude8472productions and may not be used in any way without permission.",source:"youtube",source_id:"wItltXrRjVU",type:"Flight",stops:[],postdate:new Date(1489805934000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/alex-praglowski/2017/classic-airbus-fedex-a310-324f-n808fd-close-up-taxi-and-takeoff-from-calgary-airport.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

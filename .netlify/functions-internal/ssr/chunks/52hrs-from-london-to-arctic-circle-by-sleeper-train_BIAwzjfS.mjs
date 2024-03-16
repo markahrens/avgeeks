@@ -1,0 +1,10 @@
+const id = "trek-trendy/2023/52hrs-from-london-to-arctic-circle-by-sleeper-train";
+const collection = "trips";
+const data = {name:"52hrs from London to Arctic Circle by Sleeper Train",description:"Download Opera for free: https://opr.as/Opera-browser-trek-trendy\n\nToday i'm taking a sleeper train to the Arctic Circle! Starting in London i'll travel through the channel tunnel by Eurostar to Belgium where i'll connect onto the ICE high speed train to Hamburg. From Hamburg we'll catch the Swedish sleeper train to Stockholm and from there, finally we'll take the 18 hour Norway express to the Arctic Circle. This will take us to one of the world's most northernly train stations, well into the Arctic Circle and as far North as I've ever been. I'll share with you my full experience, from the food, showering onboard, the beds and the overall cost.  \n\n0:00 - Intro\n1:54 - Eurostar\n4:51 - ICE train\n8:18 - Swedish Sleeper train\n13:49 - Norway Sleeper train\n21:46 - The Cost",source:"youtube",source_id:"sYZjpNupgkM",type:"Flight",stops:[],postdate:new Date(1702843218000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/trek-trendy/2023/52hrs-from-london-to-arctic-circle-by-sleeper-train.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

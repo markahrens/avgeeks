@@ -1,0 +1,10 @@
+const id = "alex-praglowski/2014/cargolux-747-4r7f-lx-rcv-daylight-landing-in-calgary";
+const collection = "trips";
+const data = {name:"Cargolux 747-4R7F [LX-RCV] Daylight Landing in Calgary ᴴᴰ",description:"PLEASE READ DESCRIPTION!\nIt's very rare to see Cargolux in daylight at Calgary Airport, but even rarer to see one of their 747-400s in daylight! Usually it's the 747-8s. Anyway, here is Cargolux's Friday night flight arriving over 15 hours late at 5PM Saturday afternoon.\n\nIf you notice that the video looks slightly different than my others, it's because I got a new camera! It's a Panasonic HC-V750, and the quality is pretty darn nice! There isn't really anything wrong with my current camera though, and this one was pretty expensive, so I'm not sure if I'll keep it...\n\nThanks for watching! Please comment, rate, and subscribe!\n____________________________________________________\n\nFLIGHT INFO\nAirline: Cargolux Airlines International (CLX/CV)\nAircraft: Boeing 747-400F (B744)\nRegistration: LX-RCV\nRoute: LAX-YYC\nCallsign: Cargolux 775 Heavy\nRunway used: 17R\nFlightAware: http://flightaware.com/live/flight/LXRCV\n____________________________________________________\n\nPrevious video: https://www.youtube.com/watch?v=zZgw9MP5RjQ\nMy Channel: http://www.youtube.com/dude8472productions\nFollow me on Facebook: https://www.facebook.com/dude8472productions\nSubscribe: http://www.youtube.com/subscription_center?add_user=dude8472productions\nMy Website: http://www.planespottinginternational.com\n____________________________________________________\n\n© dude8472productions 2014\n\nThis video is the property of dude8472productions and may not be used in any way without permission.",source:"youtube",source_id:"C839k-v2U1s",type:"Flight",stops:[],postdate:new Date(1405365552000)};
+const _internal = {
+	type: 'data',
+	filePath: "/Users/markahrens/Sites/avgeek/src/content/trips/alex-praglowski/2014/cargolux-747-4r7f-lx-rcv-daylight-landing-in-calgary.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };
