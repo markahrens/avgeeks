@@ -17,7 +17,7 @@ const { title } = Astro.props;
 		<title>{title} | AvGeek Portal</title>
 		<link rel="preconnect" href="https://fonts.googleapis.com">
 		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-		<link href="https://fonts.googleapis.com/css2?family=Overpass:wght@300;500;600&display=swap" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css2?family=Karla:ital,wght@0,200..800;1,200..800&display=swap" rel="stylesheet" />
 		<link
       rel='stylesheet'
       href='https://unpkg.com/leaflet@1.8.0/dist/leaflet.css'
@@ -50,8 +50,9 @@ const { title } = Astro.props;
 		--darkColorAlt: #7EA6F4
 	}
 	html {
-		font-family: 'Overpass', sans-serif;
-		font-weight: 300;
+		font-family: 'Karla', sans-serif;
+		font-weight: 400;
+		font-optical-sizing: auto;
 	}
 	body {
 		margin: 0;
@@ -59,7 +60,7 @@ const { title } = Astro.props;
 	nav {
 		display: flex;
 		justify-content: space-between;
-		font-weight: 500;
+		font-weight: 600;
 		margin-bottom: 40px;
 		padding: 8px;
 		background-color: var(--darkColor);

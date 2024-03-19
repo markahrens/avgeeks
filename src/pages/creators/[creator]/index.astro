@@ -53,12 +53,6 @@ function sortingStops(a, b) {
   </div>
   
   <div class="creator-content">
-    <div class="creator-stats">
-      <h2>Stops</h2>
-      {stops.map(stop => (
-        <p>{stop[2].data.name} ({stop[0].toUpperCase()})- {stop[1]}</p>
-      ))}
-    </div>
     <div class="creator-videos">
       <h2>Videos</h2>
       <div class="trips-listing">
@@ -72,7 +66,12 @@ function sortingStops(a, b) {
         ))}
       </div>
     </div>
-
+    <div class="creator-stats">
+      <h2>Stops</h2>
+      {stops.map(stop => (
+        <p>{stop[2].data.name} ({stop[0].toUpperCase()}) - {stop[1]}</p>
+      ))}
+    </div>
   </div>
   
 
