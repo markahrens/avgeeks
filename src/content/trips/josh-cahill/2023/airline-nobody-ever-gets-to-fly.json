@@ -4,7 +4,7 @@
  "source": "youtube",
  "source_id": "Sj6WOsxUGE0",
  "type": "Flight",
- "company": "",
- "stops": [],
+ "company": "Myanmar Airways",
+ "stops": ["HAN","RGN","BKK"],
  "postdate": "2023-12-30T10:00:17Z"
 }

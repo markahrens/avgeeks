@@ -4,7 +4,7 @@
  "source": "youtube",
  "source_id": "RFpPKWzCMfk",
  "type": "Flight",
- "company": "",
- "stops": [],
+ "company": "Salam Air",
+ "stops": ["IST","MCT","CMB"],
  "postdate": "2023-12-26T09:00:15Z"
 }

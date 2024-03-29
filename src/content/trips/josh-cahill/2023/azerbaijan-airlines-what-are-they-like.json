@@ -4,7 +4,7 @@
  "source": "youtube",
  "source_id": "vIaP8_f47wE",
  "type": "Flight",
- "company": "",
- "stops": [],
+ "company": "Azerbaijan Airlines",
+ "stops": ["GYD","DXB"],
  "postdate": "2023-10-28T09:00:41Z"
 }

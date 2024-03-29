@@ -4,7 +4,7 @@
  "source": "youtube",
  "source_id": "UpmXC5czR3Y",
  "type": "Flight",
- "company": "",
- "stops": [],
+ "company": "China Airlines",
+ "stops": ["TPE","HKG"],
  "postdate": "2023-04-01T10:00:19Z"
 }

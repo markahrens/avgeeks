@@ -4,7 +4,7 @@
  "source": "youtube",
  "source_id": "UYFyEn90whc",
  "type": "Flight",
- "company": "",
- "stops": [],
+ "company": "Starlux Airlines",
+ "stops": ["SIN","TPE"],
  "postdate": "2023-03-04T10:00:14Z"
 }

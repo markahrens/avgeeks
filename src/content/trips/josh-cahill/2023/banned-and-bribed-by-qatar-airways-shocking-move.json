@@ -4,7 +4,7 @@
  "source": "youtube",
  "source_id": "UI-qYSDgg38",
  "type": "Flight",
- "company": "",
- "stops": [],
+ "company": "Qatar Airways",
+ "stops": ["CMB"],
  "postdate": "2023-12-16T10:00:25Z"
 }
