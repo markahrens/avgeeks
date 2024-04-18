@@ -5,6 +5,6 @@
  "source_id": "176TW0KdMoA",
  "type": "Flight",
  "company": "European Sleeper",
- "stops": [],
+ "stops": ["station/ZYR","station/XYG"],
  "postdate": "2024-04-07T11:27:26Z"
 }
